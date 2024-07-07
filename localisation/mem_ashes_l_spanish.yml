@@ -1,0 +1,78 @@
+﻿#Among the Ashes
+#By ViolentBeetle
+
+l_spanish:
+
+ mem_ashes_category:0 "Tierra quemada"
+ mem_ashes_category_desc:0 "La superficie estéril de [Root.GetName] está completamente desprovista de vida. Pero esto podría no haber sido siempre así..."
+ 
+ mem_ashes.999.name:0 "Definitivamente un mundo estéril"
+ mem_ashes.999.desc:0 "[Root.GetName] informa que repetidos barridos de [FromFrom.GetName] han confirmado una completa falta de cualquier signo de vida, pasado o presente. \n\nCualquier indicación en contrario ha resultado ser una falsa pista."
+ 
+ mem_ashes.1.name:0 "Debajo de la superficie"
+ mem_ashes.1.desc:0 "Aunque la superficie de [From.GetName] está azotada por la radiación cósmica y está completamente desprovista de toda vida, lo que yace debajo cuenta una historia diferente. \n\nParece que el planeta fue en algún momento hogar de una civilización pre-espacial moderadamente avanzada, y nuestros exploradores han encontrado múltiples estructuras subterráneas, presumiblemente utilizadas para almacenamiento, transporte y refugio. La más significativa de estas es una pieza sobreviviente de un sistema de tránsito rápido subterráneo, conectado a un vasto búnker, presumiblemente un refugio antinuclear. Dentro, descubrieron una gran cantidad de cápsulas de estasis primitivas montadas apresuradamente, aún operativas y conteniendo alienígenas en animación suspendida. \n\nEl complejo está demasiado dañado para ser reactivado en el lugar, pero podríamos extraer las cápsulas y llevarlas fuera del mundo para un examen más conveniente y posible reactivación."
+ mem_ashes.1.a:0 "Tráelos a casa. Quizás los alienígenas puedan ser salvados."
+ mem_ashes.1.b:0 "Deja las cápsulas en su lugar. No tenemos tiempo para esto."
+ mem_ashes.1.c:0 "Deshazte de los alienígenas indefensos."
+ 
+ mem_ashes_underground:0 "Ruinas subterráneas"
+ mem_ashes_underground_desc:0 "Aunque la superficie del planeta ha sido limpiada de vida, se han encontrado los restos de una civilización que una vez la habitó bajo tierra."
+ 
+ mem_ashes_snack:0 "Bocadillos congelados"
+ country_resource_food_add:0 "Comida mensual"
+ 
+ mem_ashes_chain_title:0 "De las cenizas"
+ mem_ashes_chain_desc:0 "Las cápsulas de sueño que encontramos en [their_planet.GetName] contienen los últimos supervivientes conocidos de la destrucción del planeta."
+ 
+ MEM_ASHES_EXTRACT:0 "Extraer las Cápsulas de Sueño"
+ MEM_ASHES_EXTRACT_DESC:0 "Las cápsulas de sueño fueron claramente construidas apresuradamente con una tecnología muy primitiva. Los estragos del tiempo las hicieron aún más poco fiables. Moverlas fuera del mundo requerirá delicadeza y precisión."
+ 
+ mem_ashes.2.name:0 "Cápsulas de Sueño Recuperadas"
+ mem_ashes.2.desc:0 "Hemos transferido con éxito las cápsulas de sueño de [their_planet.GetName] a una instalación segura en nuestro mundo natal. Reactivarlas podría ser complicado, pero nuestra tecnología debería permitirnos hacerlo sin incidentes."
+ mem_ashes.2.a:0 "Deberíamos considerar nuestras opciones..."
+ 
+ MEM_ASHES_REVIVE:0 "Revivir a los Durmientes"
+ MEM_ASHES_REVIVE_DESC:0 "Ahora podemos revivir a los alienígenas que encontramos en [their_planet.GetName]. Las cápsulas no son particularmente estables, pero tenemos la tecnología necesaria para trabajar alrededor de los posibles peligros."
+ 
+ MEM_ASHES_AUTOPSY:0 "Autopsia de los Durmientes"
+ MEM_ASHES_AUTOPSY_DESC:0 "No hay mucha necesidad de despertar a los alienígenas de [their_planet.GetName]. Diseccionar sus cuerpos aún vivos, pero congelados, nos diría más que cualquier conversación con ellos despiertos."
+ 
+ mem_ashes.3.name:0 "Durmientes Revividos"
+ mem_ashes.3.desc:0 "Nos llevó un esfuerzo considerable activar con éxito los protocolos de reactivación en las cápsulas de sueño de [their_planet.GetName]. A medida que se calibraba el software de traducción, los supervivientes pudieron compartir su historia... \n\nSe llaman a sí mismos los [their_species.GetNamePlural]. Su especie había avanzado a la temprana era espacial, pero con su primera nave espacial interplanetaria ya en construcción, descubrieron actividad anormal en su sol. Anticipándose a una llamarada solar cataclísmica, sus gobiernos organizaron en secreto el uso de antiguos refugios antinucleares para almacenar a los mejores y más brillantes de su sociedad utilizando tecnología criogénica primitiva. \n\nEl plan era revivirlos para iniciar una nueva civilización una vez que el peligro hubiera pasado, pero la llamarada fue mucho más severa de lo que cualquiera podría haber anticipado. \n\nCon toda la superficie del planeta esterilizada y la atmósfera arrastrada, la señal de todo despejado nunca fue recibida y las cápsulas se dejaron degradar hasta que la última cápsula superviviente fue recuperada por nuestros investigadores. \n\nAhora, sin embargo, como los durmientes han despertado y se han aclimatado, no podemos mantenerlos en nuestras instalaciones de investigación para siempre. Se necesita organizar un nuevo alojamiento permanente..."
+ mem_ashes.3.a:0 "Establecerlos entre nosotros como parte de nuestro imperio."
+ mem_ashes.3.a.tooltip:0 "§Y[planet_to_colonize.GetName]§! será colonizado por los [their_species.GetNamePlural]."
+ mem_ashes.3.b:0 "Darles un sistema y establecer un protectorado."
+ mem_ashes.3.b.tooltip:0 "§Y[planet_to_colonize.GetName]§! será colonizado por los [their_species.GetNamePlural]. [planet_to_colonize.Solar_System.GetName] será cedido a ellos y su país será nuestro vasallo."
+ mem_ashes.3.c:0 "Dejarlos establecerse en uno de nuestros mundos."
+ mem_ashes.3.c.tooltip:0 "Los [their_species.GetNamePlural] se establecerán en uno de nuestros planetas que tenga espacio disponible."
+ mem_ashes_need_free_space:0 "Necesita espacio libre en uno de los planetas aptos para ser colonizados por los supervivientes."
+ mem_ashes.3.d:0 "Enviarlos a hacer las maletas."
+ mem_ashes.3.d.tooltip:0 "Los [their_species.GetNamePlural] serán exiliados de nuestro imperio para encontrar su propio hogar. Quizás volveremos a saber de ellos..."
+ 
+ mem_ashes_survivors:0 "Supervivientes Persistentes"
+ mem_ashes_survivors_desc:0 "Estas especies sobrevivieron a la destrucción de su mundo natal y se les dio una segunda oportunidad. Tienen la intención de aprovecharla al máximo."
+ 
+ mem_ashes.4.name:0 "Autopsia de los Durmientes Completada"
+ mem_ashes.4.desc:0 "Nuestros científicos han completado la disección de los habitantes de las cápsulas que encontramos en [their_planet.GetName]. Los datos obtenidos son invaluables, pero con los últimos supervivientes de esas especies encontrando su fin en nuestras mesas de examen, su especie ha sido exterminada para siempre."
+ mem_ashes.4.a:0 "Esa es la vida."
+ mem_ashes.4.b:0 "¡Vale la pena!"
+ mem_ashes.4.c:0 "Extracción de datos exitosa."
+ 
+ mem_ashes.6.name:0 "[their_country.GetName]"
+ mem_ashes.6.desc:0 "¡Saludos! ¿Nos recuerdas? \n\nAunque es lamentable que no fueras capaz o dispuesto a ofrecernos un lugar en tu propio imperio, no hemos olvidado tu bondad y siempre estaremos agradecidos contigo por habernos salvado de esa bóveda. \n\nEstamos bien y ya hemos encontrado un nuevo mundo para nosotros. Uno de nuestros líderes, que fue instrumental en la creación de la iniciativa de la bóveda en primer lugar, ha expresado el deseo de unirse a tu imperio y proporcionar experiencia como signo de nuestra gratitud. ¿Estás interesado?"
+ mem_ashes.6.a:0 "No particularmente, no."
+ mem_ashes.6.b:0 "Muy bien."
+ mem_ashes.6.b.tooltip:0 "¡Recibiremos un nuevo §Ygobernador§!"
+ 
+ MEM_ASHES_ASSIMILATION:0 "Asimilar a los Durmientes"
+ MEM_ASHES_ASSIMILATION_DESC:0 "Es una oportunidad rara trabajar en orgánicos que son incapaces de protestar su asimilación. Ni siquiera necesitarán despertar para que aprendamos su pasado y todo sobre ellos."
+ 
+ mem_ashes.7.title:0 "Durmientes Asimilados"
+ mem_ashes.7.desc:0 "Nos llevó un esfuerzo considerable extraer con éxito a los sujetos de las cápsulas de sueño encontradas en [their_planet.GetName]. A medida que los añadíamos a nuestro colectivo, reconstruimos su historia. \n\nSe llaman a sí mismos [their_species.GetNamePlural]. Su especie había avanzado hasta la temprana era espacial, pero con su primera nave espacial interplanetaria ya en construcción, descubrieron actividad anormal en su sol. Anticipándose a una llamarada solar cataclísmica, sus gobiernos organizaron en secreto el uso de antiguos refugios antinucleares para almacenar a los mejores y más brillantes de su sociedad utilizando tecnología criogénica primitiva. \n\nEl plan era revivirlos para iniciar una nueva civilización una vez que el peligro hubiera pasado, pero la llamarada fue mucho más severa de lo que cualquiera podría haber anticipado. \n\nCon toda la superficie del planeta esterilizada y la atmósfera arrasada, la señal de todo despejado nunca fue recibida y las cápsulas se dejaron degradar hasta que la última cápsula superviviente fue recuperada por nosotros.\n\nAhora, con el gran número de [their_species.GetNamePlural] que han sido reactivados, necesitamos establecer un arreglo más permanente para ellos."
+mem_ashes.7.a:0 "Establézcanlos en uno de nuestros planetas."
+ mem_ashes.7.a.tooltip:0 "Los [their_species.GetNamePlural] recién asimilados serán colocados en [planet_to_colonize.GetName]."
+ mem_ashes.7.b:0 "Desháganse de ellos. No tienen lugar en [Root.GetName]."
+ mem_ashes.7.b.tooltip:0 "Los [their_species.GetNamePlural] serán exterminados."
+ 
+ mem_ashes_leader_trait:0 "Sobreviviente Persistente"
+ mem_ashes_leader_trait_desc:0 "Este líder ha sobrevivido a la destrucción de su mundo y tiene la intención de aprovechar al máximo su segunda oportunidad."

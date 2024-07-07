@@ -1,0 +1,24 @@
+﻿# Additional Surveyor Localisations, to avoid mixup with already translated
+
+l_spanish:
+
+ origin_mem_ceaseless_gaze: "Mirada Incesante"
+ origin_mem_ceaseless_gaze_desc: "En el pasado distante, esta civilización pudo lanzar una multitud de sondas de reconocimiento que monitorearían el desarrollo del universo. Un desastre acabó con su antigua civilización y sus capacidades espaciales, y ahora están listos para llegar a las estrellas una vez más."
+ origin_tooltip_mem_ceaseless_gaze: "Comienza con un §YMundo Reliquia§! como tu mundo natal. \nSe garantiza que una §SSonda Topográfica§! aparecerá en algún lugar de la galaxia. Aunque no te reconoce como sus amos, tendrás contacto con ella."
+ START_SCREEN_MEM_CEASELESS_GAZE: "Nuestros antepasados, aunque viajaban por el espacio, han descuidado expandirse por la galaxia. En cambio, construyeron una serie de sondas sofisticadas capaces de detectar y neutralizar cualquier amenaza alienígena. En su creencia de que una vigilancia galáctica adecuada los mantendría a salvo, se volvieron complacientes, y cuando un desastre devastó nuestro mundo natal, no estaban preparados. \n\nEn los siglos que nos llevó reconstruir, las sondas de Clase "Mirada Incesante" han viajado lejos por la galaxia antes de regresar a [Capital_Scope.GetName], presentando informes que nadie podía descifrar y solicitando nuevas órdenes de sus creadores muertos. Aunque hemos intentado contactarlos muchas veces, no nos reconocieron como los legítimos sucesores del Imperio Alkree que los había construido. \n\nCon el tiempo, las sondas se descompusieron o fueron destruidas. Hoy, casi todas han cesado sus operaciones... excepto una. Ahora estamos una vez más listos para dejar los confines de nuestro hogar ancestral. No cometeremos los mismos errores del antiguo Imperio, pero CG-7442 sigue ahí y representa una cantidad desconocida."
+
+ mem_surveyor.100.origin.1: "Pareces familiar. ¿Nos hemos conocido antes?"
+ mem_surveyor.100.origin.2: "Si mis cálculos son correctos, hay un 85% de posibilidades de que el [Root.GetName] sea un estado sucesor legítimo del §SImperio Alkree§!. Estimo un margen de error dentro del 122%. \n\nLo que significa que hay un 37% de posibilidades de que en realidad seas el anti-sucesor del Imperio Alkree. O quizás sucesor del Anti-Imperio Alkree. Una implicación bastante aterradora."
+ mem_surveyor.100.d: "Nuestros antepasados te construyeron. ¿No te das cuenta?"
+ mem_surveyor.100.d.answer: "Estás haciendo una afirmación bastante audaz... Pero también es infundada, y las implicaciones infundadas son malas. \n\nDe hecho, no son mejores que las mentiras. Y las mentiras son malas. Las mentiras son tan malas, que deberían ser ilegales, y bien podrían serlo dependiendo de la jurisdicción en la que te encuentres (o afirmes estar sin pruebas). Por favor, no hagas afirmaciones infundadas."
+
+ mem_surveyor_fc_1: "Estamos rastreando una sola sonda que viaja por el espacio."
+ mem_surveyor.601.name: "Sonda Solitaria"
+ mem_surveyor.601.desc: "El seguimiento remoto de §H[This.ContactCountry.GetName]§! confirma la observación inicial de que es una sola sonda autónoma y no parte de una flota más grande. Hemos interceptado una corriente de datos que se envían a una región remota del espacio, pero hasta ahora no hemos interceptado ninguna respuesta."
+ mem_surveyor_fc_2: "Hemos encontrado una forma de comunicarnos con la sonda."
+ mem_surveyor.602.name: "Contactando a la Sonda"
+ mem_surveyor.602.desc: "Hemos logrado descifrar parcialmente el código de las señales de la sonda y enviar una solicitud de comunicaciones. Después de algunos intentos, finalmente estamos obteniendo una respuesta."
+
+ mem_surveyor.5.desc.fc: "Está bien, está bien. Hablaré contigo. Solo sal de este canal muy importante, muy muy privado. \n\nSoy una sonda de reconocimiento diseñada y empleada por el §YImperio Alkree§! para explorar la galaxia y evaluar la situación para mis creadores. Mi objetivo principal es identificar y contener cualquier amenaza planteada por la vida alienígena para el futuro de los Alkree. En este momento, esta unidad ha realizado §S[mem_surveyor_country.mem_surveyor_iteration_count]§! barridos. Tiempo estimado para la finalización: §S-1955 años§!."
+
+ 

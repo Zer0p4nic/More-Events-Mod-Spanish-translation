@@ -1,9 +1,0 @@
-﻿l_spanish:
- MEM_A_STAR_SURVEY:0 "Estudiar estrella de Clase A"
- MEM_A_STAR_SURVEY_DESC:0 "Realizar investigación en una estrella azul."
- MEM_K_STAR_SURVEY:0 "Estudiar estrella de Clase K"
- MEM_K_STAR_SURVEY_DESC:0 "Realizar investigación en una estrella naranja."
- MEM_M_STAR_SURVEY:0 "Estudiar estrella de Clase M"
- MEM_M_STAR_SURVEY_DESC:0 "Realizar investigación en una enana roja."
- MEM_RARE_STAR_SURVEY:0 "Estudiar estrella compacta"
- MEM_RARE_STAR_SURVEY_DESC: "Realizar investigación en una estrella que fue supernova y luego colapsó."

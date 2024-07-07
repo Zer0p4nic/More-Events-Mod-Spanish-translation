@@ -1,0 +1,33 @@
+﻿l_spanish:
+
+ d_mem_ancient_library_deposit:0 "Biblioteca Antigua"
+ d_mem_ancient_library_deposit_desc:0 "Aunque la civilización que construyó este lugar desapareció hace mucho tiempo, sus escritos permanecen hasta el día de hoy."
+
+ mem_enterprise_fallen_category:0 "Ruinas Antiguas"
+ mem_enterprise_fallen_category_desc:0 "Nuestro equipo de estudio ha encontrado algunos edificios relativamente intactos en §Y[From.GetName]§! que podrían valer la pena investigar."
+ mem_enterprise_fallen.1.name:0 "La Gran Biblioteca"
+ mem_enterprise_fallen.1.desc:0 "Nuestro equipo de ciencias ha dado en el clavo. El complejo de edificios antiguos que estaban explorando resultó ser una especie de gran biblioteca de esta antigua civilización. Tomará años, si no décadas, estudiar todo lo que se almacena allí."
+ 
+ mem_enterprise_fallen.2.name:0 "Sin Nuevos Hallazgos"
+ mem_enterprise_fallen.2.desc:0 "Aunque los edificios antiguos estaban relativamente intactos, nuestro equipo de ciencia no pudo encontrar nada para ampliar nuestro conocimiento sobre sus antiguos residentes. Todo el personal está de vuelta a bordo del §Y[Root.GetName]§! y listo para seguir adelante."
+ 
+ mem_enterprise_fallen.3.name:0 "Nave estelar de los caídos"
+ mem_enterprise_fallen.3.desc:0 "Un estudio más detallado de este mundo tumba y los documentos históricos que descubrimos ha indicado que sus antiguos habitantes pueden haber sido más avanzados de lo que pensábamos anteriormente. Los documentos y esquemas recuperados de la superficie incluyen exámenes detallados de una nave estelar avanzada. Esto puede merecer una investigación más profunda."
+ mem_enterprise_fallen.3.a:0 "Interesante de hecho."
+ 
+ MEM_ENTERPRISE_FALLEN_PROJECT:0 "Nave estelar de los caídos"
+ MEM_ENTERPRISE_FALLEN_PROJECT_DESC:0 "Nuestros equipos de Ciencia que trabajan en §Y[ruins_planet.GetName]§! están solicitando personal adicional para averiguar más sobre esta nave y su posible ubicación."
+ 
+ mem_enterprise_fallen.4.name:0 "Nave estelar de los caídos"
+ mem_enterprise_fallen.4.desc_default:0 "Las investigaciones revelaron un archivo detallado que puede llevar años estudiar en su totalidad. Sin embargo, la conclusión inmediata es clara: La nave conocida como el "Proyecto" no existe.\n\nNunca lo hizo. Los habitantes de §Y[ruins_planet.GetName]§! tenían una imaginación muy creativa y fantaseaban extensamente sobre la exploración del espacio. El "Proyecto" era la nave ficticia que "abrió un camino hacia las estrellas".\nNo hay datos de investigación que se puedan obtener del análisis del archivo, pero puede ser de interés para un coleccionista o la industria del entretenimiento."
+ mem_enterprise_fallen.4.desc_xenophile:0 "Las investigaciones revelaron un archivo detallado que puede llevar años estudiar en su totalidad. Sin embargo, la conclusión inmediata es clara: La nave conocida como la "Actividad" no existe.\n\nQué lástima. Los habitantes de §Y[ruins_planet.GetName]§! eran muy parecidos a nosotros: soñaban con mundos y civilizaciones extrañas, y crearon una larga historia de aventuras en serie sobre lo que pensaban que sería el espacio. La nave estelar "Actividad" y su intrépido capitán encajarían perfectamente en nuestra marina, si sólo la gente de §Y[ruins_planet.GetName]§! hubiera sobrevivido.\n\nLos recordaremos. §Y[Root.GetLeaderName]§! ha creado un programa para traducir el archivo a nuestro idioma. Da la orden y lo dispersaremos entre la población.\n\nSi es lo suficientemente popular, incluso podríamos hacer nuevos episodios. Que estos viajes continúen."
+ mem_enterprise_fallen.4.desc_xenophobe:0 "Los habitantes de §Y[ruins_planet.GetName]§! eran retorcidos, incluso para los estándares alienígenas. Revisar sus grabaciones ha dejado a §Y[Root.GetLeaderName]§! permanentemente trastornado. Su supuesta nave, ahora conocida para nosotros como el "Challenger", no era más que una telenovela. Aún así, es bueno ver que su locura está escrita en su planeta en cráteres de explosiones nucleares.\n\nAunque estas grabaciones son inútiles para nuestros científicos, podríamos editarlas para fines de propaganda o simplemente venderlas a... coleccionistas. Sólo da la orden."
+ mem_enterprise_fallen.4.a:0 "Vende todo al mejor postor."
+ mem_enterprise_fallen.4.b:0 "¡Pasen las cintas!"
+ mem_enterprise_fallen.4.c:0 "Muestra a nuestra gente lo que sucede cuando la pureza flaquea."
+ 
+ mem_enterprise_fallen.4.b.tooltip:0 "(Población pacifista): Se añade el modificador §YCon Valentía§! durante §Y12§! meses, dando los siguientes efectos:\n   Felicidad: §G+5%§!\n   Divergencia Ética: §G-5%§! "
+ mem_enterprise_fallen.4.c.tooltip:0 "(Población xenófoba):\n   Se añade el modificador §YAlegría Maliciosa§! durante §Y12§! meses, dando §G+5%§! Felicidad"
+ 
+ mem_boldly_going:0 "Avanzando audazmente"
+ mem_malicious_joy:0 "Alegría maliciosa"

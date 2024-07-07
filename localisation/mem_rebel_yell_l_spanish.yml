@@ -1,0 +1,97 @@
+﻿# Rebel Yell
+# By ViolentBeetle
+
+l_spanish:
+ 
+ pc_mem_broken_city: "$pc_broken$"
+ pc_mem_broken_city_desc: "Este planeta una vez tuvo una ciudad masiva que cubría toda su superficie, pero algún tipo de evento cataclísmico ha desgarrado el planeta. \n\nLos restos de arcologías masivas todavía son discernibles desde la órbita, retorcidos y desgarrados por fuerzas masivas."
+ 
+ mem_rebel_yell.1.name: "Sistema Encantado"
+ mem_rebel_yell.1.desc: "El sistema [From.GetName] parece contener restos de un compromiso masivo. \n\nA pesar de que la batalla tuvo lugar hace mucho tiempo, el espacio todavía está lleno de una gran cantidad de escombros orbitales. Pero hay algo más en este sistema. \n\nEl [Root.GetName] informa que ha detectado una señal débil que se transmite desde allí, pero a pesar de todos los esfuerzos no pudimos identificar su origen. Investigar la fuente de la señal requeriría equipos más potentes y precisos, mejor ubicados en un puesto estacionario."
+ mem_rebel_yell.1.a: "Qué extraño..."
+ mem_rebel_yell.1.a.tooltip: "Para localizar la fuente de la señal, deberíamos construir un §Soutpost§! en el sistema [From.GetName]."
+ mem_rebel_yell.1.b: "Toma nota del sistema."
+ mem_rebel_yell.1.b.tooltip: "$mem_rebel_yell.1.a.tooltip$ \nSe añadirá un §YPunto de Interés§! a nuestro registro de situaciones."
+ mem_rebel_yell.poi.1.name: "El Sistema [the_system.GetName]"
+ mem_rebel_yell.poi.1.desc: "Deberíamos construir y mantener un puesto aquí."
+ mem_rebel_yell.2.name: "Señal en el Sistema [the_system.GetName]"
+ mem_rebel_yell.2.desc: "Hemos mantenido nuestra presencia en el sistema [the_system.GetName] durante bastante tiempo, y hoy finalmente pudimos rastrear la señal hasta el [the_planet.GetPlanetMoon] [the_planet.GetName]. \n\nLa transmisión oculta envía el mismo mensaje encriptado en repetición, y al estudiarlo cerca del punto de origen, deberíamos poder aprender más."
+ mem_rebel_yell.2.a: "Debemos llegar al fondo de esto."
+ mem_rebel_yell.2.b: "Olvídalo."
+ mem_rebel_yell.3.name: "Grito Rebelde"
+ mem_rebel_yell.3.desc: "Nuestra investigación de [the_planet.GetName] ha devuelto resultados. El [Root.GetName] pudo grabar y descifrar completamente la señal que se origina en el [the_planet.GetPlanetMoon].\n\nLa señal es una transmisión militar dirigida a 'Naves de Resistencia' que pasan por el sistema. \n\nPor lo que [Leader.GetName] puede deducir, [the_system.GetName] fue el sitio de una derrota masiva para dicha Resistencia hace unos dos mil años, y las fuerzas contra las que lucharon los aniquilaron por completo.\n\nLa transmisión está instruyendo a los supervivientes a retirarse al sistema designado. Sin embargo, las coordenadas de ese sistema no coinciden con la red de hipervías tal como se conoce. ¿Están equivocados, o hay otra forma de llegar allí?"
+ mem_rebel_yell.4.name: "Descubierto Agujero de Gusano en el Sistema [the_system.GetName]"
+ mem_rebel_yell.4.desc: "Nuestra visión sobre la señal encriptada transmitida a través del sistema [the_system.GetName] nos ha permitido ver más allá de algún tipo de interferencia que había estado ocultando un agujero de gusano en las afueras del sistema. ¿Quizás esta sea la forma de llegar a las coordenadas especificadas en el mensaje encriptado?"
+ mem_rebel_yell.4.a: "Deberíamos investigar este agujero de gusano."
+ mem_rebel_yell.4.a.tooltip: "Un nuevo §Sagujero de gusano§! se ha abierto en el §Y[the_system.GetName] sistema§!."
+ # mem_rebel_yell.4.b: "SUSTITUIRME"
+ # mem_rebel_yell.poi.2.name: "SUSTITUIRME"
+ # mem_rebel_yell.poi.2.desc: "SUSTITUIRME"
+ 
+ MEM_REBEL_YELL_RESOLVE_SIGNAL: "Decodificar la Señal"
+ MEM_REBEL_YELL_RESOLVE_SIGNAL_DESC: "La extraña señal se origina en §Y[the_planet.GetName]§! antes de ser rebotada por todo el sistema para ocultar su origen. Deberíamos acercarnos a la fuente, estudiarla y, con suerte, descifrarla."
+ 
+ mem_rebel_yell_poi_chain_title: "Sistema Embrujado"
+ mem_rebel_yell_poi_chain_desc: "Una señal débil está acechando el [the_system.GetName] sistema. Tener un puesto avanzado allí debería permitirnos eventualmente averiguar más."
+ 
+ mem_rebel_yell_investigation_chain_title: "Señal Secreta"
+ mem_rebel_yell_investigation_chain_desc: "Una señal débil está acechando el [the_system.GetName] sistema. Deberíamos llegar al fondo de esto."
+ 
+ mem_rebel_yell_paladin:0 "$battleship$"
+ mem_rebel_yell_paladin_plural:0 "$battleship_plural$"
+ shipsize_mem_rebel_yell_paladin_construction_speed_mult:0 ""
+ shipsize_mem_rebel_yell_paladin_build_cost_mult:0 ""
+ shipsize_mem_rebel_yell_paladin_upkeep_mult:0 ""
+ mem_rebel_yell_knight:0 "Interceptor"
+ mem_rebel_yell_knight_plural:0 "Interceptores"
+ shipsize_mem_rebel_yell_knight_construction_speed_mult:0 ""
+ shipsize_mem_rebel_yell_knight_build_cost_mult:0 ""
+ shipsize_mem_rebel_yell_knight_upkeep_mult:0 ""
+ 
+ mem_rebel_yell_paladin_section_key:0 ""
+ mem_rebel_yell_knight_section_key:0 ""
+ 
+ MEM_REBEL_YELL_XL_WEAPON: "Impactor de Partículas Exóticas de Alta Energía"
+ MEM_REBEL_YELL_M_WEAPON: "Impactor de Partículas Exóticas"
+ 
+ mem_rebel_yell.5.name:0 "El Último Reducto"
+ mem_rebel_yell.5.desc:0 "Al otro lado del agujero de gusano, hemos descubierto una pequeña flota estacionada en órbita de uno de los planetas. Esto parece ser donde la Resistencia se ha refugiado después de su derrota. \n\nA pesar de su avanzada edad, las naves están en bastante buen estado y están fuertemente armadas. Las firmas de energía aún son detectables dentro de las naves - deberíamos acercarnos con precaución."
+ mem_rebel_yell.7.desc:0 "¡Alto! ¿Quién eres tú? ¿Por qué estás disparando a mi nave? ¡Deja de disparar a mi nave! ¡Identifícate!"
+ mem_rebel_yell.7.a:0 "Nos disparaste primero. ¿Quién eres tú?"
+ mem_rebel_yell.8.desc:0 "Bien, no pareces... ellos. Así que eso es un alivio. \n\nYo soy [princess.GetName], del Reino [princess_species.GetName]. Mi padre una vez lideró la galaxia en una lucha desesperada contra criaturas que se llamaban a sí mismas los Vazurans. Fallamos. Nuestras flotas fueron destruidas, y nuestros mundos cayeron uno por uno. \n\nEventualmente, nos vimos obligados a retirarnos a un sistema oculto, aquí. Esperábamos que vinieran más supervivientes, pero en vano - nadie vino. Una vez que nuestras provisiones comenzaron a agotarse, transferimos el control de nuestras naves a un custodio automático y nos pusimos en sueño criogénico. Con el tiempo, las cápsulas de sueño fallaron o tuvieron que ser apagadas para conservar energía y preservar al personal más vital. Eventualmente solo quedó el superviviente de mayor rango. Esa sería yo. \n\nTu ataque parece haber desactivado nuestro sistema de IA, forzando mi despertar de emergencia. \n\nLos sistemas de la nave están fallando, y mi tiempo se está agotando. No hay lugar para mí en esta galaxia. Quienquiera que seas, estoy dispuesta a jurar lealtad y mi nave insignia a cambio de rescate."
+ mem_rebel_yell.8.a:0 "Aceptamos tu oferta."
+ mem_rebel_yell.8.b:0 "Te rescataremos, pero desguazaremos la nave."
+ mem_rebel_yell.8.c:0 "Podríamos usar tu nave. Pero no a ti."
+ mem_rebel_yell.8.d:0 "No te necesitamos a ti ni a tu nave."
+ mem_rebel_yell.8.e:0 "¿Vazurans? Nosotros también nos hemos encontrado con ellos."
+ mem_rebel_yell.8.e.response:0 "Me duele mucho saber que esos monstruos todavía aterrorizan la galaxia, tantos años después de que caímos ante ellos. \n\nPero debería haberlo esperado. Nada parecía ser capaz de detenerlos."
+ 
+ mem_rebel_yell_custodian_trait:0 "Custodio de la Resistencia"
+ mem_rebel_yell_custodian_trait_desc:0 "Este sistema de IA ha sido puesto a cargo de una flota en hibernación. ¡Viva la Resistencia!"
+ mem_rebel_yell_recon_custodian_trait:0 "Custodio de Reconocimiento de la Resistencia"
+ mem_rebel_yell_recon_custodian_trait_desc:0 "Este sistema de IA ha sido puesto a cargo de una flota de exploración mientras la tripulación está indispuesta. ¡Viva la Resistencia!"
+ mem_rebel_yell_princess_trait:0 "Princesa Rebelde"
+ mem_rebel_yell_princess_trait_desc:0 "Una experimentada princesa guerrera que una vez lideró la flota real contra la Amenaza Vazuran."
+ 
+#  The anomaly is now attached to Stuck in Glacier
+#  mem_rebel_yell_silver_lining_category:0 "Rayo de Esperanza"
+#  mem_rebel_yell_silver_lining_category_desc:0 "Estamos detectando la presencia de un gran objeto metálico dentro del hielo del asteroide de [This.GetName]. El perfil coincide con la forma de una nave espacial militar."
+ 
+ mem_rebel_yell.9.name:0 "Rayo de Esperanza"
+ mem_rebel_yell.9.desc:0 "El [Root.GetName] confirma la teoría inicial de que el objeto dentro de la corteza helada de [From.GetName] es una nave. Presumiblemente, aterrizó en la superficie hace unos dos mil años y luego fue cubierta por el crecimiento del hielo. Recuperar la nave sería complicado, pero no es nada que nuestras naves de construcción no puedan manejar."
+ mem_rebel_yell.9.a:0 "Ponte en ello."
+ mem_rebel_yell.10.name:0 "Caballero Perdido"
+ mem_rebel_yell.10.desc:0 "El [Root.GetName] informa que los esfuerzos para recuperar la nave de [From.GetName] fueron un éxito. A juzgar por los registros a bordo, la nave era un interceptor de Clase "Caballero de Plata" en servicio de patrulla cuando se vio obligado a esconderse en el asteroide para evadir a un enemigo superior. El piloto se refugió dentro de una cámara de estasis y pereció cuando se agotó la energía. \n\nA pesar de pasar mucho tiempo dentro de un asteroide de hielo, la nave está en un estado notablemente bueno y puede ser puesta en servicio. Posee algunas armas de diseño altamente poco ortodoxo."
+ mem_rebel_yell.10.a:0 "Poner la nave en servicio."
+ mem_rebel_yell.10.a.tooltip:0 "Obtener una nueva nave de guerra."
+ mem_rebel_yell.10.b:0 "Desguazar la nave para obtener componentes."
+ mem_rebel_yell.10.c:0 "Desmontar la nave para estudiarla."
+ 
+ MEM_REBEL_YELL_RECOVER_SHIP:0 "Recuperar la Nave Congelada"
+ MEM_REBEL_YELL_RECOVER_SHIP_DESC:0 "Dentro del espeso hielo de [the_asteroid.GetName], estamos detectando la presencia de una nave. Deberíamos poder cortarla usando equipo especializado en una nave de construcción."
+ 
+ mem_rebel_yell_knight_salvage_section_key: ""
+ 
+ mem_rebel_yell.12.name: "Alerta de intruso"
+ mem_rebel_yell.12.desc: "Estamos detectando una flota hostil en el sistema [signal_system.GetName]. Parece haber entrado a través del agujero de gusano con algún propósito desconocido."
+ mem_rebel_yell.12.a: "¡A las estaciones de batalla!"

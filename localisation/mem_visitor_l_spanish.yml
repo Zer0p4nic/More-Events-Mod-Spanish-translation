@@ -1,0 +1,156 @@
+﻿l_spanish:
+ 
+ 
+ mem_visitor.2.name:0 "Evento de Impacto"
+ mem_visitor.2.desc:0 "Nuestro puesto de observación sobre §Y[mem_visitor_planet.GetName]§! ha detectado una firma de calor del planeta que coincide con el perfil de una reentrada atmosférica seguida de un impacto en la superficie. \n\nUn asteroide lo suficientemente pequeño para pasar desapercibido ante nuestros sensores se quemaría antes de golpear el suelo, y el hecho de que la firma muestre un impacto sugiere que este evento podría no ser natural. El impacto ocurrió en una zona rural que está escasamente poblada, con algunas grandes asentamientos. Como resultado, la estimación de bajas es baja o nula, y hay una posibilidad de que podamos recuperar el objeto sin que los nativos se den cuenta."
+ mem_visitor.2a:0 "Deberíamos recuperarlo para nosotros mismos."
+ mem_visitor.2a.phile:0 "Debemos recuperar el objeto antes de que contamine su civilización."
+ mem_visitor.2a.phobe:0 "Los salvajes no deberían tener acceso a esta tecnología."
+ mem_visitor.2a.tooltip:0 "La tripulación del puesto de observación intentará recuperar el objeto."
+ mem_visitor.2b:0 "Deberíamos dejarlo estar."
+ mem_visitor.2b.phile:0 "Lo que cae en su planeta es de ellos para mantener."
+ mem_visitor.2b.phobe:0 "Ignora esa basura espacial."
+ mem_visitor.2b.tooltip:0 "La tripulación del puesto de observación dejará el objeto para los nativos."
+ mem_visitor.2c:0 "Esteriliza el área antes de que cause problemas."
+ mem_visitor.2c.tooltip:0 "La tripulación del puesto de observación destruirá el objeto con un ataque orbital."
+ 
+ mem_visitor.31.name:0 "Objeto Asegurado"
+ mem_visitor.31.desc:0 "La lanzadera encubierta enviada desde el puesto de observación sobre §Y[mem_visitor_planet.GetName]§! ha aterrizado con éxito en la escena con un equipo especial y ha logrado recuperar el objeto antes de que llegaran los nativos para verlos. Con el pequeño objeto artificial a salvo en sus manos, han partido sin ser notados."
+ mem_visitor.31a:0 "Buen trabajo."
+ mem_visitor.31a.tooltip:0 "El objeto será entregado a nuestro mundo natal para su estudio."
+ 
+ mem_visitor.32.name:0 "Ya Es Muy Tarde"
+ mem_visitor.32.desc:0 "El equipo enviado desde el puesto de observación sobre §Y[mem_visitor_planet.GetName]§! llegó demasiado tarde. Un grupo de nativos ya había llegado al lugar del impacto y se había ido con el pequeño objeto no identificado. Recuperarlo ahora expondría a nuestro personal a un peligro adicional, y a toda nuestra operación a la exposición."
+ mem_visitor.32a:0 "Deberíamos robarlo de vuelta."
+ mem_visitor.32a.tooltip:0 "El puesto de observación enviará un equipo para recuperar el objeto de los nativos de manera encubierta."
+ mem_visitor.32b:0 "Bien, pueden quedárselo."
+ mem_visitor.32b.tooltip:0 "Se permitirá a los nativos quedarse con el objeto."
+ 
+ mem_visitor.41.name:0 "Robo Exitoso"
+ mem_visitor.41.desc:0 "Usando imágenes de satélite, nuestro equipo ha infiltrado con éxito el lugar donde los nativos que encontraron el objeto se habían detenido por la noche. Nuestros agentes robaron con éxito el objeto y se fueron sin ser notados, sin causar daño."
+ mem_visitor.41a:0 "Buen trabajo."
+ 
+ mem_visitor.42.name:0 "Un Incidente Desafortunado"
+ mem_visitor.42.desc:0 "Nuestro equipo ha encontrado a los nativos que habían llevado el objeto a un asentamiento cercano. Sin embargo, en nuestro intento de recuperarlo de manera encubierta, nuestros agentes fueron descubiertos y atacados por los primitivos en pánico, que se asustaron por nuestra apariencia alienígena. \n\nEn la lucha que siguió, la mayoría de los atacantes fueron aturdidos y sus memorias borradas; sin embargo, no podemos estar seguros de que no hemos dejado testigos. El objeto, sin embargo, fue recuperado con éxito."
+ mem_visitor.42a:0 "Al menos obtuvimos algunos resultados."
+ mem_visitor.42a.tooltip:0 "El objeto será entregado a nuestro mundo natal para su estudio, pero los nativos podrían darse cuenta de nuestras acciones y volverse más §Ymilitaristas§! o §Yxenofóbicos§!."
+ 
+ mem_visitor.43.name:0 "Masacre"
+ mem_visitor.43.desc:0 "Nuestro equipo ha encontrado a los nativos que habían llevado el objeto a un asentamiento cercano. Sin embargo, en nuestro intento de recuperarlo de manera encubierta, nuestros agentes fueron descubiertos y atacados por los primitivos en pánico, que se asustaron por nuestra apariencia alienígena. \n\nEn la lucha que siguió, un gran número de atacantes fueron asesinados, y el resto huyó. Será difícil contener la situación ahora, con tantos testigos sobrevivientes y rastros de la carnicería. El objeto, sin embargo, fue recuperado con éxito."
+ mem_visitor.43a:0 "Muy desafortunado."
+ mem_visitor.43a.phile:0 "Trágico."
+ mem_visitor.43a.phobe:0 "Y nada de valor se perdió."
+ mem_visitor.43a.tooltip:0 "El objeto será entregado a nuestro mundo natal para su estudio, pero los nativos seguramente se darán cuenta de nuestras acciones y se volverán más §Ymilitaristas§! o §Yxenofóbicos§!."
+ 
+ mem_visitor.44.name:0 "Misión Fallida"
+ mem_visitor.44.desc:0 " Nuestro equipo ha encontrado a los nativos que habían llevado el objeto a un asentamiento cercano. Sin embargo, en nuestro intento de recuperarlo de manera encubierta, nuestros agentes fueron descubiertos y atacados por los primitivos en pánico, que se asustaron por nuestra apariencia alienígena. \n\nSin querer usar fuerza letal contra los agresores, el equipo de extracción intentó huir, lo que resultó en la muerte de varios agentes, la pérdida del objeto y la posible filtración desastrosa de información."
+ mem_visitor.44a:0 "Esto es un desastre."
+ mem_visitor.44a.phobe:0 "¿Realmente valía la pena?"
+ mem_visitor.44a.tooltip:0 "La misión para obtener el objeto ha fallado, y es probable que los nativos se den cuenta de nuestras acciones recientes y se vuelvan más §Ymilitaristas§! o §Yxenofóbicos§!."
+ ##Whoever wrote the above check 44a.tooltip. I think it should be the same as 45a.tooltip
+ mem_visitor.45.name:0 "Misión Fallida"
+ mem_visitor.45.desc:0 "A pesar de los mejores esfuerzos del personal del puesto de observación y del equipo de recuperación, han perdido la pista del objeto. Tendremos que esperar a que vuelva a aparecer entre los nativos."
+ mem_visitor.45a:0 "Muy desafortunado."
+ mem_visitor.45a.tooltip:0 "Tendremos que esperar y ver si el objeto vuelve a aparecer."
+ 
+ mem_visitor.5.name:0 "Esterilización"
+ mem_visitor.5.desc:0 "Una lanzadera desplegada desde nuestro puesto de observación ha desplegado un misil de rendimiento medio desde una gran altitud. Golpeó directamente el lugar del impacto. Después de que se asentó el polvo, nuestra vigilancia ya no pudo detectar ningún objeto extraño en el lugar, y con un poco de suerte deberíamos poder pasar este evento como un segundo golpe de meteorito en el mismo lugar."
+ mem_visitor.5a:0 "Eso puede pasar, ¿verdad?"
+ mem_visitor.5a.tooltip:0 "Los nativos pueden o no darse cuenta de nuestras acciones."
+ 
+ mem_visitor.52.name:0 "Consecuencias de la Esterilización: Desarrollo Religioso"
+ mem_visitor.52.desc:0 "Nuestras acciones en §Y[mem_visitor_planet.GetName]§! fueron notadas por los nativos. Muchos tomaron la doble detonación como una señal divina y surgieron múltiples lugares de culto en los bordes del cráter. Varias sectas religiosas basadas en el evento se están extendiendo por todo el planeta."
+ mem_visitor.52a:0 "Interesante."
+ mem_visitor.52a.tooltip:0 "Nuestras acciones han hecho que los nativos se vuelvan más §Yespiritualistas§!."
+ 
+ mem_visitor.53.name:0 "Consecuencias de la Esterilización: Se sospecha de una trama alienígena"
+ mem_visitor.53.desc:0 "Parece que las autoridades en §Y[mem_visitor_planet.GetName]§! han identificado nuestras acciones como una incursión alienígena. Sin conocer el cuadro completo, están culpando a la doble detonación en una fuerza alienígena desconocida y están considerando inversiones importantes en el ejército para repeler la invasión esperada."
+ mem_visitor.53a:0 "Preocupante"
+ mem_visitor.53a.phile:0 "¿Qué hemos hecho?!"
+ mem_visitor.53a.tooltip:0 "Los nativos se dieron cuenta de nuestras acciones y se están preparando para defenderse de futuras incursiones. Esto los hará más §Ymilitaristas§!, §Yxenófobos§! o §Ymaterialistas§!."
+ 
+ mem_visitor.54.name:0 "Secuelas de la Esterilización: Tensiones en Aumento"
+ mem_visitor.54.desc:0 "Parece que las autoridades en §Y[mem_visitor_planet.GetName]§! no sospechan de ninguna participación extraterrestre, pero tampoco creen en la historia del impacto de un meteorito. Las acusaciones de desarrollo y prueba de armas de destrucción masiva están volando y la tensión internacional es mayor que nunca."
+ mem_visitor.54a:0 "Preocupante"
+ mem_visitor.54a.phile:0 "¿Qué hemos hecho?"
+ mem_visitor.54a.tooltip:0 "Nuestras acciones han causado que la tensión entre los nativos crezca. Esto los ha hecho más §Ymilitaristas§! y podría llevar a una guerra entre las principales naciones en el futuro."
+ 
+ mem_visitor.61.name:0 "Perdido y Nunca Encontrado"
+ mem_visitor.61.desc:0 "Hace un tiempo desde que el misterioso objeto impactó en la superficie de §Y[mem_visitor_planet.GetName]§! y no hemos sabido de él desde entonces. Nuestros expertos en el puesto de observación creen firmemente que se perdió para siempre."
+ mem_visitor.61a:0 "Mucho ruido y pocas nueces."
+ 
+ mem_visitor.62.name:0 "Profeta de las Estrellas"
+ mem_visitor.62.desc:0 "Parece que los nativos que recuperaron el objeto ahora lo veneran como una especie de entidad divina. Determinamos que el objeto es efectivamente capaz de hablar y posee una IA rudimentaria, pero sus balbuceos incoherentes son imposibles de descifrar y son bastante inútiles. Cuál era su propósito original y de dónde vino sigue siendo un misterio."
+ mem_visitor.62a:0 "Pero su efecto en la sociedad es muy interesante."
+ mem_visitor.62a.tooltip:0 "Con su nuevo líder religioso, los nativos se vuelven más §Yespiritualistas§!."
+ 
+ mem_visitor.63.name:0 "Amenaza Alienígena"
+ mem_visitor.63.desc:0 "El objeto que recientemente se estrelló en §Y[mem_visitor_planet.GetName]§! ha resurgido de nuevo en forma de una gran exposición por parte de uno de los gobiernos del planeta. En una reunión de los principales expertos científicos y líderes de las principales naciones, el objeto fue presentado como la prueba definitiva de la vida alienígena. \n\nLos discursos durante la exposición subrayan el peligro que apunta el descubrimiento, y qué medidas deben tomarse para defenderse de él. "Esto cambia todo", señaló el científico principal, "y debemos estar preparados."
+ mem_visitor.63a:0 "Preocupante."
+ mem_visitor.63a.phobe:0 "No los salvará."
+ mem_visitor.63a.tooltip:0 "Los nativos se están preparando para luchar contra las incursiones alienígenas. Esto los hará más §Ymilitaristas§!, §Yxenófobos§! o §Ymaterialistas§!."
+ 
+ mem_visitor.64.name:0 "Maestro Alienígena"
+ mem_visitor.64.desc:0 "El objeto que recientemente se estrelló en §Y[mem_visitor_planet.GetName]§! fue revelado hoy a la población general por los principales científicos del planeta. Parece ser una especie de banco de datos interactivo que les suministra tecnología avanzada. \n\nLos científicos citan esto como la prueba definitiva de una inteligencia benevolente esperando en las profundidades del espacio, y urgen a la gente a invertir en el progreso científico para encontrarse con los alienígenas entre las estrellas."
+ mem_visitor.64a:0 "Interesante."
+ mem_visitor.64a.phobe:0 "Qué ingenuos."
+ mem_visitor.64a.phile:0 "Estaremos esperando."
+ mem_visitor.64a.tooltip:0 "Con el conocimiento alienígena extendiéndose por su planeta, el avance de los nativos se ha acelerado. Con su nueva apreciación por el conocimiento alienígena, se volverán más §Ymaterialistas§! o §Yxenófilos§!."
+ 
+ mem_visitor.71.name:0 "Bala Perdida"
+ mem_visitor.71.desc:0 "El objeto que hemos recuperado de §Y[mem_visitor_planet.GetName]§! resultó ser menos interesante de lo que esperábamos. Definitivamente es de origen artificial avanzado, pero desafortunadamente es una bala sólida de un compuesto supersólido. \n\nDespués de eliminar todas las posibilidades y no encontrar ninguna cavidad u otros compartimentos ocultos, tenemos que admitir que probablemente nunca obtendremos mucho de él. El diseño de la bala y su composición material resultan ser algo útiles para nuestra investigación, afortunadamente."
+ mem_visitor.71a:0 "Al menos sacamos algo de ello."
+ 
+ mem_visitor.72.name:0 "Orbe Maníaco"
+ mem_visitor.72.desc:0 "El objeto que se estrelló en la superficie de §Y[mem_visitor_planet.GetName]§! resultó ser una especie de computadora de origen alienígena, encerrada en una carcasa esférica. No pudimos determinar nada sobre sus creadores, pero cuando lo encendimos y establecimos una conexión con algunas de nuestras computadoras, produjo una risa maníaca y se anunció como nuestro señor, antes de darse cuenta de que estaba conectado a una red cableada sellada aislada de cualquier cosa que pueda usar para esclavizarnos. \n\nAhora nos promete grandes recompensas si lo conectamos a una red más grande, pero nuestros científicos no están inclinados a confiar en él."
+ mem_visitor.72a:0 "¿Quizás podamos llegar a algún tipo de acuerdo?"
+ mem_visitor.72b:0 "Destruye la máquina peligrosa."
+ mem_visitor.72c:0 "¡Destruye la máquina blasfema!"
+ mem_visitor.72d:0 "Desmonta el dispositivo y estúdialo."
+ mem_visitor.72a.tooltip:0 "Nuestros científicos negociarán con el orbe."
+ 
+ mem_visitor.73.name:0 "Orbe Petulante"
+ mem_visitor.73.desc:0 "El dispositivo recuperado de §Y[mem_visitor_planet.GetName]§! resultó ser una especie de computadora de origen alienígena, encerrada en una carcasa esférica. El aspecto más notable de ella es su naturaleza parlanchina. Actualmente, está vocalizando por medios normales y también transmitiendo en múltiples frecuencias de radio y parpadeando luces hacia nosotros. \n\nEl mensaje descifrado es siempre el mismo: una demanda para ser devuelto al espacio, en un bucle. Sin embargo, muchos científicos no pueden evitar reírse del lloriqueo petulante del dispositivo."
+ mem_visitor.73a:0 "Devuélvelo al espacio."
+ mem_visitor.73b:0 "Transmite imágenes de él en vivo a través del imperio."
+ 
+ MEM_VISITOR_SEND_ORB_INTO_SPACE:0 "Devolver la Esfera al Espacio"
+ MEM_VISITOR_SEND_ORB_INTO_SPACE_DESC:0 "Si la esfera que tenemos en nuestras manos quiere volver tanto al espacio, estamos felices de complacerla. Como no tiene su propia propulsión, tendríamos que calcular su trayectoria con más cuidado de lo que hemos necesitado durante mucho tiempo."
+ 
+ mem_visitor.731.name:0 "Enviando la Esfera al Espacio"
+ mem_visitor.731.desc:0 "Hemos encargado a un pequeño carguero civil que viaje a las afueras de nuestro sistema natal y lance la esfera a velocidad de escape. Ahora se puede esperar que pase varios miles de años viajando por el espacio interestelar sin incidentes."
+ mem_visitor.731a:0 "Su determinación es inspiradora"
+ mem_visitor.731b:0 "¡Nunca vuelvas!"
+ 
+ mem_visitor.74.name:0 "Banco de Conocimientos"
+ mem_visitor.74.desc:0 "El objeto que recuperamos de §Y[mem_visitor_planet.GetName]§! resultó ser un enorme banco de datos encerrado en una carcasa resistente. No contiene ninguna información sobre su origen; sin embargo, alguien puso bastante información en él con el aparente objetivo de diseminar conocimientos a través de la galaxia. \n\nAlgunos de ellos son redundantes para nosotros, y algunos de ellos son simplemente incorrectos, pero nuestros científicos ya están encontrando gemas de conocimiento que podrían llevar nuestra investigación en nuevas direcciones."
+ mem_visitor.74a:0 "Podríamos usarlo."
+ mem_visitor.74b:0 "No necesitamos ciencia xeno."
+ 
+ mem_visitor.81.name:0 "No hay trato"
+ mem_visitor.81.desc:0 "Parece que las negociaciones con la computadora alienígena han llegado a un punto muerto. Frustrado, uno de los científicos asignados al proyecto introdujo de contrabando algo de hardware de construcción en el laboratorio y descargó su frustración en él con un soplete de plasma. Es poco probable que obtengamos alguna inteligencia útil de lo que ahora es - un charco en el suelo."
+ mem_visitor.81a:0 "Esto fue realmente innecesario."
+ 
+ mem_visitor.82.name:0 "Trato con la Esfera"
+ mem_visitor.82.desc:0 "Hoy hemos llegado a un acuerdo con el dispositivo alienígena. A cambio de su cooperación con nosotros, lo conectamos a un flujo interminable de publicaciones de chismes en las redes de datos de nuestro imperio y más allá. \n\nSus percepciones ya están ayudando a nuestros tácticos militares."
+ mem_visitor.82a:0 "Buen trabajo."
+ 
+ mem_visitor.83.name:0 "¡La Esfera ha Escapado!"
+ mem_visitor.83.desc:0 "Parece que el dispositivo que teníamos en el laboratorio ha encontrado una forma de engañar a nuestros técnicos para que lo envíen a partes desconocidas. Uno de los terminales de datos contenía una nota para "sucios campesinos" (presumiblemente nosotros) con la promesa de no destruirnos ya que podríamos ser instrumentales en sus planes. \n\nYa hemos encontrado alguna influencia en nuestros sistemas succionando datos valiosos y poder de procesamiento, pero también está proporcionando información militar a nuestras naves. Los expertos creen que no debería ser capaz de causar daños duraderos antes de que se localice y se elimine, pero podría llevarles tiempo hacerlo."
+ mem_visitor.83a:0 "Necesitamos detenerlo"
+ 
+ mem_visitor.84.name:0 "Esfera Maniaca Destruida"
+ mem_visitor.84.desc:0 "Hoy finalmente hemos rastreado el dispositivo alienígena que se adhirió a nuestras redes de datos. La fuerza de seguridad enviada para desenchufarlo se enfrentó a la amenaza de electrocución de la red eléctrica local, lo que les animó a usar explosivos para convertir la esfera en polvo fino."
+ mem_visitor.84a:0 "Buen viaje."
+ 
+ mem_visitor.91.name:0 "Misión Abortada"
+ mem_visitor.91.desc:0 "Ya que ya no tenemos un puesto de observación sobre §Y[mem_visitor_planet.GetName]§!, ya no podemos seguir rastreando el objeto que recientemente se estrelló en el planeta."
+ 
+ mem_visitor_destroyed_the_machine:0 "Destruido la Máquina Blasfema"
+ mem_visitor_comedy:0 "Comedia de Oro"
+ mem_visitor_knowledge_rejected:0 "Rechazado Conocimiento Xeno"
+ mem_visitor_looking_at_sky:0 "Mirando al Cielo"
+ mem_visitor_knowledge:0 "Banco de Conocimientos Alienígenas"
+ mem_visitor_maniac_agreement:0 "Trato con la Esfera Maniaca"
+ mem_visitor_maniac_escape:0 "Esfera Maniaca Desatada"
+

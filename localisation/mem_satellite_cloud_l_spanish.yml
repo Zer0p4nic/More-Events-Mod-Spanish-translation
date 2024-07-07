@@ -1,0 +1,64 @@
+﻿l_spanish:
+  #Base
+  mem_satellite_cloud_category:0 "Nube de Satélites"
+  mem_satellite_cloud_category_desc:0 "Nuestros sensores han detectado la presencia de múltiples estructuras sólidas en las proximidades de la estrella §Y[Root.GetName]§!. Se necesitan más exploraciones."
+
+  #Failure 1
+  mem_satellite_cloud.201.name:0 "Fallo de Observación"
+  mem_satellite_cloud.201.desc:0 "El científico §Y[Root.GetLeaderName]§! informa que aunque los objetos artificiales están indudablemente presentes dentro de la corona de la estrella, la fuerte interferencia gravitacional y electromagnética de la estrella hace que observar, y mucho menos recuperar los objetos, sea completamente imposible. Los misteriosos objetos están probablemente para siempre fuera de nuestro alcance."
+
+  #Failure 2
+  mem_satellite_cloud.202.name:0 "Recuperación Fallida"
+  mem_satellite_cloud.202.desc:0 "Los informes iniciales del científico §Y[Root.GetLeaderName]§! revelan cientos de satélites orbitando la estrella. Sin embargo, acercarse a ellos parece haber activado algún tipo de sensor de proximidad, haciendo que toda la nube de satélites encienda sus propulsores de maniobra y se precipite en la corona de la estrella. Incluso si los satélites son de alguna manera capaces de sobrevivir al infierno dentro de la estrella, ahora están completamente más allá de nuestra capacidad para recuperarlos."
+
+  #Critical Failure 1
+  mem_satellite_cloud.301.name:0 "Fallo Crítico de Observación"
+  mem_satellite_cloud.301.desc:0 "Nuestra nave, mientras investigaba las estructuras sólidas orbitando §Y[From.GetName]§!, ha intentado recuperar los objetos más cercanos a la corona de la estrella, y al intentar hacerlo, la nave voló demasiado cerca de la estrella y fue destruida. Los misteriosos objetos están ahora probablemente para siempre fuera de nuestro alcance."
+
+  #Critical Failure 2
+  mem_satellite_cloud.302.name:0 "Drones No Tripulados Despertados"
+  mem_satellite_cloud.302.desc:0 "Hemos recibido una señal de socorro de §Y[Root.GetName]§!. Los objetos a los que fue enviada para observar resultaron ser una bandada de drones no tripulados, yaciendo en estado de hibernación en la corona del sol. Activados por la aproximación de nuestra nave, se están reactivando y están asumiendo posiciones de combate."
+  mem_satellite_cloud.retreat:0 "¡Retirada!"
+
+  #Art Installation
+  mem_satellite_cloud.1.name:0 "Instalación de Arte"
+  mem_satellite_cloud.1.desc:0 "Cientos de objetos prismáticos, cada uno con una forma y estructura única, han sido colocados alrededor de la estrella, permitiendo que la luz de las estrellas pase a través de ellos para ser dispersada en patrones espectrales inusuales. La mayoría de los prismas parecen haber sido desalineados con el tiempo, pero incluso lo poco que todavía queda sólo puede ser descrito como \"hipnotizante\"."
+
+  #Solarium
+  mem_satellite_cloud.2.name:0 "Solarium"
+  mem_satellite_cloud.2.desc:0 "Nuestra observación ha revelado cientos de satélites habitables suspendidos sobre §Y[From.GetName]§! a través de velas solares avanzadas. Una característica notable de cada uno de ellos es una cúpula transparente orientada hacia la estrella, lo que sugiere una increíble tolerancia al calor. Ahora abandonados y aparentemente desmoronándose, estos satélites no pueden ser recuperados de manera segura. Sin embargo, nuestros científicos deberían ser capaces de extraer datos estructurales útiles a través de exploraciones remotas."
+
+  #Cloud Computing
+  mem_satellite_cloud.3.name:0 "Computación en la Nube"
+  mem_satellite_cloud.3.desc:0 "Después de un escaneo exhaustivo, nuestro equipo de ciencia informa de la presencia de una vasta red de satélites avanzados de recolección de energía orbitando la estrella. Según §Y[Root.GetLeaderName]§!, parecen estar vinculados con fibra óptica super tensil, lo que sugiere que la energía que han absorbido estaba destinada a ser utilizada para realizar cálculos de algún tipo. Aunque estos satélites en sí mismos están dañados más allá de la reparación, la tecnología que hemos descubierto nos ha ofrecido una visión de la computación avanzada."
+
+  #Observatory
+  mem_satellite_cloud.4.name:0 "Observatorio"
+  mem_satellite_cloud.4.desc:0 "§Y[Root.GetLeaderName]§! informa de cientos de antenas parabólicas orbitando la estrella §Y[From.GetName]§!, todas dirigidas hacia el exterior. Parece que la nube de satélites había canalizado enormes cantidades de energía de la estrella para enviar y procesar señales entrantes. Aunque ahora están dañados más allá de la reparación o recuperación, la nube de satélites nos ha proporcionado valiosos conocimientos sobre técnicas de observación estelar."
+
+  #Scrap Metal
+  mem_satellite_cloud.5.name:0 "Chatarra"
+  mem_satellite_cloud.5.desc:0 "Una enorme nube de escombros orbita la estrella. Probablemente fue una vez una red de satélites, ahora erosionada casi hasta el punto de no reconocerse por las duras condiciones de tal proximidad a la estrella. Pero incluso los cascos destrozados de esta tecnología alienígena pueden ser recuperados como chatarra y procesados por nuestra industria."
+
+  #Stellar Converter
+  mem_satellite_cloud.6.name:0 "Convertidor Estelar"
+  mem_satellite_cloud.6.desc:0 "Cientos de paneles solares están posicionados cerca de la estrella §Y[From.GetName]§!. Están vinculados a nodos masivos de conversión de energía que parecen haber sido utilizados una vez para canalizar enormes cantidades de energía solar a otro lugar; sin embargo, en su estado actual no pueden ser reactivados o recuperados de forma segura. Aún así, los sistemas supervivientes nos han proporcionado valiosos conocimientos sobre la manipulación avanzada de la energía."
+
+  #Stellar Scoop
+  mem_satellite_cloud.7.name:0 "Recolector Estelar"
+  mem_satellite_cloud.7.desc:0 "Nuestra observación ha revelado cientos de estaciones avanzadas que extraen plasma cargado de la corona de la estrella. Depositado en grandes contenedores, probablemente se suponía que debía ser cargado en naves y entregado a centros de procesamiento. Desafortunadamente, estas estaciones parecen haber sido dejadas sin mantenimiento durante siglos, y la mayoría de los contenedores de almacenamiento están agrietados y goteando. Todo el sistema es demasiado inestable para ser reparado o manipulado de forma segura. Sin embargo, el plasma fácilmente accesible será una bendición para nuestra industria."
+
+  #Pyrovore Colony
+  mem_satellite_cloud.8.name:0 "Colonia Pirovora"
+  mem_satellite_cloud.8.desc:0 "Las estructuras desconocidas resultaron ser grandes cúpulas transparentes orientadas hacia la estrella, lo que sugiere que se utilizaban como invernaderos o laboratorios hidropónicos. La mayoría de ellos están rotos y sin vida, pero extrañamente, en algunos laboratorios, la vida parece prosperar a pesar de (o quizás debido a) las duras condiciones que surgen de su cercanía solar. Grandes colonias de organismos primitivos que de alguna manera se han adaptado al calor extremo y al vacío del espacio están cubriendo los cascos de varios satélites. Probablemente sería imposible mover muestras de estos organismos lejos de la estrella, pero incluso la observación remota será invaluable para estudiar sus adaptaciones únicas."
+
+  mem_satellite_cloud.dissapointing:0 "Decepcionante."
+  mem_satellite_cloud.useful:0 "Eso es útil."
+
+## IGNORE FOR NOW ##
+
+# Translators, only one ship in the fleet has the joke name and one with with meme name. Feel free to translate them however you wish
+# mem_satellite_cloud.fleetname:0 "Drones Solares Antiguos"
+# mem_satellite_cloud.shipname:0 "Dron Solar v2.0b"
+# mem_satellite_cloud.shipnamejoke:0 "Dron Solar v4.2c"
+# mem_satellite_cloud.shipnamememe:0 "El Juego"

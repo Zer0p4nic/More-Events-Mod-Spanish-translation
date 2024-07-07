@@ -1,0 +1,136 @@
+﻿l_spanish:
+ #################################################
+ # Text by Malthus                               #
+ #################################################
+ # Options Menu
+ 
+ # Edict
+ edict_mem_options_menu:0 "MÁS OPCIONES DE MODIFICACIÓN DE EVENTOS"
+ edict_mem_options_menu_desc:0 "Este edicto abre el menú de opciones."
+ mem_dmm_name:0 "MÁS MODIFICACIONES DE EVENTOS"
+
+ # Event Chain
+ mem_options_chain_title:0 "OPCIONES DE MEM"
+ mem_options_chain_desc:0 "Este menú proporciona muchas opciones para personalizar tu juego actual y mejorar tu experiencia en función de tus preferencias. Es totalmente opcional. Si no lo tocas, todo funcionará con la configuración estándar de MEM. Para acceder al menú, solo investiga el proyecto."
+
+ # Options Project
+ MEM_OPTIONS_PROJECT:0 "ACTIVAR MENÚ"
+ MEM_OPTIONS_PROJECT_DESC:0 "Este proyecto abre el menú de opciones."
+ MEM_OPTIONS_REMOVAL_PROJECT:0 "ELIMINAR MENÚ"
+ MEM_OPTIONS_REMOVAL_PROJECT_DESC:0 "Este proyecto desactiva el Menú permanentemente en esta partida. Haz esto solo si no quieres verlo o usarlo nunca más."
+
+ # Basic Functions
+ mem_options.back:0 "ATRÁS"
+ mem_options.exit:0 "SALIR"
+
+ # Main Menu
+ mem_options.4.name:0 "Menú principal"
+ mem_options.4.desc:0 "Aquí puedes elegir entre varias categorías de opciones."
+ mem_options.4.a:0 "Opciones de crisis"
+ mem_options.4.b:0 "Opciones del Mundo Escudo"
+ mem_options.4.c:0 "Activar §GON§! modificador de Paraíso"
+ mem_options.4.c.tooltip:0 "Esto añade el modificador "Mundo Paraíso" a cada planeta gaia y anillo mundial. (Añade un 10% a la felicidad y velocidad de crecimiento, un 5% a toda la producción de recursos y ciencia y un 25% a la atracción de migración de una colonia en ese planeta.)"
+ mem_options.4.d:0 "Desactivar §ROFF§! modificador de Paraíso"
+ mem_options.4.d.tooltip:0 "Esto elimina el modificador "Mundo Paraíso" de cada planeta gaia y anillo mundial. (El modificador añade un 10% a la felicidad y velocidad de crecimiento, un 5% a toda la producción de recursos y ciencia y un 25% a la atracción de migración de una colonia en ese planeta.)"
+ mem_options.4.e:0 "Menú de generación forzada"
+ mem_options.4.f:0 "Vista previa del conjunto de naves Orila"
+ mem_options.4.g:0 "Opciones de Reloj Roto"
+ mem_options.4.h:0 "Opciones de la sonda de reconocimiento"
+ mem_options.4.i:0 "Opciones de la Puerta Huérfana"
+ mem_options.4.j:0 "Cambio de retrato del gobernante"
+ mem_options.4.k:0 "Generación de prueba de naves UE"
+
+ # Vazuran Menu
+ mem_options.5.name:0 "Opciones de crisis"
+ mem_options.5.desc:0 "Aquí puedes elegir entre varias categorías de opciones."
+ mem_options.5.a:0 "§RDesactivar§! Amenaza Vazuran"
+ mem_options.5.a.tooltip:0 "La crisis de la Amenaza Vazuran está actualmente §Gactivada§!"
+ mem_options.5.b:0 "§GActivar§! Amenaza Vazuran"
+ mem_options.5.b.tooltip:0 "La crisis de la Amenaza Vazuran está actualmente §Rdesactivada§!"
+ mem_options.5.c:0 "Arreglar estación estelar con errores en el Sistema Vazuran"
+ mem_options.5.c.tooltip:0 "Si has cargado un juego en el que los Vazuran todavía poseen su sistema, el juego crea una estación estelar no deseada que no puede ser capturada. Usa esto para cambiar la propiedad a tu imperio."
+ mem_options.5.d:0 "Establecer a los Vazuran como hostiles a la IA"
+ mem_options.5.d.tooltip:0 "Actualmente están configurados para ser neutrales hacia los imperios de la IA. Todo el daño se realiza a través de efectos de eventos. Esto es para prevenir que suiciden sus flotas.\n\nEsta opción los configurará para ser hostiles y atacar a cada flota de imperio de la IA que encuentren y actuar como lo hacen cuando atacan a un imperio de jugador."
+ mem_options.5.e:0 "Establecer a los Vazuran como neutrales a la IA"
+ mem_options.5.e.tooltip:0 "Actualmente están configurados para ser hostiles hacia los imperios de la IA. Se comportan como cuando atacan a un imperio de jugador. Esto puede llevar a que la IA suicide sus flotas.\n\nEsta opción los configurará para ser neutrales e ignorar a todas las flotas de imperio de la IA que encuentren. Todo el daño seguirá siendo realizado a través de efectos de eventos."
+
+ # Shield World Menu
+ mem_options.6.name:0 "Menú del Mundo Escudo"
+ mem_options.6.desc:0 "Aquí puedes activar o desactivar varias configuraciones para los Mundos Escudo."
+ mem_options.6.a:0 "Activar §GON§! Efecto de Escudo Planetario"
+ mem_options.6.b:0 "Desactivar §ROFF§! Efecto de Escudo Planetario"
+ mem_options.6.c:0 "Activar §GON§! Efecto de Mundo Escudo"
+ mem_options.6.d:0 "Desactivar §ROFF§! Efecto de Mundo Escudo"
+
+ # Force Spawning Menu
+ mem_options.7.name:0 "Menú de generación forzada"
+ mem_options.7.desc:0 "Aquí puedes generar varias anomalías y eventos."
+ mem_options.7.a:0 "Seleccionar de Anomalías"
+ mem_options.7.b:0 "Seleccionar de Eventos"
+ 
+ # Force Anomaly Spawning Menu
+ mem_options.8.name:0 "Submenú de generación forzada de Anomalías"
+ mem_options.8.desc:0 "Aquí puedes generar varias anomalías. Después de hacer clic en una de las opciones, espera dos días y aparecerá una notificación."
+ mem_options.8.a:0 "Anomalía de Tumba Meca Abandonada"
+ mem_options.8.b:0 "Anomalía de Nave Estelar de los Caídos Tumba Mundial"
+ mem_options.8.c:0 "Anomalía de Tumba Mundial de Matriz"
+ mem_options.8.d:0 "Anomalía de Tanques Gigantes Tumba Mundial"
+ mem_options.8.e:0 "Anomalía de Fortaleza de Lava"
+ mem_options.8.f:0 "Anomalía de Abductores Extintos"
+ 
+ # Force Event Spawning Menu
+ mem_options.9.name:0 "Submenú de generación forzada de Eventos"
+ mem_options.9.desc:0 "Aquí puedes generar varios eventos. Después de hacer clic en una de las opciones, espera dos días y aparecerá una notificación."
+ mem_options.9.a:0 "Ataque de Cristal Espacial"
+ 
+ # Spaning Notification
+ mem_options.10.name:0 "Anomalía Generada"
+ mem_options.10.desc:0 "Haz clic en la cámara para ver la ubicación de generación."
+ 
+ # Orila Ship Preview
+ mem_options.11.name:0 "Vista previa del conjunto de naves Orila"
+ mem_options.11.desc:0 "Aquí puedes generar varias clases de naves de la próxima facción Orila para propósitos de prueba. Aparecerán en tu capital."
+ mem_options.11.a:0 "Generar un Dron Estándar."
+ mem_options.11.b:0 "Generar un Dron de Comando."
+ mem_options.11.c:0 "Generar un Escolta."
+ mem_options.11.d:0 "Generar un Crucero de Ataque."
+ mem_options.11.e:0 "Generar un Leviatán."
+
+ # Broken Clock
+ mem_options.12.name:0 "Submenú de Eventos de Reloj Roto"
+ mem_options.12.desc:0 "Reloj Roto es una nueva cadena de eventos que a veces se activa durante el juego medio con consecuencias similares a una crisis. \n\nAlgunos jugadores pueden encontrar que afecta el equilibrio del juego de formas indeseables, se mezcla mal con mods que alteran el equilibrio o simplemente no se ajusta a su estilo de juego preferido. Antes de que llegue el juego medio, puedes desactivar la crisis, y después de que ha comenzado, puedes terminarla prematuramente. \n\nPor favor, ten en cuenta que tener acceso a este menú no significa que esté garantizado tener esta crisis en este juego."
+ mem_options.12.a:0 "§RDesactivar§! el evento."
+ mem_options.12.b:0 "§GActivar§! el evento."
+ mem_options.12.c:0 "Destruir instantáneamente a los invitados no deseados."
+
+ # Surveyor Probe
+ mem_options.13.name:0 "Submenú de Eventos de la Sonda de Reconocimiento"
+ mem_surveyor.13.desc:0 "La Sonda de Reconocimiento es una nueva facción neutral añadida por el mod que a veces puede aparecer y puede desarrollarse en una crisis de juego medio. Podría interferir con el equilibrio de otros mods o tu estilo de juego preferido, por lo que puedes eliminarla de este juego, siempre y cuando el juego medio no haya comenzado todavía. \n\nEste menú no necesariamente significa que la sonda existe en este juego para empezar."
+ mem_surveyor.13.a:0 "Eliminar Sonda Berserker."
+ mem_surveyor.13.a.tooltip:0 "Sólo puedes hacerlo antes del juego medio."
+ mem_surveyor.13.b:0 "Desencadenar crisis ahora."
+ mem_surveyor.13.b.tooltip:0 "No puedes desencadenar la crisis manualmente en un juego multijugador."
+ mem_surveyor.13.c:0 "Generación forzada de Sonda de Reconocimiento"
+ mem_surveyor.13.c.tooltip:0 "Si la sonda nunca se generó antes, se generará en una ubicación aleatoria."
+
+ # Orphan Gate
+ mem_options.14.name:0 "Submenú de la Puerta Huérfana"
+ mem_options.14.desc:0 "La Puerta Huérfana puede potencialmente generar un imperio avanzado en un cúmulo extragaláctico durante el juego."
+ mem_options.14.a:0 "Prevenir la generación de Sadrell permanentemente"
+
+ # Ruler Portrait Switch
+ mem_options.15.name:0 "Cambio de Retrato del Gobernante"
+ mem_options.15.desc:0 "Con este evento puedes cambiar la apariencia de tu gobernante actual a uno de nuestros retratos únicos y cambiarlo de nuevo a su estado original, siempre y cuando este líder siga siendo tu gobernante."
+ mem_options.15.a:0 "Emperador del Tráiler"
+ mem_options.15.b:0 "Emperador Neochadamus"
+ mem_options.15.c:0 "Primer Orador Chap'Lin"
+ mem_options.15.d:0 "El Viajero"
+ mem_options.15.z:0 "Volver al original."
+
+ # UE Ships
+ mem_options.16.name:0 "Prueba de Generación de Naves UE"
+ mem_options.16.desc:0 ""
+ mem_options.16.a:0 "$corvette$"
+ mem_options.16.b:0 "$destroyer$"
+ mem_options.16.c:0 "$cruiser$"
+ mem_options.16.d:0 "$battleship$"

@@ -1,0 +1,159 @@
+﻿l_spanish:
+
+ mem_placeholder:0 "ESPACIO RESERVADO"
+ mem_czar_alexei_catchphrase:0 "Que nuestro imperio sea un faro brillante, porque la galaxia está oscura y llena de terrores."
+ mem_czar_alexei_backstory:0 "Una vez el gobernante de su pueblo, traicionado y exiliado por sus ambiciosos e ingratos súbditos, todavía tiene una visión que cumplir y llegará hasta el final del universo si es necesario."
+
+ # Relic Sword
+ r_mem_czar_alexei_sword:0 "La Espada del Soberano"
+ r_mem_czar_alexei_sword_desc:0 "Aunque la historia de este artefacto permanece envuelta en misterio, es bastante evidente que es antiguo pero ni manchado por el uso ni por el tiempo. Una verdadera obra maestra."
+ mem_czar_alexei_sword_effect:0 "Termina todas las treguas con otros imperios"
+ mem_czar_alexei_sword:0 "Diplomacia Agresiva"
+
+ # Legendary trait
+ leader_trait_legendary_mem_manifest_destiny:0 "Destino Manifiesto"
+ leader_trait_legendary_mem_manifest_destiny_desc:0 "Una ambición inculcada en la misma tela de este hombre. La voluntad de doblegar el destino y lograr su visión de un futuro aún no visto por la galaxia."
+
+ astral_rift_mem_czar_alexei:0 "Grieta Nexo"
+
+ # Beginning of Astral Rift
+ # Stage 1
+ # Arrival in Orbit
+ mem_czar_alexei.1.name:0 "Grieta Nexo"
+ mem_czar_alexei.1.desc:0 "Hemos llegado en órbita de un mundo habitable. No hay señales aparentes de civilización, pero la superficie está llena de vida.\nAdemás de la grieta por la que llegamos aquí, hay numerosas otras en diferentes fases de actividad. Algunas de ellas están abiertas, permitiendo que los objetos pasen a través, mientras que otras parecen ser inertes.\nNuestros sensores están captando una señal - posiblemente de un baliza de socorro - transmitiendo repetidamente su ubicación en la superficie del hemisferio norte del planeta.\n\n¿Cómo procedemos?"
+ mem_czar_alexei.1.a:0 "Escanea y cataloga las otras grietas para una investigación posterior."
+ mem_czar_alexei.1.b:0 "Dirígete a la ubicación transmitida inmediatamente."
+
+ # Stage 1.5
+ # Scanning the Rifts
+ mem_czar_alexei.2.name:0 "Enemigos Misteriosos"
+ mem_czar_alexei.2.desc:0 "Los resultados preliminares de nuestros escaneos indican que estas grietas conectan este lugar con diferentes realidades paralelas, cada una separada de la otra. Esta observación provocó una animada discusión entre nuestra tripulación ya que nunca se ha descubierto un lugar así en nuestra galaxia. Sin embargo, los debates sobre este tema se interrumpieron cuando otro objeto, aparentemente un vehículo que atraviesa las grietas no muy diferente al nuestro, emergió de una grieta e inmediatamente nos disparó. Muy diferente al nuestro, esta esfera de grieta parece estar fuertemente armada. Los disparos dañaron críticamente nuestros motores subluz y cortaron nuestro cable de remolque.\n\nNuestro piloto, mientras realiza un aterrizaje controlado, hace todo lo posible para acercarnos lo más posible al faro. Esperamos que la señal localizada anteriormente pueda llevarnos a algún tipo de ayuda."
+ mem_czar_alexei.2.a:0 "¡Prepárate para el impacto!"
+
+ # Stage 2
+ # Crashlanding
+ mem_czar_alexei.3.name:0 "Aterrizaje forzoso"
+ mem_czar_alexei.3.desc.a:0 "Después de un violento aterrizaje, nuestra tripulación espera tensamente un golpe final, hasta ahora no ha pasado nada. Según nuestros sensores, los atacantes acaban de pasar por encima de nuestro lugar de choque y abandonaron el área inmediata.\nUna evaluación superficial del daño sufrido deja poco o ninguna duda de que las reparaciones necesarias serán extensas si es que son posibles. Con nuestro cable de remolque desaparecido, dejarnos remolcar de vuelta está fuera de discusión.\n\nEstamos lo suficientemente cerca del faro de señal para hacer nuestro camino a pie con la esperanza de encontrar ayuda o materiales utilizables allí. Alternativamente, podríamos desviarnos a un lugar de choque cercano que nuestros escáneres localizaron anteriormente. Por último, podríamos centrar nuestros esfuerzos en reparar nuestra esfera con lo que tenemos a mano."
+ mem_czar_alexei.3.desc.b:0 "Nuestro descenso a la atmósfera fue interrumpido repentinamente por disparos de armas que dañaron nuestros motores subluz y cortaron nuestro cable de remolque. El atacante, aparentemente una esfera de grieta similar a la nuestra, pero indudablemente más fuertemente armada, debe habernos seguido durante la duración de nuestra estancia, esperando el momento para atacar.\n\n$mem_czar_alexei.3.desc.a$"
+ mem_czar_alexei.3.a:0 "Dirígete a la señal."
+ mem_czar_alexei.3.b:0 "Dirígete al lugar del choque."
+ mem_czar_alexei.3.c:0 "Quédate y haz reparaciones."
+
+ # Stage 2.5
+ # Repairs are Futile
+ mem_czar_alexei.4.name:0 "Las reparaciones son inútiles"
+ # Part 1 also used in 3A
+ mem_czar_alexei.4.desc_1:0 "Una inspección más cercana del daño sufrido por nuestra esfera de grieta deja claro que hay pocas esperanzas de restaurarla a un estado digno de vuelo. Especialmente los recursos limitados a nuestra disposición contribuyen a nuestra situación desesperada.\n\n"
+ # Combined text
+ mem_czar_alexei.4.desc:0 "$mem_czar_alexei.4.desc_1$A medida que la futilidad de nuestros esfuerzos de reparación se ha hecho evidente, todavía quedan dos opciones más prometedoras para nosotros.\n\nEstamos lo suficientemente cerca para hacer nuestro camino al faro de señal con la esperanza de encontrar ayuda o materiales utilizables. Alternativamente, podemos desviarnos a otro lugar de choque que nuestros escáneres han localizado durante nuestro aterrizaje controlado aproximadamente a mitad de camino en la dirección de la señal."
+
+ # Stage 3A
+ # Meeting the Czar
+ # Unexpected Encounter
+ mem_czar_alexei.5.name:0 "Encuentro inesperado"
+ # Combined texts
+ # Signal
+ mem_czar_alexei.5.desc.a:0 "$mem_czar_alexei.6.desc_1$Mientras nuestro equipo todavía estaba evaluando los sistemas restantes en condiciones de trabajo, fueron abordados por un alienígena humanoide, aparentemente el dueño de esta nave, solicitando una audiencia.\n\n$mem_czar_alexei.5.desc$"
+ # Crashsite
+ mem_czar_alexei.5.desc.b:0 "$mem_czar_alexei.7.desc_1$Mientras algunos de nuestros científicos accedían a su núcleo de datos por curiosidad y para extraer los esquemas de la esfera para un estudio posterior, los demás fueron repentinamente recibidos por un alienígena humanoide, solicitando una audiencia.\n\n$mem_czar_alexei.5.desc$"
+ # Repair
+ mem_czar_alexei.5.desc.c:0 "$mem_czar_alexei.4.desc_1$Con la realidad de nuestra situación asentándose lentamente y nuestro equipo debatiendo opciones, fue una gran sorpresa cuando un alienígena humanoide se dio a conocer y solicitó una audiencia.\n\n$mem_czar_alexei.5.desc$"
+ # Part 2 of the text
+ mem_czar_alexei.5.desc:0 "Según él, proviene de otra realidad, habiendo llegado aquí a través de una de las grietas, al igual que nosotros. Las circunstancias específicas de su presencia aquí se mantienen intencionalmente ambiguas, sin embargo.\n\nDurante exploraciones anteriores, sus compañeros supuestamente ya habían entrado en contacto con nuestros atacantes. Los describe como una sociedad tribalista de cazadores, que reclaman este lugar como su terreno de caza personal. Es evidente que no están aquí para cazar animales salvajes. En cambio, sus objetivos elegidos son los exploradores de grietas de todo el multiverso.\n\nNuestro nuevo conocido sugiere trabajar juntos para reclamar la esfera de grieta de nuestro enemigo y dejar este lugar en una sola pieza."
+ mem_czar_alexei.5.a:0 "Coopera con él."
+ mem_czar_alexei.5.b:0 "Úsalo y potencialmente traiciónalo más tarde."
+
+ # Stage 3B
+ # At the Signal
+ mem_czar_alexei.6.name:0 "En la Señal"
+ # Part 1 of the text
+ mem_czar_alexei.6.desc_1:0 "Nuestro equipo llegó a la fuente de la señal transmitida. Ante ellos yacía el naufragio de una esfera de grieta que había aterrizado forzosamente. A juzgar por el daño bastante reciente a la vegetación circundante, no ha estado aquí por mucho tiempo. A pesar de que hay claros signos de habitación reciente, nuestros científicos no encontraron a nadie alrededor.\n\nLa exploración de su interior ofreció pocas pistas sobre el paradero de su tripulación. La nave en sí está más allá de la reparación, al igual que la nuestra. Para sorpresa de nuestro científico, el daño sufrido fue muy similar al de nuestra propia nave.\n\n"
+ # Combined text
+ mem_czar_alexei.6.desc:0 "$mem_czar_alexei.6.desc_1$Los únicos sistemas que aún funcionan son su matriz de comunicaciones y escáneres. Este último nos alertó de un grupo de signos de vida rodeando y cercando nuestra posición justo a tiempo para preparar un curso de acción.\n\n¿Deberíamos quedarnos y luchar, barricarnos y esperar a que irrumpieran o intentar un avance y huir?"
+ mem_czar_alexei.6.a:0 "Intenta un avance y huye."
+ mem_czar_alexei.6.b:0 "Quédate y lucha."
+ mem_czar_alexei.6.c:0 "Barricada nosotros mismos y atraerlos adentro."
+
+ # Stage 3C
+ # At the Crashsite
+ mem_czar_alexei.7.name:0 "En el lugar del accidente"
+ # Part 1 of the text
+ mem_czar_alexei.7.desc_1:0 "Nuestro equipo llegó al sitio de un accidente que debió haber ocurrido hace décadas. El follaje cubría la mitad de los restos de esta esfera de grieta. No se encontraron signos de sus antiguos propietarios. Una rápida inspección reveló un daño aparentemente irreparable a la nave, lo que probablemente llevó a su abandono. Sin embargo, su tecnología parecía mucho más avanzada que la nuestra.\n\n"
+ # Combined text
+ mem_czar_alexei.7.desc:0 "$mem_czar_alexei.7.desc_1$Mientras algunos de nuestros científicos accedieron a su núcleo de datos para extraer los esquemas de la esfera para un estudio posterior, otros intentaron activar los escáneres de la esfera. Su intento fue exitoso y nos proporcionó otra posible forma de avanzar. Además del sitio de la señal, ya somos conscientes de que detectó otra esfera de grieta, probablemente la que nos atacó antes, aterrizada relativamente cerca.\n\nUn grupo de signos de vida se dirige desde ese lugar de aterrizaje hacia la ubicación del faro de señal donde se ha encontrado otro signo de vida, diferente de los demás. Es probable que este individuo haya sido derribado por ellos, al igual que nosotros.\n\nPodríamos intentar llegar a tiempo antes de que lleguen los atacantes. Alternativamente, podríamos usar esta situación a nuestro favor, intentar secuestrar la nave aterrizada y salir de aquí."
+ mem_czar_alexei.7.a:0 "Ir a la señal y esperar una pelea."
+ mem_czar_alexei.7.b:0 "Intenta robar la nave de los atacantes."
+
+ # Stage 4A1
+ # Get the Czar
+ mem_czar_alexei.8.name:0 "Cazador cazado"
+ mem_czar_alexei.8.desc_1:0 "Como se planeó con el extraño, se preparó una emboscada para sorprender a la partida de caza. Poco después de que comenzó la pelea, quedó claro que estaban al tanto de nuestros planes. Al notar la amenaza de que nos flanquearan, nuestro aliado retomó la ofensiva cargando directamente contra el cazador más cercano mientras repelía varios golpes con su escudo. Unos pocos cortes precisos con su espada, que anteriormente confundimos con un artículo puramente ceremonial, derribaron a los dos atacantes que amenazaban nuestro flanco.\n\nMientras el resto de ellos se centraban atónitos en él, nuestro equipo pudo neutralizarlos uno por uno.\n\n"
+ mem_czar_alexei.8.desc:0 "$mem_czar_alexei.8.desc_1$Con los cazadores tratados, su nave fue incautada y nuestro equipo de expedición y su nuevo aliado, que decidió acompañarlos de regreso a nuestro universo, regresaron a través de la grieta."
+ mem_czar_alexei.8.a:0 "¡Demos la bienvenida a los victoriosos!"
+
+ # Stage 4A2
+ # Death in Battle
+ mem_czar_alexei.9.name:0 "Contacto perdido"
+ mem_czar_alexei.9.desc:0 "Como se planeó con el extraño, se preparó una emboscada para sorprender a la partida de caza. Poco después de que comenzó la pelea, quedó claro que estaban al tanto de nuestros planes. Nuestra posición de disparo fue rápidamente flanqueada y la batalla se convirtió en una masacre unilateral.\n\nAquellos que no murieron durante la pelea probablemente fueron tomados prisioneros y se supone que están desaparecidos en acción. Esto marca el final de esta aventura desafortunada."
+ mem_czar_alexei.9.a:0 "Desafortunado de hecho."
+
+ # Stage 4A3
+ # Get the Sword
+ mem_czar_alexei.10.name:0 "Puñalada por la espalda"
+ mem_czar_alexei.10.desc:0 "$mem_czar_alexei.8.desc_1$Con el último de los cazadores tratados, apuntaron al extraño, que para entonces estaba exhausto, abrumaron su escudo con una salva y ataron ese cabo suelto también. Nuestro líder de expedición tomó su espada para traerla de vuelta como un trofeo.\n\nDespués de eso, lo único que quedaba por hacer era incautar la esfera ahora sin dueño con la que llegaron los cazadores y regresar a través de la grieta."
+ mem_czar_alexei.10.a:0 "¡Demos la bienvenida a los victoriosos!"
+
+ # Stage 4B1
+ # Team dies
+ mem_czar_alexei.11.name:0 "Contacto perdido"
+ # Tried to flee
+ mem_czar_alexei.11.desc.a:0 "Nuestro equipo intentó romper el cerco y llegar a un lugar seguro, pero se encontró con una feroz resistencia. El fuego de las armas desde múltiples direcciones los derribó sin piedad uno por uno. $mem_czar_alexei.11.desc_2$"
+ # Tried to fight
+ mem_czar_alexei.11.desc.b:0 "Nuestro equipo intentó enfrentarse al enemigo en campo abierto, pero no fue rival para su superior potencia de fuego. El fuego de las armas desde múltiples direcciones los derribó sin piedad uno por uno. $mem_czar_alexei.11.desc_2$"
+ # Tried to barricade
+ mem_czar_alexei.11.desc.c:0 "Nuestro equipo intentó barricarse dentro de los escombros y forzar al enemigo a entrar en su ángulo de tiro para obtener una ventaja. Traicionando sus expectativas, una explosión detrás de ellos de repente creó una nueva entrada y de inmediato varios hostiles irrumpieron en sus posiciones. $mem_czar_alexei.11.desc_2$"
+ # Came from Crashsite
+ mem_czar_alexei.11.desc.d:0 "Nuestro equipo llegó demasiado tarde para intervenir en la pelea. Solo encontraron unos pocos cadáveres en el suelo. Uno de ellos pertenece al alienígena humanoide y los otros a sus atacantes. Cuando intentaron inspeccionar sus hallazgos más de cerca, de repente quedó claro que habían caído en una trampa. El fuego de las armas desde múltiples direcciones los derribó sin piedad uno por uno. $mem_czar_alexei.11.desc_2$"
+ # Part 2 of the text
+ mem_czar_alexei.11.desc_2:0 "Perdimos contacto con nuestra expedición poco después de que comenzó el tiroteo.\n\nAquellos que no murieron durante la pelea probablemente fueron capturados y se supone que están desaparecidos en acción. Esto marca el final de esta desafortunada aventura."
+
+ # Stage 4B2
+ # Get the Czar
+ mem_czar_alexei.12.name:0 "Un Nuevo Amigo"
+ # from Fight at Signal
+ mem_czar_alexei.12.desc.a:0 "Nuestro equipo se enfrentó al enemigo en campo abierto, pero rápidamente se encontró abrumado por el fuego desde múltiples direcciones y se vio obligado a refugiarse. Agazapados detrás de los escombros, lo mejor que pudieron hacer fue retrasar lo inevitable y resistir hasta el final.\n\nUna explosión repentina eliminó a dos de los atacantes, después de lo cual se produjo una batalla cuerpo a cuerpo con una aparente tercera parte. Con más y más atacantes centrando su atención en la otra fuerza, nuestro equipo tomó la iniciativa. Junto con el recién llegado, que resultó ser solo un humanoide, la batalla fue ganada.\n\n$mem_czar_alexei.12.desc_2$"
+ # from Crashsite
+ mem_czar_alexei.12.desc.b:0 "Nuestro equipo llegó a tiempo para presenciar una pelea en curso entre los atacantes y un humanoide solitario. Mientras recibía múltiples golpes, que parecían ser absorbidos por un escudo personal, el extraño confrontó a sus enemigos en combate cuerpo a cuerpo luchando principalmente con una espada, ocasionalmente disparando a atacantes más distantes con un láser montado en la muñeca para mantenerlos a raya. A pesar de esta valiente exhibición, la fuerza opuesta aún tenía la ventaja.\n\nUsando el elemento sorpresa, nuestro equipo logró derribar a algunos de los atacantes en su primer golpe, lo que inclinó claramente la balanza a nuestro favor. Junto con el extraño, lograron derrotar a la fuerza restante y la batalla fue ganada.\n\n$mem_czar_alexei.12.desc_2$"
+ mem_czar_alexei.12.desc_2:0 "Según él, proviene de otra realidad, habiendo llegado aquí a través de una de las grietas, al igual que nosotros. Las circunstancias específicas de su presencia aquí se mantienen intencionalmente ambiguas, sin embargo.\n\nDurante exploraciones anteriores, sus compañeros supuestamente ya habían entrado en contacto con nuestros atacantes. Los describe como una sociedad tribalista de cazadores, que reclaman este lugar como su coto de caza personal. Es evidente que no estaban aquí para cazar animales salvajes. En cambio, sus objetivos elegidos eran exploradores de grietas de todo el multiverso.\n\nCon los cazadores tratados, su nave fue incautada y nuestra expedición y su nuevo aliado, que decidió acompañarlos de regreso a nuestro universo y regresar a través de la grieta."
+ mem_czar_alexei.12.a:0 "¡Demos la bienvenida a los victoriosos!"
+
+ # Stage 4B3
+ # Get the Sword
+ mem_czar_alexei.13.name:0 "Recuerdo"
+ # from Barricade at Signal
+ mem_czar_alexei.13.desc.a:0 "Nuestro equipo se barricó dentro de los escombros para forzar al enemigo a entrar en su ángulo de tiro y obtener una ventaja. Cuando estaban a punto de entrar en los escombros, de repente se produjo una pelea en el exterior. A medida que nuestro equipo avanzaba hacia la salida, presenciaron una batalla en curso entre los atacantes y un humanoide solitario. $mem_czar_alexei.13.desc_2$"
+ # from Crashsite
+ mem_czar_alexei.13.desc.b:0 "Nuestro equipo llegó a tiempo para presenciar una pelea en curso entre los atacantes y un humanoide solitario. $mem_czar_alexei.13.desc_2$"
+ mem_czar_alexei.13.desc_2:0 "Mientras recibía múltiples golpes, que parecían ser absorbidos por un escudo personal, el extraño confrontó a sus enemigos en combate cuerpo a cuerpo principalmente luchando con una espada, ocasionalmente disparando a atacantes más distantes con un láser montado en la muñeca para mantenerlos a raya. A pesar de esta valiente demostración, la fuerza oponente todavía tenía la ventaja.\n\nUsando el elemento de sorpresa nuestro equipo logró derribar a algunos de los atacantes en su primer golpe que inclinó claramente la balanza a nuestro favor. Aunque no lograron salvar al extraño, nuestro equipo logró derrotar a la fuerza restante y la batalla fue ganada. Nuestro líder de expedición tomó la espada del extraño muerto como recuerdo para llevarla de vuelta con ellos.\n\nDespués de eso, lo único que quedaba por hacer, era apoderarse de la esfera ahora sin dueño con la que llegaron los cazadores y regresar a través de la grieta."
+
+ # Stage 4C
+ # Flee with Sphere
+ mem_czar_alexei.14.name:0 "Retiro Exitoso"
+ mem_czar_alexei.14.desc:0 "Nuestra expedición decidió no entrar en una pelea que no era suya y se dirigió hacia la nave desprotegida de los atacantes. Entrar y acceder a sus sistemas fue bastante la tarea, pero nuestro equipo logró tener éxito en sus intentos justo a tiempo para ver a sus ahora varados enemigos frenéticamente revolviéndose y fallando en detenerlos de despegar."
+ mem_czar_alexei.14.a:0 "Démosles la bienvenida."
+
+ # Recruitment 1
+ mem_czar_alexei.15.desc_01:0 "Tienes mi agradecimiento por tu asistencia anterior, pero supongo que en primer lugar una introducción está en orden.\n\nSoy el Czar Alexei Korolev, antiguo gobernante de la Federación Terrana Unida, sin embargo circunstancias desafortunadas me han llevado a mi exilio en el mundo donde nos conocimos. Tal como está, aunque, ni mi antiguo título ni imperio tienen ninguna significancia para ti, dado que esto es una realidad paralela bastante diferente de lo que puedo decir hasta ahora."
+ mem_czar_alexei.15.desc_02:0 "Con mucho gusto. ¿Qué más le gustaría saber?"
+ mem_czar_alexei.15.a:0 "¿Qué puedes decirnos sobre estos atacantes?"
+ mem_czar_alexei.15.a.response:0 "Entramos en contacto con ellos durante una exploración de grieta anterior. No hace falta decir que no hubo intercambio diplomático. Su sociedad parece estar dominada por una filosofía marcial arcaica y el acto de cazar y derrotar a oponentes fuertes parece ser muy valorado dentro de ella. Consideran a otras especies como inferiores a ellas.\n\nNo es de extrañar que hayan hecho de este Grieta Nexos su terreno de caza. Con tantas realidades paralelas conectadas entre sí, está destinado a atraer una diversidad de "presa" interesante."
+ mem_czar_alexei.15.b:0 "¿Cómo terminaste en ese planeta?"
+ mem_czar_alexei.15.b.response:0 "En resumen un golpe de estado.\n\nAlgunos de mis subordinados más cercanos conspiraron contra mí. La confianza y la amistad me cegaron para ver su avaricia y lujuria por el poder lentamente corrompiéndolos hasta que fue demasiado tarde. Cuando se revelaron sus verdaderos colores, se tuvo que tomar una decisión: Quedarse y luchar o ir al exilio.\n\nElegí lo último, ya que no creé un imperio para verlo consumido por las llamas de la guerra civil y el sufrimiento que seguiría.\n\nMi intención era llegar a una de las otras galaxias conectadas al nexo de la grieta. Los cazadores se ofendieron por esto, sin embargo, y me "invitaron" a una estancia más larga. Desde entonces tuve una serie de escaramuzas con sus partidas de caza."
+ mem_czar_alexei.15.c:0 "¿Cómo lograste sobrevivir allí solo?"
+ mem_czar_alexei.15.c.response:0 "Arqueotecnología. Siempre me han fascinado esas civilizaciones que vinieron antes que nosotros y financié varias excavaciones arqueológicas dentro del espacio Terrano. Algunos de los hallazgos ahora están integrados en mi Blindaje. Un cañón láser miniatura en mi brazalete, un generador de escudo personal y no olvidar esta espada, que es más que un simple pedazo de metal como habrás notado.\n\nEstas cosas fueron bastante útiles, pero la mejora más importante, que pude obtener de mis proyectos arqueológicos, fueron nanites de un cúmulo de estrellas aislado ubicado cerca de nuestro borde galáctico. Inmunidad al veneno, un factor de curación aumentado y propiedades anti-envejecimiento - estas pequeñas máquinas son más que útiles.\n\nAunque, las partidas de caza que vinieron después de mí, crecieron progresivamente más grandes. No estoy seguro de cuánto tiempo más mis accesorios podrían haber inclinado la balanza a mi favor."
+ mem_czar_alexei.15.d:0 "¿Qué vas a hacer ahora?"
+ mem_czar_alexei.15.e:0 "Volver a su propuesta para unirse a nosotros."
+ mem_czar_alexei.16.desc_01:0 "Eso no estoy seguro todavía.\n\nPodría unirme a ustedes y compartir mi experiencia en varios campos, si están dispuestos a ofrecerme un lugar. Después de todo estoy en deuda con ustedes. De lo contrario hay una galaxia completamente nueva allá afuera para que yo explore."
+ mem_czar_alexei.16.desc_02:0 "¿Has considerado mi oferta?"
+ mem_czar_alexei.16.a:0 "Hay más preguntas que nos gustaría hacer primero."
+ mem_czar_alexei.16.hire.tooltip:0 "Un comandante legendario §GHabilidad 5§! se une a tu grupo de líderes."

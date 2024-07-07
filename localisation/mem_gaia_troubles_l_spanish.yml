@@ -1,0 +1,67 @@
+﻿l_spanish:
+ 
+ mem_gaia_troubles.name:0 "Nuevo Mundo Gaia"
+ mem_gaia_troubles.desc:0 "Este mundo Gaia es perfecto para nosotros. La exploración del planeta ya ha comenzado."
+ 
+ mem_gaia_troubles.2.name:0 "¿Un martillo?"
+ mem_gaia_troubles.2.desc:0 "En una cueva subterránea en §Y[From.GetName]§!, un grupo de exploración ha descubierto una increíble red de cuevas que parece extenderse por millas bajo la superficie. Mientras buscábamos en las cuevas, aparentemente hemos tropezado con una caverna muy grande. La caverna es muy antinatural, casi circular en forma. En el centro yace una pequeña roca con un objeto que está emitiendo una débil señal EM. El objeto es de un diseño inesperado - sólo puede ser descrito como análogo a un martillo de guerra medieval!"
+ mem_gaia_troubles.2.a:0 "Dejarlo intacto, no es asunto nuestro."
+ mem_gaia_troubles.2.b:0 "Retirar este artefacto y llevarlo a nuestra capital para su estudio."
+ mem_gaia_troubles.2.c:0 "Abrirlo al público como una exposición."
+ mem_gaia_troubles.2.d:0 "Deberíamos inspeccionarlo aquí en el planeta sin moverlo."
+ mem_gaia_troubles.2.e:0 "¿Señales EM dices? Veamos si responde a las nuestras."
+
+ mem_gaia_troubles.3.name:0 "Artefacto intacto"
+ mem_gaia_troubles.3.desc:0 "Nuestra elección de dejar el artefacto intacto significa que podemos estar perdiendo la oportunidad de descubrir alguna tecnología antigua, pero preferimos no correr el riesgo de liberar algo que podría dañar este gran planeta que tenemos."
+ mem_gaia_troubles.3.a:0 "¡Al menos nada malo salió de esto!"
+
+ mem_gaia_troubles.4.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.4.desc:0 "El tiempo peligroso ha surgido en §Y[From.GetName]§!. Algunos de nuestros científicos más salvajes han sugerido que podría ser debido a que nosotros eliminamos el artefacto de §Y[From.GetName]§!. Sin embargo, la mayoría de la comunidad científica cree que esto es simplemente una coincidencia."
+ mem_gaia_troubles.4.a:0 "¿Cómo obtuvieron estas personas sus posiciones de nuevo?"
+ mem_gaia_troubles.4.b:0 "Devuélvelo, mejor prevenir que lamentar."
+
+ mem_gaia_troubles.5.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.5.desc:0 "Está ocurriendo una actividad tectónica masiva en §Y[From.GetName]§!, y dado que el planeta normalmente tiene poca actividad de este tipo, está haciendo que la población del planeta esté bastante preocupada. Muchas ciudades han sido severamente dañadas por los terremotos. Los informes de la comunidad científica sugieren que más científicos ahora apoyan la idea de que estos extraños sucesos fueron causados por nosotros al eliminar el artefacto."
+ mem_gaia_troubles.5.a:0 "Esto es simplemente una coincidencia."
+ mem_gaia_troubles.5.b:0 "Debemos parar. Devuelve el artefacto."
+
+ mem_gaia_troubles.6.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.6.desc:0 "Algo extraordinario ha sucedido en §Y[From.GetName]§!. La gravedad del planeta ha aumentado masivamente. Nuestros científicos líderes están desconcertados sobre cómo ha sucedido exactamente esto."
+ mem_gaia_troubles.6.a:0 "¡El trabajo debe continuar!"
+ mem_gaia_troubles.6.b:0 "Vale... es hora de devolver este artefacto ahora."
+
+ mem_gaia_troubles.7.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.7.desc:0 "Todo el ecosistema de §Y[From.GetName]§! ha colapsado ante nuestros propios ojos. Los bosques han dejado de existir, los océanos se han secado y los desiertos se han extendido por todo el planeta. Millones de nuestras personas ahora viven en un mundo que es muy diferente al que conocían hace poco tiempo. La mayoría de la comunidad científica ahora nos insta a devolver el artefacto al planeta ante los temores de que podría empeorar. Sin embargo, las ganancias científicas que estamos obteniendo del artefacto son inmensas."
+ mem_gaia_troubles.7.a:0 "¡Presiona, sin importar el costo!"
+ mem_gaia_troubles.7.b:0 "¡Podemos detener esto antes de que sea demasiado tarde!"
+
+ mem_gaia_troubles.8.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.8.desc:0 "No. Eso no podría haber sucedido. Deberíamos haberles escuchado..."
+ mem_gaia_troubles.8.a:0 "Ahora es demasiado tarde..."
+
+ mem_gaia_troubles.9.name:0 "Cambios preocupantes"
+ mem_gaia_troubles.9.desc:0 "§Y[From.GetName]§! ahora es una cáscara del planeta que una vez fue. Ahora lleno de gases venenosos, es poco probable que la vida vuelva a vivir allí de nuevo."
+ mem_gaia_troubles.9.a:0 "Quizás fuimos demasiado lejos esta vez..."
+
+ mem_gaia_troubles.10.name:0 "Artefacto Devuelto"
+ mem_gaia_troubles.10.desc:0 "Sabiendo que estamos fuera de nuestra profundidad con lo que sea que sea este artefacto, la decisión de devolverlo ha sido bienvenida por muchas partes de la comunidad científica. Mientras que algunos todavía quieren realizar pruebas, su sed de los secretos que pueda contener tendrá que esperar hasta otro día."
+ mem_gaia_troubles.10.a:0 "Al menos nada más malo puede suceder, ¿verdad?"
+
+ mem_gaia_troubles.20.name:0 "Pruebas EM"
+ mem_gaia_troubles.20.desc:0 "El equipo está siendo transportado a §Y[From.GetName]§! en preparación para las pruebas. Se le notificará poco después de que comiencen."
+
+ mem_gaia_troubles.21.name:0 "Pruebas EM"
+ mem_gaia_troubles.21.desc:0 "La última ronda de pruebas ha revelado algunos detalles más sobre el artefacto, pero no suficientes para hacer conclusiones sólidas. ¿Cuál debería ser nuestro próximo movimiento con respecto a la intensidad del haz EM?"
+ mem_gaia_troubles.21.a:0 "Aumenta la intensidad y vuelve a intentarlo."
+ mem_gaia_troubles.21.b:0 "Intentemos bajarlo un poco."
+
+ mem_gaia_troubles.22.name:0 "Pruebas EM"
+ mem_gaia_troubles.22.desc:0 "La última ronda de pruebas ha revelado más información sobre el artefacto, pero no suficiente para hacer conclusiones sólidas. ¿Cuál debería ser nuestro próximo movimiento con respecto a la intensidad del haz EM?"
+ mem_gaia_troubles.22.a:0 "Aumenta la intensidad y vuelve a intentarlo."
+ mem_gaia_troubles.22.b:0 "Intentemos bajarlo un poco."
+
+ mem_gaia_troubles.23.name:0 "Pruebas EM"
+ mem_gaia_troubles.23.desc:0 "Las pruebas EM no han proporcionado ninguna información de utilidad para nosotros. Lo único que sabemos ahora es que no debemos ser tan rápidos para saltar a conclusiones con cosas que no entendemos."
+
+ mem_gaia_troubles.24.name:0 "Pruebas EM"
+ mem_gaia_troubles.24.desc:0 "Parece que hemos 'activado' el artefacto. Bueno, no estamos seguros de lo que hemos hecho. Después de sintonizar el haz EM a una frecuencia específica, una serie de drones salieron disparados de cápsulas ocultas en el suelo de la cueva y se dirigieron a la atmósfera superior, ¡atravesando directamente el techo de la cueva! Nuestros satélites han detectado que sus armas se están cargando. Deberíamos prepararnos para defendernos."

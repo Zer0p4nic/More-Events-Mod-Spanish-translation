@@ -1,0 +1,21 @@
+﻿l_spanish:
+ mem_crystal_pyramid_category:0 "Luces Extrañas"
+ mem_crystal_pyramid_category_desc:0 "Por la noche en [From.GetName], se puede ver una luz brillante masiva debajo de la superficie transparente del planeta, de kilómetros de tamaño. Cualquiera que sea la fuente de esta luz, debe ser capaz de producir su propia energía ya que está separada de la superficie por más de un kilómetro de hielo."
+ 
+ mem_crystal_pyramid.1.name:0 "Pirámide de Cristal"
+ mem_crystal_pyramid.1.desc:0 "El equipo de [Root.GetLeaderName] ha descubierto una vasta y perfectamente lisa pirámide que emana una deslumbrante luz de cambio de color en [From.GetName]. A pesar de encontrar la fuente, el equipo no puede determinar cómo llegó la pirámide allí, cómo está creando la luz, y cuánto tiempo ha permanecido allí. Están solicitando fondos para un proyecto especial para perforar el hielo y acceder directamente a la pirámide."
+
+ MEM_CRYSTAL_PYRAMID_PROJECT:0 "Pirámide de Cristal"
+ MEM_CRYSTAL_PYRAMID_PROJECT_DESC:0 "Nuestros equipos de Ciencia que trabajan en [crystal_pyramid_planet.GetName] están solicitando personal adicional para averiguar más sobre esta pirámide de cristal."
+ 
+ mem_crystal_pyramid.2.name:0 "Descarga Súbita"
+ mem_crystal_pyramid.2.desc:0 "Como si respondiera a los esfuerzos de [Root.GetLeaderName], la luz debajo de las capas de hielo de [From.GetName] de repente brilló más brillante que nunca, antes de desaparecer tan abruptamente. Se encontró una gran cavidad en forma de pirámide en el hielo donde se originó la luz, lo que implica que lo que una vez estuvo allí de repente dejó de existir. Cualquiera que sea la razón detrás de su desaparición, el [Root.GetName] logró recoger un tesoro de datos y energía de la breve y repentina descarga."
+ mem_crystal_pyramid.2.a:0 "Bueno, cosas más extrañas han sucedido."
+ 
+ mem_crystal_pyramid.3.name:0 "Cosas Extrañas"
+ mem_crystal_pyramid.3.desc:0 "Después de llegar a la pirámide debajo de la superficie de [crystal_pyramid_planet.GetName], [Root.GetLeaderName] ha emitido un informe sobre la naturaleza del dispositivo. Está hecho de un material diferente a cualquier cosa que nuestro equipo haya visto y ha resistido todos los intentos de dañar incluso ligeramente su superficie. No parece haber ningún patrón en las ondas emitidas por la pirámide, sin embargo, su alta energía en diferentes longitudes de onda está demostrando ser una gran fuente de datos para nuestros científicos. Mientras que no hay fin al debate filosófico creado por el extraño objeto, el verdadero valor parece ser poder estudiarlo más a fondo."
+ mem_crystal_pyramid.3.a:0 "Algunas cosas simplemente están más allá de nuestro entendimiento actual."
+ 
+ mem_crystal_pyramid.4.name:0 "Parentesco de Cristal"
+ mem_crystal_pyramid.4.desc:0 "En el momento en que el equipo de minería liderado por [Root.GetLeaderName] ha llegado a la pirámide, brilló en un brillante tono de rojo. Contra las órdenes apresuradas de [Root.GetLeaderName], uno de los mineros tocó la pirámide - en cuyo punto desapareció repentinamente. Para su consternación, un grupo de entidades cristalinas apareció en órbita alrededor del planeta justo momentos después de que la pirámide hubiera desaparecido."
+ mem_crystal_pyramid.4.a:0 "Eso no puede ser bueno."

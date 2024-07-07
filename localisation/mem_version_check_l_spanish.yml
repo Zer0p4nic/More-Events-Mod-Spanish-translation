@@ -1,0 +1,8 @@
+﻿l_spanish:
+ #################################################
+ # Text by Malthus                               #
+ #################################################
+ # Version Check
+ # Warning message
+ mem_version_check.2.name:0 "Notificación"
+ mem_version_check.2.desc:0 "Este mensaje aparece porque el Mod de Más Eventos ha sido activado en un juego en curso, o ha sido actualizado después de que este juego ha sido iniciado.\n\nEn caso de que este mod haya sido activado en un juego en curso, no causará ningún problema, pero algunas características sólo estarán disponibles en un juego recién iniciado.\n\nEn caso de que este juego haya sido iniciado con MEM ya activo, esto significa que hubo una actualización. No necesariamente puede causar problemas, pero como siempre, las actualizaciones tienen una pequeña posibilidad de romper las partidas guardadas antiguas. Si encuentras problemas, por favor confirma que estos problemas también aparecen en un juego recién iniciado antes de reportarlos como bugs. Los problemas pueden ser el resultado de las incompatibilidades de versión entre la partida guardada antigua y una nueva versión del mod.\n\nEste mensaje de advertencia no aparecerá de nuevo en esta partida. ¡Esperamos que disfrutes nuestro mod!"

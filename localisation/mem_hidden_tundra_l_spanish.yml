@@ -1,0 +1,18 @@
+﻿l_spanish:
+ #A hidden Tundra
+ #Idea by Mariawr
+ #Code by wtlnd
+
+ mem_hidden_tundra_category:0 "Una Roca Desolada Pero Interesante en el Espacio"
+ mem_hidden_tundra_category_desc:0 "El científico jefe §Y[Root.GetLeaderName]§! ha obtenido algunas lecturas interesantes del planeta §Y[From.GetName]§!. Una investigación más cercana parece justificada."
+
+ mem_hidden_tundra.1.name:0 "¡Es un Planeta Habitable!"
+ mem_hidden_tundra.1.desc:0 "Resulta que §Y[From.GetName]§! no es estéril, como lo mostraron nuestros primeros escaneos, sino que en realidad es un mundo de tundra. Aún parece ser un planeta bastante sombrío. Tiene una superficie casi sin características y casi ninguna vida vegetal. Sin embargo, aún deberíamos poder colonizar con la ayuda de ligeros esfuerzos de terraformación local. También deberíamos establecer un puesto de investigación para aprender cómo es posible la vida en un planeta así."
+
+ mem_hidden_tundra.2.name:0 "Una Roca Desolada e Interesante en el Espacio"
+ mem_hidden_tundra.2.desc:0 "Contrariamente a las primeras suposiciones de §Y[Root.GetLeaderName]§!, §Y[From.GetName]§! es solo una roca muerta y aburrida en el espacio. Deberíamos enfocar nuestros esfuerzos de investigación en otro lugar."
+
+ mem_hidden_tundra.1.fascinating:0 "Fascinante"
+ mem_hidden_tundra.1.xenophobe:0 "Parece que la alimaña es resistente."
+
+ mem_hidden_tundra.2.fascinating:0 "Fascinante"

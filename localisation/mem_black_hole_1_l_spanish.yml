@@ -1,0 +1,25 @@
+﻿l_spanish:
+ #Black Hole Anomaly 1
+ #Writing by deezee
+ #Code by ShiroKitsune
+ mem_black_hole_1_category:0 "El Camino Más Allá"
+ mem_black_hole_1_category_desc:0 "El agujero negro §Y[Root.GetName]§! parece tener un pequeño objeto orbitando justo fuera del horizonte de eventos. Al examinarlo más de cerca, parece ser un pequeño generador de agujeros de gusano antiguo construido por una civilización desconocida, posiblemente como una forma de abrir un camino hacia el horizonte de eventos e investigar lo que hay más allá. Nuestros científicos quisieran examinar la tecnología más de cerca."
+ MEM_BLACK_HOLE_1_PROJECT:0 "El Camino Más Allá"
+ MEM_BLACK_HOLE_1_PROJECT_DESC:0 "Un científico debería intentar activar el antiguo generador de agujeros de gusano..."
+ mem_black_hole_1.1.name:0 "Investigación Exitosa"
+ mem_black_hole_1.1.desc:0 "Al examinar más de cerca, el generador de agujeros de gusano claramente ha sido dañado por el paso del tiempo. Sin embargo, el científico principal §Y[Root.GetLeaderName]§! cree que puede ser reparado."
+ mem_black_hole_1.1.a:0 "Hazlo."
+ mem_black_hole_1.1.b:0 "Es demasiado peligroso."
+ mem_black_hole_1.2.name:0 "¿Éxito?"
+ mem_black_hole_1.2.desc:0 "Después de reparar el generador de agujeros de gusano, la nave científica §Y[Root.GetName]§! fue succionada más allá del horizonte de eventos y ahora está desaparecida en acción. Solo podemos esperar que el agujero de gusano sea lo suficientemente robusto para que puedan regresar."
+ mem_black_hole_1.2.a:0 "Esperamos con la respiración contenida..."
+ mem_black_hole_1.3.name:0 "Lo que Yace Más Allá"
+ mem_black_hole_1.3.desc:0 "La nave científica ha regresado, y su tripulación ha sido transformada. Se niegan a discutir las cosas "indecibles" que yacen más allá del horizonte de eventos, pero debemos confiar en que esas percepciones beneficiarán a nuestro imperio."
+ mem_black_hole_1.3.a:0 "Esperamos que estén bien."
+ mem_black_hole_1.4.name:0 "Una Antigua Reliquia"
+ mem_black_hole_1.4.desc:0 "Al examinar más de cerca, el generador de agujeros de gusano claramente ha sido dañado por el paso del tiempo. Dada su proximidad al horizonte de eventos, una investigación más a fondo sería profundamente insegura y poco probable que diera frutos."
+ mem_black_hole_1.4.a:0 "Lamentable."
+ mem_black_hole_1.5.name:0 "¡Un Trágico Error!"
+ mem_black_hole_1.5.desc:0 "Mientras investigaba el generador de agujeros de gusano, el científico principal §Y[Root.GetLeaderName]§! accidentalmente lo encendió, sin darse cuenta de que estaba dañado. Como resultado, la nave científica §Y[Root.GetName]§! fue succionada a través del agujero de gusano hacia el agujero negro, nunca más se la volvió a ver."
+ mem_black_hole_1.5.a:0 "Terrible."
+ 

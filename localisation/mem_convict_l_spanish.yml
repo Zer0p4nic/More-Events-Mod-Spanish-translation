@@ -1,0 +1,66 @@
+﻿# Convict
+# Code and Text by ViolentBeetle
+# Idea by Solarius Scorch
+
+l_spanish:
+
+ mem_convict_ship_size: "$large_ship_fallen_empire$"
+ mem_convict_ship_size_plural: "$large_ship_fallen_empire_plural$"
+ 
+ mem_convict_ship_section_key: ""
+ 
+ shipsize_mem_convict_ship_size_construction_speed_mult: ""
+ shipsize_mem_convict_ship_size_build_cost_mult: ""
+ shipsize_mem_convict_ship_size_upkeep_mult: ""
+ 
+ MEM_CONVICT_STUDY_POD: "Estudia la Cápsula"
+ MEM_CONVICT_STUDY_POD_DESC: "La cápsula encontrada en [the_planet.GetName] ha sido llevada a nuestro planeta capital para su estudio. Con el tiempo, deberíamos poder entender las inscripciones e incluso revivir al alienígena en su interior."
+ 
+ mem_convict_category: "Aterrizaje Forzoso"
+ mem_convict_category_desc: "Podemos ver claramente una larga grieta en la superficie, que termina en lo que parece ser una nave medio enterrada en el suelo. Alguien aterrizó forzosamente en este [This.GetPlanetMoon] hace mucho tiempo."
+ 
+ mem_convict.1.name: "Aterrizaje Forzoso"
+ mem_convict.1.desc: "El [Root.GetName] ha podido confirmar que la grieta en la superficie de [From.GetName] es, de hecho, el resultado de un aterrizaje forzoso. Se estima que el evento ocurrió hace unos mil años. \n\nParece que la tripulación del vuelo pereció en el accidente, pero [Leader.GetName] ha descubierto una cápsula de estasis aún funcional dentro de la nave. La cápsula está cubierta de inscripciones alienígenas que aún no podemos descifrar, pero puede ser desprendida de manera segura y estudiada en un planeta."
+ mem_convict.1.a: "Lleva la cápsula a [Owner.Capital_Scope.GetName] para su estudio."
+ mem_convict.1.b: "No vale la pena molestar."
+ mem_convict.1.c: "Apaga la cápsula, matando al alienígena."
+ mem_convict.2.name: "La Cápsula Prisión"
+ mem_convict.2.desc: "Nuestros investigadores han logrado traducir las inscripciones en la cápsula de estasis recuperada de la superficie de [the_planet.GetName]. \n\nAdvierte que contiene a un peligroso criminal llamado Retheri Rhin que estaba siendo transportado al exilio por varios delitos. Los cargos exactos no están especificados, pero por el contexto, Rhin parece ser un servidor público de algún tipo implicado en una gran conspiración."
+ mem_convict.2.a: "Prepárate para liberar al prisionero."
+ mem_convict.2.b: "Mejor no abrirlo."
+ mem_convict.3.name: "Retheri Rhin"
+ mem_convict.3.desc: "El prisionero de la cápsula alienígena ya está despierto. Después de un breve interrogatorio, proporcionó una versión que contradice la inscripción en su cápsula: afirma haber sido injustamente encarcelado por los verdaderos conspiradores dentro de la Federación Rendan que buscaban destruir por beneficio personal todo lo que el pueblo Rendan apreciaba. \n\nAhora que su civilización ya no existe, implora que no hay razón para cumplir su sentencia. Ofrece sus servicios como administrador a cambio de perdón."
+ mem_convict.3.a: "Trato hecho."
+ mem_convict.3.a.tooltip: "Ganamos un nuevo §Serudito§! gobernador."
+ mem_convict.3.a.auth: "En servicio a nosotros, encontrarás redención."
+ mem_convict.3.a.ega: "Todos merecen una segunda oportunidad."
+ mem_convict.3.a.mat: "El veredicto de una nación muerta no tiene sentido."
+ mem_convict.3.a.phile: "Puedes contarnos mucho de tu cultura perdida."
+ mem_convict.3.b: "Preferiríamos no arriesgarnos."
+ mem_convict.3.b.tooltip: "El gobernador Rhin será enviado al exilio."
+ mem_convict.3.b.auth: "No puedes ser absuelto tan fácilmente."
+ mem_convict.3.b.ega: "Debemos honrar la ley y el orden."
+ mem_convict.4.name: "El Gobernador Convicto"
+ mem_convict.4.desc.corrupt: "Estamos recibiendo informes de que el gobernador [retheri_rhin.GetName], a quien liberamos de una cápsula de prisión, ha sido implicado en varios delitos, incluyendo malversación, chantaje, asesinato y terrorismo. \n\nAunque no hay evidencia directa, la cantidad de supuestas actividades sospechosas de su parte es asombrosa."
+ mem_convict.4.desc.honest: "El gobernador [retheri_rhin.GetName], a quien hemos liberado de una cápsula de prisión, ha demostrado ser un ciudadano justo y respetable y un competente servidor público. Si los cargos que se le imputaron eran ciertos, algo que quienes lo conocen encuentran difícil de creer, está aprovechando la oportunidad de redención que le concedimos con ambas manos."
+ mem_convict.4.a: "Estábamos equivocados al confiar en él."
+ mem_convict.4.b: "Estábamos en lo correcto al confiar en él."
+ mem_convict.61.name: "Incursión"
+ mem_convict.61.desc: "Una nave no identificada ha llegado a [FROM.Solar_System.GetName]. El seguimiento a largo plazo sugiere que su trayectoria se originó en el sistema [origin_system.GetName]. \n\nNos está saludando."
+ mem_convict.7.desc: "¡Atención! Este es el supremo buque de justicia Rendan totalmente automático Grim Portent hablando. \n\nEstás albergando a un individuo peligroso llamado Retheri Rhin, que está utilizando tu ayuda para evadir la justicia. No lo permitas. \n\nEntrégamelo a mí y se hará justicia. El pueblo Rendan puede estar muerto, pero su justicia vive en mí."
+ mem_convict.7.a: "Bien, puedes llevártelo."
+ mem_convict.7.b: "De ninguna manera."
+ mem_convict.7.c: "¿Y si nos negamos?"
+ mem_convict.7.c.responce: "Sería muy... doloroso. No lo recomendaría."
+ mem_convict.7.d: "Rhin ya no está con nosotros."
+ mem_convict.7.d.response: "Mi detector de mentiras incorporado sugiere que esto es cierto. Que tengas un buen día entonces. \n\nY la próxima vez, por favor, no descongeles a todos los que encuentres."
+ mem_convict.7.e: "No sabemos de qué estás hablando."
+ mem_convict.7.e.response: "Mi detector de mentiras incorporado sugiere que esto es cierto. Que tengas un buen día entonces."
+ mem_convict.8.desc: "Bueno, espero que hayas aprendido tu lección. La devastación de tu planeta [This.GetName] es bien merecida. \n\nTengo que irme ahora. Espero que pienses en lo que hiciste."
+ mem_convict.8.a: "¡Vete!"
+ 
+ mem_convict.10.name: "Nave Muerta"
+ mem_convict.10.desc: "El [Root.GetName] ha podido confirmar que la grieta en la superficie de [From.GetName] es, efectivamente, el resultado de un aterrizaje forzoso. Se estima que el evento ocurrió hace unos mil años. Una característica inusual de la nave es una cámara de estasis en la bodega de carga, pero hace mucho tiempo que falló y sólo queda polvo de su ocupante.\n\n[Leader.GetName] pudo obtener algunas ideas sobre el diseño inusual de la nave que pueden ser útiles para nuestra propia investigación."
+ 
+ bombardment_mem_armageddon: "$bombardment_armageddon$"
+ bombardment_mem_armageddon_desc: "$bombardment_armageddon_desc$"

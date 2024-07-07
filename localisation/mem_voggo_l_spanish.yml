@@ -1,0 +1,32 @@
+﻿# Voggo the Great
+# By ViolentBeetle
+
+l_spanish: 
+
+ mem_voggo_dig_site: "En las Nubes"
+ mem_voggo_dig_site_desc: "Una gran estación está flotando en la atmósfera superior de §Y[From.Planet.GetName]§!. \n\nSu exterior, aunque muy desgastado por el paso del tiempo y los vientos fuertes, es inusualmente lujoso. La estación en sí parece haber sido abandonada hace mucho tiempo."
+
+ mem_voggo.1.name: "La Antecámara"
+ mem_voggo.1.desc: "Mapear y catalogar los lujosos interiores de la estación en §Y[From.Planet.GetName]§! requirió un esfuerzo significativo. Los daños sufridos han convertido los pasajes retorcidos en peligrosos y el aire en el interior se ha vuelto peligrosamente volátil debido a los sistemas de soporte vital que funcionan mal. \n\nLo más extraño de todo esto parece ser la decoración. Cada habitación contiene al menos una estatua o un retrato del mismo individuo adoptando algún tipo de pose magnífica."
+ mem_voggo.2.name: "Envía a los Clones"
+ mem_voggo.2.desc: "A medida que los arqueólogos en §Y[From.Planet.GetName]§! avanzaban hacia las profundidades de los interiores de la estación, han comenzado a encontrar cuerpos muertos. Algunos de ellos fueron asesinados por disparos, cuchillas e implementos contundentes, pero otros parecen haber perecido debido a un fallo en el soporte vital. \n\nTodos los cuerpos parecen ser genéticamente idénticos, con un fuerte parecido a los retratos a bordo. Sin embargo, diferentes cuerpos muestran diferentes niveles de desarrollo y salud: algunos estaban significativamente desfigurados en comparación con los demás o muestran áreas craneales encogidas. \n\n[Leader.GetName] cree que todos ellos son clones del mismo individuo replicados con diferentes grados de éxito. Los más degenerados probablemente fueron el resultado de múltiples generaciones de clonación."
+ mem_voggo.3.name: "Laboratorio de Clonación"
+ mem_voggo.3.desc: "Más cerca del núcleo de la estación, [Leader.GetName] ha encontrado varias habitaciones aparentemente dedicadas a la clonación. Parece haber sido el sitio de una gran batalla, ya que la mayoría del equipo está destrozado o acribillado a tiros. Los tanques de clonación todavía contienen cuerpos medio formados, y las máquinas de muestreo están gravemente dañadas, como si alguien siguiera destrozándolas para llegar a quien estaba dentro."
+ mem_voggo.4.name: "El Santuario Interior"
+ mem_voggo.4.desc: "Hasta ahora, creíamos que la estación estaba abandonada. Estábamos equivocados. \n\nEn la parte más interna de la estación, [Leader.GetName] ha descubierto una sección sellada protegida del exterior. \n\nDentro, [Leader.GetSheHe] ha encontrado un alienígena vivo que también comparte su apariencia con los retratos en la estación. A juzgar por la falta de defectos genéticos desfigurantes, es probable que sea la plantilla original para los clones cuyos cadáveres llenan esa estación. Desea hablar con nosotros."
+ mem_voggo.4.pur: "Mátalo en su lugar."
+ mem_voggo.4.swarm: "Cómetelo en su lugar."
+ mem_voggo.5.name: "Voggo el Grande"
+ mem_voggo.5.desc: "¡Ah, alguien ha venido a liberarme de mi confinamiento! \n\nPor favor, permíteme presentarme. Soy §SVoggo el Grande§!, también conocido como El Magnífico, El Sabio, El Ungido, El Despreciado, El Rechazado, El Traicionado y El Exiliado. Una vez fui el gobernante de la gran y abundante §YNación Vorkun§!, ¿reconoces el nombre?\n\n¿No? Pensé eso... Les sirve bien.\n\nAhora que finalmente soy libre, por favor permíteme ofrecerte mis servicios. Soy el administrador más capaz que jamás conocerás."
+ mem_voggo.5.a: "Muy bien. Bienvenido a bordo."
+ mem_voggo.5.a.tooltip: "§YVoggo el Grande§! se convierte en nuestro nuevo §SGobernador§!."
+ mem_voggo.5.b: "Preferiríamos no emplearte."
+ mem_voggo.5.c: "¿Cuál es tu historia?"
+ mem_voggo.5.c.responce: "Oh, esta es una historia emocionante, llena de intriga, traición y traición. Escribí un libro sobre ello hace unas décadas, pero creo que accidentalmente lo procesé a través de una de las máquinas de comida. No te preocupes, escribiré otro. Por ahora, te daré una versión abreviada.\n\nLa §YNación Vorkun§! de la que provengo fue una vez un poderoso imperio en el escenario galáctico y yo era su líder. No era el único, pero estaba dotado de talentos que otros no tenían. Podía ver cosas ocultas para la mayoría. La gente me miraba y siempre me consultaba en asuntos importantes, reconociendo mi infinita sabiduría. Los tiempos eran buenos, por un tiempo. \n\nPero ser bendecido con previsión y poder puede ser una terrible maldición. Mientras los demás Vorkuns vivían sus vidas en feliz ignorancia, yo anticipaba una terrible calamidad. Vi la escritura en la pared, y eran en su mayoría garabatos obscenos. \n\nMe presenté ante el Gran Senado, diciendo que tenían una elección: darme poder absoluto o perecer. Dijeron que yo también tenía una elección: exilio o muerte. Ellos hicieron su elección y yo hice la mía. A juzgar por las apariencias, yo tenía razón y ellos estaban equivocados."
+ mem_voggo.5.d: "¿Qué pasó en esta estación?"
+ mem_voggo.5.d.responce: "Esta era mi estación privada, mi refugio seguro. Después de llegar a mi exilio, me quedé sin amigos, aliados y compañeros, y no tuve más remedio que hacer los míos. ¿Quién más calificaría para el puesto si no alguien que compartiera mi inteligencia sin límites? Así que conseguí algunas máquinas de clonación y comencé el trabajo. \n\nEl proceso fue más defectuoso de lo que había anticipado, sin embargo, ya que mis clones no fueron bendecidos con el mismo nivel de paciencia y compasión que yo. Muchos se volvieron contra mí. Mientras buscaba refugio en mi santuario más íntimo, se volvieron unos contra otros, y cada uno intentó clonarse en un ejército. Pronto la primera generación de clones estaba muerta, pero cada uno dejó atrás sus propios clones. Generación tras generación, se volvieron más numerosos y menos cuerdos, hasta que el soporte vital ya no pudo soportarlos. Yo estaba protegido por mi propio equipo personal mientras ellos se asfixiaban. \n\nFue divertido, por un tiempo. Pero estoy contento de que todos hayan muerto."
+
+ mem_voggo_trait: "Voggo el Grande"
+ mem_voggo_trait_desc: "Voggo el Grande es el genio más visionado y el visionario más genial. Todos están asombrados de él."
+ mem_voggo_trait_ruler: "$mem_voggo_trait$"
+ mem_voggo_trait_ruler_desc: "$mem_voggo_trait_desc$"

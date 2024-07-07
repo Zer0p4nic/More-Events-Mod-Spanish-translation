@@ -1,0 +1,83 @@
+﻿l_spanish:
+
+ mem_colony_ship.2.name:0 "Alerta de proximidad"
+ mem_colony_ship.2.desc:0 "Los sistemas de advertencia temprana han detectado un objeto no identificado que se acerca al sistema §Y[the_system.GetName]§! a aproximadamente un tercio de la velocidad de la luz. \n\nLos datos recopilados siguen siendo inconclusos, pero dada la velocidad del objeto, es muy probable que sea de origen artificial, una nave interestelar de diseño primitivo.\n\nNo ha respondido a ninguna de nuestras advertencias o llamadas, por lo que sus intenciones son desconocidas, pero su trayectoria actual sugeriría que el planeta actualmente desocupado §Y[the_planet.GetName]§! es su destino final. Se espera que pase por todas nuestras estructuras y se estrelle, aterrice o orbite el planeta."
+ mem_colony_ship.2.a:0 "Esperaremos y veremos qué hace."
+ mem_colony_ship.2.b:0 "Destrúyelo. No podemos correr el riesgo."
+ 
+ mem_colony_ship_size:0 ""
+ mem_colony_ship_size_plural:0 ""
+ 
+ mem_colony_ship.3.name:0 "Nave intrusa destruida"
+ mem_colony_ship.3.desc:0 "Hemos eliminado con éxito la nave no identificada que se introdujo en el sistema §Y[FromFrom.Solar_System.GetName]§!. \n\nLa amenaza potencial ha sido neutralizada, pero cuál era su misión y la identidad de aquellos que llevaba permanecerá siempre como un misterio."
+ mem_colony_ship.3.a:0 "No teníamos opción."
+ mem_colony_ship.3.b:0 "Nadie se mete en nuestro espacio sin consecuencias."
+ mem_colony_ship.3.c:0 "Estado: Perímetro seguro."
+ mem_colony_ship.3.d:0 "Recibieron lo que se merecían."
+ 
+ mem_colony_ship.6.name:0 "Fallo en el aterrizaje"
+ mem_colony_ship.6.desc:0 "La nave no identificada que hemos estado rastreando llegó con éxito a §Y[the_planet.GetName]§!. \n\nSin embargo, al intentar entrar en la atmósfera del planeta, los sistemas de la nave parecen haber fallado, lo que la hizo caer a la superficie, el impacto dejó nada más que un cráter humeante."
+ mem_colony_ship.6.a:0 "¿Es todo esto?"
+ 
+ d_mem_colony_ship_crater:0 "Cráter de impacto"
+ d_mem_colony_ship_crater_desc:0 "El único recordatorio de un final bastante anticlimático al viaje interestelar de una nave estelar audaz pero desafortunada."
+ 
+ mem_gov_colony_ship:0 "Gobierno colonial provisional"
+ mem_gov_colony_ship_desc:0 "Una autoridad ad-hoc codificada de manera laxa establecida para gobernar a los colonos de un nuevo mundo."
+ RT_MEM_COLONIAL_MARSHAL:0 "Mariscal colonial"
+ RT_MEM_COLONIAL_MARSHAL_FEMALE:0 "Mariscal colonial"
+ 
+ mem_colony_ship_civic_one:0 "Faccionalismo ideológico"
+ mem_colony_ship_civic_two:0 "Desorganización de la frontera"
+ mem_colony_ship_civic_one_desc:0 ""
+ mem_colony_ship_civic_two_desc:0 ""
+ 
+ mem_recently_colonized_age:0 "Nueva colonia"
+ mem_recently_colonized_age_desc:0 "Colonos desorganizados que recientemente han emergido de su nave relativamente primitiva están tratando de adaptarse a su nueva vida en un mundo alienígena. Con el tiempo, podrán lograr un crecimiento constante y progreso tecnológico... o morir en el intento."
+ 
+ mem_colony_ship.8.name:0 "Aterrizaje planetario"
+ mem_colony_ship.8.desc:0 "La nave no identificada que se introdujo en nuestro espacio hace algún tiempo parece haber realizado un aterrizaje planetario exitoso. \n\nResulta que llevaba miembros de una especie que se llaman a sí mismos [landed_country.GetSpeciesName], así como equipo para establecer una colonia primitiva en este mundo, al que han decidido llamar §Y[the_planet.GetName]§!. \n\nNo parecen haber notado nuestra presencia en el sistema en absoluto, lo que sugiere que sus sensores han sufrido daños significativos o nunca fueron muy buenos en primer lugar."
+ mem_colony_ship.8.a:0 "Es hora de notificarles sus transgresiones."
+ mem_colony_ship.8.b:0 "Ignóralos por ahora."
+ mem_colony_ship.8.b.tooltip:0 "No nos pondremos en contacto con ellos por ahora, pero podremos interactuar con ellos en el futuro como lo hacemos con cualquier otra civilización primitiva."
+ mem_colony_ship.8.c:0 "Es el momento perfecto para atacar."
+ 
+ mem_colony_ship.10.name:0 "Abre el canal a [the_planet.GetName]"
+ mem_colony_ship.10.desc:0 "Nobles [root.GetSpeciesNamePlural], por favor, perdónennos por colonizar su planeta. Desconocíamos que habían reclamado este sistema, o incluso que los imperios interestelares son posibles en absoluto. Entiendan que esta era nuestra única oportunidad de supervivencia: Nuestro planeta natal enfrentaba una condenación inminente, y §Y[the_planet.GetName]§! era el planeta que consideramos más probable que pudiera soportar la vida. Nos queda claro que los logros de su civilización superan con creces lo que hemos logrado hasta ahora. Por favor, tengan piedad de nosotros y denos una segunda oportunidad de supervivencia."
+ mem_colony_ship.10.desc.machine:0 "§L¡Vaya, robots! Los robots espaciales nos han descubierto. Bien, mantén la calma. Ahora no es el momento de entrar en pánico.§! \n\nEscucha, uhm... nobles [Root.GetSpeciesNamePlural]? Por favor, perdónennos por colonizar su planeta. Desconocíamos que habían reclamado este sistema, o incluso que los imperios interestelares son posibles en absoluto... y mucho menos que existen imperios robóticos. Entiendan que esta era nuestra única oportunidad de supervivencia: Nuestro planeta natal enfrentaba una condenación inminente, y §Y[the_planet.GetName]§! era el planeta que consideramos más probable que pudiera soportar la vida. Nos queda claro que los logros de su civilización superan con creces lo que hemos logrado hasta ahora. Por favor, si la misericordia es en absoluto un concepto para ustedes, muéstrennos misericordia y denos una segunda oportunidad de supervivencia."
+ mem_colony_ship.10.a:0 "Te convertirás en parte de nuestro imperio."
+ mem_colony_ship.10.a.tooltip:0 "[the_planet.GetName] será anexado."
+ mem_colony_ship.10.b:0 "Puedes mantener este sistema como nuestro protectorado."
+ mem_colony_ship.10.b.tooltip:0 "El sistema será entregado a los colonos, quienes se convertirán en nuestro §Sprotectorado§!."
+ mem_colony_ship.10.c:0 "Puedes mantener este sistema como nuestro tributario."
+ mem_colony_ship.10.c.tooltip:0 "El sistema será entregado a los colonos, quienes se convertirán en nuestro §Stributario§!."
+ mem_colony_ship.10.d:0 "Pobres cosas. Sus problemas han terminado ahora."
+ mem_colony_ship.10.d.tooltip:0 "Se enviará una unidad de cuidado robótico a [the_planet.GetName] para cuidar a los pobres colonos."
+ mem_colony_ship.10.e:0 "Desconectar."
+ mem_colony_ship.10.e.tooltip:0 "No se tomará ninguna acción, pero podremos interactuar con ellos como podríamos con cualquier otra civilización primitiva en el futuro."
+ 
+ mem_colony_ship.12.name:0 "Situación en [From.GetName] Estabilizada"
+ mem_colony_ship.12.desc:0 "La situación en [From.GetName], el nuevo hogar para los colonos [From.Owner.GetAdj], ha sido caótica prácticamente desde el momento en que los colonos han aterrizado. Sin embargo, a pesar de su tecnología primitiva y liderazgo mediocre, los [From.Owner.GetSpeciesNamePlural] han hecho un progreso considerable en los últimos años. \n\nLa situación en el planeta se ha estabilizado y se ha construido infraestructura, permitiendo que los residentes vuelvan a ser clasificados como una civilización de la temprana era espacial."
+ 
+ mission_mem_colony_ship_technological_enlightenment:0 "$mission_technological_enlightenment_9$"
+ mission_mem_colony_ship_technological_enlightenment_desc:0 "$mission_technological_enlightenment_9_desc$"
+ 
+ MEM_COLONY_SHIP_NOT_NOW:0 "Los primitivos están demasiado desordenados ahora."
+
+ building_mem_colony_ship_shelter:0 "Refugio de Colonia Primitiva"
+ building_mem_colony_ship_shelter_desc:0 "Los restos de la nave colonial pre-UL proporcionan un refugio habitable a sus antiguos pasajeros, sirviendo como punto central para su expansión planeada en la superficie del planeta."
+ building_mem_colony_ship_protocity:0 "Proto-Ciudad"
+ building_mem_colony_ship_protocity_desc:0 "Los primeros edificios construidos en el planeta, creados con materiales locales para servir como núcleo para la colonia primitiva. No es una ciudad todavía, pero con suerte algún día será la más grande entre muchas."
+ building_mem_colony_ship_farming_outpost:0 "Puestos de Agricultura"
+ building_mem_colony_ship_farming_outpost_desc:0 "Una vasta red de puestos de agricultura cubre la tierra explorada, tratando de extraer la mayor cantidad de nutrición posible del suelo alienígena."
+ building_mem_colony_ship_industrial_outpost:0 "Puestos Industriales"
+ building_mem_colony_ship_industrial_outpost_desc:0 "Fábricas estratégicamente ubicadas proporcionan herramientas, maquinaria y otros bienes que los colonos necesitan para sobrevivir y expandirse en el mundo alienígena."
+ building_mem_colony_ship_power_outpost:0 "Puestos de Energía"
+ building_mem_colony_ship_power_outpost_desc:0 "Una red de estaciones de energía aprovecha los recursos naturales accesibles para producir energía eléctrica para el crecimiento de la colonia."
+ building_mem_colony_ship_mining_outpost:0 "Puestos de Minería"
+ building_mem_colony_ship_mining_outpost_desc:0 "Una red de ciudades y campamentos mineros ubicados en y alrededor de depósitos superficiales para proporcionar los recursos minerales necesarios para la colonia."
+
+ job_mem_colony_ship_colonist:0 "$job_colonist$"
+ job_mem_colony_ship_colonist_plural:0 "$job_colonist_plural$"
+ job_mem_colony_ship_colonist_desc:0 "Es difícil establecerse en un nuevo mundo. Es aún más difícil sin el respaldo de un imperio interestelar."
+ mod_job_mem_colony_ship_colonist_add:0 "$job_mem_colony_ship_colonist$ Trabajos"

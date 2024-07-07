@@ -1,0 +1,32 @@
+﻿#Disguised Planet
+#By ViolentBeetle
+
+l_spanish:
+
+ mem_disguised_planet_category:0 "Planeta Caprichoso"
+ mem_disguised_planet_category_desc:0 "Los patrones atmosféricos de este planeta no coinciden completamente con las simulaciones, y varios escaneos profundos han proporcionado datos salvajemente inconsistentes con otras pruebas."
+ 
+ mem_disguised_planet.1.name:0 "Disfraz Holográfico"
+ mem_disguised_planet.1.desc:0 "Una investigación más a fondo ha revelado que la supuestamente tóxica atmósfera de [From.GetName] en realidad no existe. El uso inteligente de generadores holográficos, refracción de luz y dispersión de partículas han creado una ilusión convincente de que el planeta tiene una atmósfera espesa y hostil. \n\nUna vez que las falsas nubes se han disipado, [Root.GetName] ha descubierto... un mundo completamente desolado, oculto bajo la ilusión. Parece que alguien se esforzó mucho para disfrazar esta roca inhóspita como un tipo diferente de roca inhóspita."
+ mem_disguised_planet.1.a:0 "¿Cuál era incluso el punto?"
+ 
+ mem_disguised_planet.2.name:0 "Un Mundo Oculto"
+ mem_disguised_planet.2.desc:0 "[Root.GetName] informa que la supuestamente tóxica atmósfera de [From.GetName] en realidad no es tóxica en absoluto. \n\nEl uso inteligente de generadores holográficos, refracción de luz y dispersión de partículas han creado una ilusión convincente de que el planeta tiene una atmósfera espesa y hostil, mientras que en realidad la atmósfera parece ser bastante benigna. Una vez que las falsas nubes se habían disipado, se reveló una superficie habitable debajo. \n\nParece que, en algún momento, alguien puso un esfuerzo considerable en disfrazar este mundo como algo mucho menos hospitalario."
+ mem_disguised_planet.2.a:0 ""
+ 
+ mem_disguised_planet.3.name:0 "Un Misterio Envuelto en un Enigma"
+ mem_disguised_planet.3.desc:0 "Una investigación más a fondo ha revelado que la supuestamente tóxica atmósfera de [From.GetName] en realidad no existe. El uso inteligente de generadores holográficos, refracción de luz y dispersión de partículas han creado una ilusión convincente de que el planeta tiene una atmósfera espesa y hostil. \n\nLo que [Root.GetName] descubrió en realidad bajo las falsas nubes fue bastante extraño: un pequeño planeta cubierto completamente por un escudo que parece ser completamente impenetrable, lo que significa que sigue siendo completamente incierto por quién y para qué propósito este planeta fue tan extensamente ocultado."
+ mem_disguised_planet.3.a:0 "Muy extraño."
+ 
+ mem_disguised_planet.100.name:0 "Fracaso"
+ mem_disguised_planet.100.desc:0 "[Root.GetName] no pudo replicar las lecturas anómalas anteriores en [FromFrom.GetName]. Probablemente fueron causadas por sensores mal calibrados."
+ mem_disguised_planet.100.a:0 "Decepcionante."
+ 
+ mem_disguised_planet_modifier:0 "Proyectores Holográficos"
+ mem_disguised_planet_modifier_desc:0 "Antiguos proyectores holográficos producen falsas imágenes de nubes tóxicas sobre este mundo."
+ 
+ d_mem_disguised_planet_mystery_pile:0 "Pila de Misterio"
+ d_mem_disguised_planet_mystery_pile_desc:0 "No está claro qué es exactamente esta pila, excepto que está compuesta de polímeros altamente complejos, es doloroso mirarla, y huele mal. También se tambalea."
+
+ d_mem_disguised_planet_triple_deposit:1 "Valle Oculto"
+ d_mem_disguised_planet_triple_deposit_desc:1 "Bajo la falsa imagen de un mundo tóxico se esconde un valle rico en recursos escasos."

@@ -1,0 +1,11 @@
+﻿l_spanish:
+ mem_asteroid_structure_category:0 "Red de Estructuras de Asteroide"
+ mem_asteroid_structure_category_desc:0 "Nuestra nave científica ha detectado una extraña red de estructuras en la superficie del asteroide que parecen ser de origen artificial. Tal vez esto valga la pena investigar."
+
+ mem_asteroid_structure.11.name:0 "Colisión de Asteroides"
+ mem_asteroid_structure.11.desc:0 "La aparente red de estructuras no era más que una deformidad en la forma de la superficie del asteroide, aparentemente el resultado de un impacto en los últimos pocos millones de años. Las colisiones de asteroides en un sistema tan antiguo son raras, pero no particularmente notables."
+ mem_asteroid_structure.11.a:0 "Bueno."
+
+ mem_asteroid_structure.10.name:0 "Arma de Asteroide"
+ mem_asteroid_structure.10.desc:0 "Las estructuras artificiales sólo se encuentran en un lado del asteroide. Nuestra mejor suposición es que son una red de motores cuidadosamente ocultos. Aunque capaces de un empuje limitado, parecen ser perfectos para dirigir un objeto de este tamaño hacia un destino durante un período de tiempo extendido, sin ninguna emisión detectable de un método tradicional de propulsión interestelar. El radar y la telemetría gravimétrica también han revelado que el núcleo del asteroide es mucho más denso de lo que debería ser si fuera una formación natural.\n\nNuestra teoría de trabajo es que esto era un arma dirigida a un planeta, una luna o una gran estación, y estaba disfrazada para parecer un asteroide errante a primera vista. Sólo una vez que hubiera impactado su objetivo se revelaría su naturaleza como un vehículo de matanza cinética dirigido. Con su núcleo original reemplazado por tungsteno y otros elementos pesados, tendría suficiente masa para potencialmente hacer inhabitable todo un mundo. Su existencia, y el hecho de que sus cápsulas de combustible están vacías, implican que falló en su objetivo. El estudio del motor de esta arma asesina de planetas ha arrojado algunos detalles intrigantes."
+ mem_asteroid_structure.10.a:0 "Deberíamos estar atentos a este tipo de cosas en el futuro."

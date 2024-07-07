@@ -1,0 +1,145 @@
+﻿l_spanish:
+#################################################
+# Text by Malthus                               #
+#################################################
+# Last Orila follow up quest
+ 
+ mem_last_orila_ship_debuff:0 "Orgullo Antiguo"
+
+ # Ship sizes
+ mem_ancient_alt_science:0 "Crucero de Ciencia"
+ mem_ancient_alt_science_plural:0 "Cruceros de Ciencia"
+ 
+ # Wreckage ambient object
+ mem_pride_of_harilla_object:0 "Orgullo de Harilla"
+ mem_pride_of_harilla_object_desc:0 "Su mera existencia después de todo este tiempo es un testimonio de su diseño avanzado."
+ 
+ # Reactor ambient object
+ mem_pride_of_harilla_reactor_object:0 "Reactor Perdido"
+ mem_pride_of_harilla_reactor_object_desc:0 "Este es el reactor perdido del 'El Orgullo de Harilla'"
+ 
+ mem_last_orila_1_chain_title:0 "Un Orgullo Largo Perdido"
+ mem_last_orila_1_chain_desc:0 "Hace eones, la flota de Orila fue atraída a una trampa. Sus enemigos colapsaron la estrella que la flota estaba orbitando, destrozando los barcos de Orila con una enorme explosión.\n\nChap'Lin mismo, el entonces oficial al mando del buque insignia de Orila, estuvo entre los pocos supervivientes. Todos los demás barcos de la flota fueron completamente obliterados, pero el 'El Orgullo de Harilla', aunque gravemente dañado, sobrevivió a la explosión. Sin embargo, los supervivientes se vieron obligados a abandonar el barco, que ha permanecido sin recuperar hasta el día de hoy.\n\nLa pérdida de la flota devastó a la nación orilana. Estaban desconcertados sobre cómo sus enemigos tecnológicamente inferiores habían podido colapsar una estrella entera. A medida que su civilización se desmoronaba, los Orila solo podían suponer que debía haber sido obra de un agente externo, pero su último bastión cayó antes de que se encontrara ninguna prueba.\n\nCon los Orila efectivamente extintos, la verdadera causa del colapso estelar sigue siendo un misterio. Pero los restos aún podrían estar allí. Si lográramos recuperarlo y restaurarlo, seguramente ayudaría a nuestra causa."
+ 
+ mem_last_orila_2_chain_title:0 "Un Orgullo Largo Perdido"
+ mem_last_orila_2_chain_desc:0 "Hemos encontrado los restos del 'El Orgullo de Harilla'. Mientras lo estudiábamos, una flota de barcos piratas ha atacado a nuestro equipo de investigación. Según Chap'Lin, falta el núcleo de energía del barco. Dado su comportamiento agresivo, estos piratas deben haber reconocido el valor de estos restos y ya han comenzado a desguazarlo en busca de tecnología avanzada. Nuestra única esperanza de encontrar el núcleo de energía perdido radica en rastrear a los piratas hasta su base de origen."
+ 
+ # 1st Point of Interest
+ mem_last_orila_1_system:0 "Lugar de Derrota Decisiva"
+ mem_last_orila_1_system_desc:0 "Hace eones, la flota de Orila fue atraída aquí, a una trampa tendida por sus enemigos."
+ 
+ # Chap'Lin messages the player after some time has passed
+ mem_last_orila.1.name:0 "La Flota Perdida"
+ mem_last_orila.1.desc:0 "Ha llegado un mensaje de Chap'Lin. Su estudio de nuestra base de datos para validar su propia información en su mayoría desactualizada parece haber progresado bien.\n\nUno de los resultados de la sincronización de datos ha sido considerado por él de especial interés para el [root.GetName]. Según él, las coordenadas adjuntas a este mensaje podrían llevarnos a donde tuvo lugar la derrota decisiva y, en última instancia, la desaparición de los Orila.\n\nMás información detallada estará disponible en el registro de la situación."
+ mem_last_orila.1.a:0 "Deberíamos ir allí."
+ 
+ # Arrival in the system where the wreckage is
+ mem_last_orila.2.name:0 "Llegada a Philos Sigma"
+ mem_last_orila.2.desc:0 "Hemos llegado al sistema Philos Sigma, el lugar donde se selló el destino de los Orila hace eones.\n\nEl monitor del puente central muestra una vista ampliada de lo que parece ser un campo de escombros y un gran naufragio frente a la boca amenazadora del agujero negro. Afortunadamente, según nuestros sensores, todavía está a una distancia segura de él.\n\nSe ha añadido un proyecto para investigar nuestro hallazgo al registro de la situación."
+ mem_last_orila.2.a:0 "Muy bien. No perdamos más tiempo."
+ 
+ MEM_LAST_ORILA_WRECKAGE_INVESTIGATION:0 "El Orgullo de Harilla"
+ MEM_LAST_ORILA_WRECKAGE_INVESTIGATION_DESC:0 "Los restos aún permanecen en el sistema Philos Sigma, y a pesar de su antigüedad, todavía está en su mayoría intacto. Deberíamos investigarlo lo antes posible. Si somos capaces de restaurarlo, seguramente servirá bien al [root.owner.GetName]."
+ 
+ # Pirate fleet approaches the wreckage
+ mem_last_orila.3.name:0 "Flota No Identificada Se Acerca"
+ mem_last_orila.3.desc:0 "Una flota no identificada ha saltado al sistema. Se acerca a los restos de Orila y está bloqueando todas las comunicaciones. Debemos asumir que son hostiles.\n\nNo podemos arriesgarnos a dejar que la antigua tecnología caiga en manos de otra persona."
+ mem_last_orila.3.a:0 "Envía nuestra flota para interceptarlos."
+ 
+ # Completed project to investigate wreckage, new system spawned filled with pirates and stolen energy core
+ mem_last_orila.5.name:0 "El Núcleo Desaparecido"
+ mem_last_orila.5.desc:0 "Nuestra investigación de los restos ha revelado que no somos los primeros en poner nuestras manos en él. Según Chap'Lin, falta una parte vital del barco: el módulo del reactor.\n\nAfortunadamente, pudimos rastrear el origen de los piratas con los que luchamos antes de la investigación extrapolando su vector de entrada. Sólo podemos esperar que ellos fueran los responsables de quitar el módulo del reactor en primer lugar."
+ mem_last_orila.5.a:0 "Esta pista es todo lo que tenemos."
+ 
+ # 2nd Point of Interest
+ mem_last_orila_2_system:0 "Origen de la Flota Pirata"
+ mem_last_orila_2_system_desc:0 "Según nuestros datos de sensores, la flota pirata que atacó a nuestro equipo de investigación provino de este sistema."
+ 
+ mem_last_orila.6.name:0 "La Guarida de los Piratas"
+ mem_last_orila.6.desc:0 "Nuestra flota ha llegado al sistema natal de los piratas. De hecho, se llevaron el módulo del reactor de los restos. Ya ha sido detectado por nuestros sensores. Desafortunadamente, este sistema está fuertemente fortificado, y la diplomacia no parece ser una opción considerando nuestros encuentros previos con estos forajidos."
+ mem_last_orila.6.a:0 "Despeja el sistema y asegura el reactor."
+ 
+ MEM_LAST_ORILA_REACTOR_PICKUP_1:0 "Investigación del Reactor"
+ MEM_LAST_ORILA_REACTOR_PICKUP_1_DESC:0 "Se ha encontrado el módulo del reactor perdido. Sin embargo, nuestros científicos tendrán que inspeccionarlo primero antes de que podamos proceder con nuestros planes para reconstruir el 'Orgullo de Harilla.'"
+ 
+ mem_last_orila.7.name:0 "Investigación del Reactor Completada"
+ mem_last_orila.7.desc:0 "Nuestros científicos están aliviados por el hecho de que el módulo del reactor todavía está en una pieza. Afortunadamente para nosotros, los piratas parecen no haber tenido suficiente tiempo para juguetear con él antes de que llegara nuestra flota. A pesar de su antigüedad, el módulo parece estar en buen estado, considerando las circunstancias. Ahora deberíamos poder conectarlo al barco de Chap'Lin."
+ mem_last_orila.7.a:0 "Muy bien, continúa."
+ 
+ mem_last_orila_pickup_1:0 "Conexión del Reactor"
+ mem_last_orila_pickup_1_desc:0 "Ahora estamos listos para conectar el módulo del reactor al barco de Chap'Lin. Lleva el 'Sleipnir' a estas coordenadas."
+
+ MEM_LAST_ORILA_REACTOR_PICKUP_2:0 "Conexión del Reactor"
+ MEM_LAST_ORILA_REACTOR_PICKUP_2_DESC:0 "Ahora estamos listos para conectar el módulo del reactor al barco de Chap'Lin."
+ 
+ mem_last_orila.81.name:0 "Conexión Exitosa"
+ mem_last_orila.81.desc:0 "El 'Sleipnir' ha terminado el proceso de conexión. Estamos listos para seguir haciéndolo operativo."
+ mem_last_orila.81.a:0 "Buen trabajo, continúa."
+ 
+ mem_last_orila.9.name:0 "Conexión Abortada"
+ mem_last_orila.9.desc:0 "Sin la presencia de Chap'Lin en este sistema, no podemos terminar el proyecto de conexión."
+ mem_last_orila.9.a:0 "Entendido."
+ 
+ MEM_LAST_ORILA_HULL_PICKUP_1:0 "Estabilización del Casco"
+ MEM_LAST_ORILA_HULL_PICKUP_1_DESC:0 "El módulo del casco está muy dañado y necesitará reparaciones extensas antes de que podamos proceder con nuestros planes para volver a montar el 'Orgullo de Harilla.'"
+ 
+ mem_last_orila.10.name:0 "Estabilización del Casco Completada"
+ mem_last_orila.10.desc:0 "La integridad del casco ha sido restaurada a un nivel aceptable. Todavía necesitará reparaciones extensas, pero debería ser posible moverlo a [root.owner.Capital.GetName]. Ahora deberíamos poder conectarlo al barco de Chap'Lin."
+ mem_last_orila.10.a:0 "Muy bien, continúa."
+
+ mem_last_orila_pickup_2:0 "Conexión del Casco"
+ mem_last_orila_pickup_2_desc:0 "Ahora estamos listos para conectar el módulo del casco al barco de Chap'Lin. Lleva el 'Sleipnir' a estas coordenadas."
+ 
+ MEM_LAST_ORILA_HULL_PICKUP_2:0 "Conexión del Casco"
+ MEM_LAST_ORILA_HULL_PICKUP_2_DESC:0 "Ahora estamos listos para conectar el módulo del casco al barco de Chap'Lin."
+ 
+ mem_last_orila_3_chain_title:0 "Un Orgullo Largo Perdido"
+ mem_last_orila_3_chain_desc:0 "Ahora que hemos recuperado los restos del 'Orgullo de Harilla', es hora de finalmente restaurarlo a su antigua gloria."
+ 
+ mem_last_orila.12.name:0 "Conexión completada"
+ mem_last_orila.12.desc:0 "Con todos los módulos conectados al barco de Chap'Lin, el astillero orbital en [root.Capital.GetName] está esperando su llegada para comenzar el proceso de restauración."
+ mem_last_orila.12.a:0 "Entendido."
+ 
+ mem_last_orila_pickup_3:0 "Preparaciones para la Restauración"
+ mem_last_orila_pickup_3_desc:0 "El 'Orgullo de Harilla' está siendo esperado en nuestros astilleros orbitales en [mem_last_orila_capital.GetName] para comenzar la restauración."
+
+ MEM_LAST_ORILA_RESTORATION_1:0 "Preparaciones para la Restauración"
+ MEM_LAST_ORILA_RESTORATION_1_DESC:0 "El 'Orgullo de Harilla' está siendo esperado en nuestros astilleros orbitales en [root.owner.Capital.GetName] para comenzar la restauración."
+ 
+ mem_last_orila.14.name:0 "Preparaciones Posponidas"
+ mem_last_orila.14.desc:0 "Sin la presencia de Chap'Lin en este sistema, no podemos terminar las preparaciones."
+ mem_last_orila.14.a:0 "Entendido."
+ 
+ MEM_LAST_ORILA_RESTORATION_2:0 "Restauración"
+ MEM_LAST_ORILA_RESTORATION_2_DESC:0 "El 'Orgullo de Harilla' está siendo restaurado a su antigua gloria en nuestros astilleros orbitales en [root.owner.Capital.GetName]."
+ 
+ # Restoration ambient object
+ mem_pride_of_harilla_restoration_object:0 "Orgullo de Harilla"
+ mem_pride_of_harilla_restoration_object_desc:0 "El barco está siendo sometido a extensas reparaciones en este momento."
+ 
+ mem_last_orila.15.name:0 "¿Restauración Completa?"
+ mem_last_orila.15.desc:0 "El 'Orgullo de Harilla' finalmente está reparado, o al menos eso parecía al principio. Chap'Lin explica que aunque las reparaciones fueron exitosas, muchos de los sistemas del barco están funcionando a niveles subóptimos. Incluso con su amplio conocimiento, podrían pasar años para adaptarse a las soluciones bastante primitivas hechas a la tecnología antigua y desbloquear el potencial total del barco en su nueva forma. Ruega su partida mientras menciona que está en medio de algunas calibraciones."
+ mem_last_orila.15.a:0 "Hablaremos más tarde... supongo."
+ 
+ # If the player loses the ship before finishing the quest
+ mem_last_orila.18.name:0 "La Nave está Perdida"
+ mem_last_orila.18.desc:0 "Con la pérdida de la nave de Chap'Lin, todas las esperanzas de restaurar el 'Orgullo de Harilla' han desaparecido. Afortunadamente, los equipos de ingeniería que buscaban entre los escombros pudieron recuperar su núcleo de datos aún intacto. Será llevado a [root.Capital.GetName] para ayudar aún más a [root.GetName] como asesor.\n\nLas partes restantes de los escombros serán valiosas para nuestros futuros esfuerzos de investigación. Se han añadido proyectos para estudios adicionales al registro de situaciones."
+ mem_last_orila.18.a:0 "Al menos no lo perdimos."
+ 
+ mem_last_orila.19.name:0 "La Nave está Perdida"
+ mem_last_orila.19.desc:0 "Con la pérdida de la nave de Chap'Lin, todas las esperanzas de restaurar el 'Orgullo de Harilla' han desaparecido. Afortunadamente, los equipos de ingeniería que buscaban entre los escombros pudieron recuperar su núcleo de datos aún intacto. Será llevado a [root.Capital.GetName] para ayudar aún más a [root.GetName] como asesor."
+ mem_last_orila.19.a:0 "Al menos no lo perdimos."
+ 
+ MEM_LAST_ORILA_WRECKAGE_STUDY:0 "Diseño de Nave Antigua"
+ MEM_LAST_ORILA_WRECKAGE_STUDY_DESC:0 "Aunque el casco está muy dañado, muchos sistemas internos todavía pueden ser estudiados para mejorar nuestro conocimiento en el campo de la ingeniería."
+ 
+ MEM_LAST_ORILA_REACTOR_STUDY:0 "Tecnología de Reactor Antiguo"
+ MEM_LAST_ORILA_REACTOR_STUDY_DESC:0 "Aunque es dudoso que podamos reproducirla actualmente, todavía podemos avanzar mucho en nuestro entendimiento en el campo de la física estudiando esta pieza de tecnología antigua."
+ 
+ mem_last_orila.20.name:0 "Estudio de Diseño de Nave Terminado"
+ mem_last_orila.20.desc:0 "Nuestros científicos a bordo de [root.GetName] han terminado su estudio de los restos antiguos. Debe haber sido un barco impresionante antes de su pérdida. Sin embargo, hemos hecho avances significativos en nuestra investigación basados en sus sistemas."
+ mem_last_orila.20.a:0 "Continúa."
+ 
+ mem_last_orila.21.name:0 "Estudio de Reactor Terminado"
+ mem_last_orila.21.desc:0 "Nuestros Científicos a bordo de [root.GetName] han terminado su estudio del reactor antiguo. La cantidad de energía que este artefacto es capaz de producir eclipsa incluso a nuestros generadores de energía más avanzados. Los conocimientos que hemos obtenido al estudiar esta pieza de tecnología antigua nos ayudarán enormemente en nuestro progreso tecnológico futuro."
+ mem_last_orila.21.a:0 "Muy bien."

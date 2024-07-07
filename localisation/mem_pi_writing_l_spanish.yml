@@ -1,0 +1,8 @@
+﻿l_spanish:
+ #Pi Writing Anomaly
+ #Writing and code by LamilLerran
+ #Note that this comes from a vanilla anomaly category, title "Surface Writing" and text
+ #"There is significant scarring on the surface of this world in a pattern that cannot be natural. From orbit, the massive rifts look almost like writing."
+ mem_writing_uninhabitable_category:0 "$writing_uninhabitable_category$"
+ mem_pi_writing.1.name:0 "Pi"
+ mem_pi_writing.1.desc:0 "Las grietas en §Y[From.GetName]§! son de hecho escritura. Según el equipo de estudio, indica los primeros 196 dígitos de pi expresados en base 14. Los sociólogos prominentes ahora están especulando furiosamente sobre por qué los autores creían que cualquiera capaz de leer este mensaje necesitaría la información."

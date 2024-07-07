@@ -1,0 +1,198 @@
+﻿######################################################
+# Space Monster Attacks
+# Text by Malthus
+# Code by Malthus
+######################################################
+
+l_spanish:
+ 
+ mem_crystal_ship_giant:0 "Soberano de Cristal Antiguo"
+ mem_crystal_ship_giant_plural:0 "Soberanos de Cristal Antiguos"
+ 
+ d_mem_crystals_mining:0 "Campos de Cristal"
+ d_mem_crystals_mining_desc:0 "Un área cubierta con formaciones minerales semi-vivas generadas por un antiguo cristal de vacío. La cosecha periódica de estos cristales aumentará significativamente la capacidad de producción de minerales de esta colonia, pero a costa de un ecosistema debilitado y una reducción de la producción agrícola."
+ 
+ d_mem_crystals_science:0 "Campos de Cristal"
+ d_mem_crystals_science_desc:0 "Un área en constante crecimiento cubierta con formaciones minerales semi-vivas generadas por un antiguo cristal de vacío. Estudiar estos cristales beneficiará los esfuerzos de investigación de la colonia, mientras reduce sus capacidades de producción de minerales y agrícolas."
+ 
+ mem_crystal_removal:0 "Eliminación de Cristales"
+ mem_crystal_removal_desc:0 "Una parte significativa de los esfuerzos de esta colonia se dedica a la eliminación de la infestación de cristales, que ahora se ha extendido por todo el planeta."
+
+ # Crystal appears in player system
+ mem_space_monster_attacks.1.name:0 "Entidad Cristalina se Acerca"
+ mem_space_monster_attacks.1.desc:0 "Los sensores de largo alcance de nuestra colonia han detectado una señal alarmante que se acerca desde el espacio profundo. Una sonda enviada rápidamente reveló que se trataba de una estructura cristalina gigante. Un intento de comunicación desde nuestra nave fue seguido por un pico de energía intenso y la pérdida inmediata de contacto con la sonda.\n\nTenemos que asumir que el cristal es hostil. Nuestra flota ha sido puesta en alerta máxima."
+ mem_space_monster_attacks.1.desc.gestalt:0 "Nuestros sensores de largo alcance de la colonia han notado una señal alarmante que se acerca desde el espacio profundo. Una sonda enviada rápidamente reveló que se trataba de una estructura cristalina gigante. Un intento de comunicación desde nuestra nave fue seguido por un pico de energía intenso y la pérdida inmediata de contacto con la sonda.\n\nTenemos que asumir que el cristal es hostil. Nuestra flota ha sido puesta en alerta máxima."
+ mem_space_monster_attacks.1.a:0 "¿Por qué está aquí?"
+ 
+ # crystal has bombarded the colony
+ mem_space_monster_attacks.2.name:0 "Muerte desde Arriba"
+ mem_space_monster_attacks.2.desc:0 "La fuerza de defensa colonial no tuvo ninguna oportunidad contra la entidad cristalina. Inmediatamente después de que se decidió la batalla, comenzó a llover [This.GetName] con pequeños fragmentos de cristal disparados a alta velocidad. Los primeros informes hablan de cientos de miles de bajas.\n\nMientras estos números aún aumentan por hora, el cristal ha dejado la órbita del planeta y ha vuelto al vacío."
+ mem_space_monster_attacks.2.desc.gestalt:0 "La fuerza de defensa colonial fue derrotada por la entidad cristalina. Inmediatamente después de que se decidió la batalla, comenzó a llover [This.GetName] con pequeños fragmentos de cristal disparados a alta velocidad. El daño a la infraestructura de la colonia ha sido sustancial y se han perdido muchos drones.\n\nEl cristal ha dejado la órbita del planeta y ha vuelto al espacio profundo."
+ mem_space_monster_attacks.2.a:0 "¡Qué terrible!"
+ mem_space_monster_attacks.2.b:0 "Infortunado."
+
+ # crystal has been destroyed before bombarding the colony
+ mem_space_monster_attacks.3.name:0 "Peligro Evitado"
+ mem_space_monster_attacks.3.desc:0 "Nuestra flota ha sido victoriosa. Solo quedan fragmentos rotos de la entidad cristalina. Por qué vino aquí y nos atacó nunca se revelará, pero nuestra colonia está segura una vez más.\n\nUn breve escaneo de los restos del cristal mostró que estaban compuestos de minerales de gran valor. Ya se ha ordenado a los cargueros cercanos que los recojan. Mientras que la mayoría de estos fragmentos serán raspados para obtener recursos, las piezas más interesantes se guardarán para un estudio más detenido.\n\nAlgunos de nuestros científicos ya fantasean con las posibles aplicaciones como cascos auto-reparables, mientras que otros señalan que hay mucha investigación fundamental que hacer antes de que podamos esperar un gran avance."
+ mem_space_monster_attacks.3.desc.gestalt:0 "Nuestra flota ha sido victoriosa. Solo quedan fragmentos rotos de la entidad cristalina. Por qué vino aquí y nos atacó nunca se revelará, pero nuestra colonia está segura una vez más.\n\nUn breve escaneo de los restos del cristal mostró que estaban compuestos de minerales de gran valor. Ya se ha ordenado a los cargueros cercanos que los recojan. Mientras que la mayoría de estos fragmentos serán raspados para obtener recursos, las piezas más interesantes se guardarán para un estudio más detenido.\n\nLas posibles aplicaciones como cascos auto-reparables justifican una investigación."
+ mem_space_monster_attacks.3.a:0 "Buen trabajo."
+ mem_space_monster_attacks.3.b:0 "Afirmativo."
+ 
+ # crystal has been destroyed after bombarding the colony
+ mem_space_monster_attacks.4.name:0 "Retribución"
+ mem_space_monster_attacks.4.desc:0 "Nuestra flota ha sido victoriosa. Solo quedan fragmentos rotos de la entidad cristalina. Aunque nunca sepamos de dónde vino y por qué, al menos su destrucción ha vengado a las víctimas de su brutal ataque.\n\nUn breve escaneo de los restos del cristal mostró que estaban compuestos de minerales de gran valor. Ya se ha ordenado a los cargueros cercanos que los recojan. Mientras que la mayoría de estos fragmentos serán raspados para obtener recursos, las piezas más interesantes se guardarán para un estudio más detenido.\n\nAlgunos de nuestros científicos ya fantasean con posibles aplicaciones como cascos auto-reparables, mientras que otros señalan que hay mucha investigación fundamental que hacer antes de que podamos esperar un gran avance."
+ mem_space_monster_attacks.4.desc.gestalt:0 "Nuestra flota ha sido victoriosa. Solo quedan fragmentos rotos de la entidad cristalina. Aunque nunca sepamos de dónde vino y por qué, al menos su destrucción evitará futuros ataques.\n\nUn breve escaneo de los restos del cristal mostró que estaban compuestos de minerales de gran valor. Ya se ha ordenado a los cargueros cercanos que los recojan. Mientras que la mayoría de estos fragmentos serán raspados para obtener recursos, las piezas más interesantes se guardarán para un estudio más detenido.\n\nLas posibles aplicaciones como cascos auto-reparables justifican una investigación."
+ mem_space_monster_attacks.4.a:0 "Buen trabajo."
+ mem_space_monster_attacks.4.b:0 "Afirmativo."
+ 
+ # Project finished
+ mem_space_monster_attacks.5.name:0 "Análisis de Cristal"
+ mem_space_monster_attacks.5.desc:0 "Los fragmentos de cristal recuperados muestran notables similitudes con el espécimen más pequeño que hemos encontrado antes, sin embargo, hay una notable diferencia en su comportamiento. Mientras que los cristales encontrados anteriormente actuaban agresivamente, sus acciones siempre habían estado limitadas a su propio territorio. Además, el enorme tamaño de este espécimen más grande lleva a nuestros científicos a la conclusión de que tiene que ser una nueva especie.\n\nEl material que compone casi la totalidad de su masa posee asombrosas habilidades de auto-reparación, una propiedad que podría aplicarse a las placas de Blindaje de nuestras naves dado más tiempo e investigación. Se ha añadido una nueva opción de investigación a la piscina de proyectos."
+ mem_space_monster_attacks.5.a:0 "Interesante."
+ 
+ # crystals grow everywhere, what now?
+ mem_space_monster_attacks.6.name:0 "Infestación de Cristales"
+ mem_space_monster_attacks.6.desc:0 "A medida que los colonos en [Root.GetName] todavía se estaban recuperando del devastador ataque, hemos recibido informes preocupantes sobre fragmentos de cristal que crecen en varios lugares alrededor de los asentamientos.\n\nUna investigación más a fondo ha revelado que la propagación de estos cristales no se limita a las inmediaciones de la colonia. En cambio, se pueden encontrar en concentraciones variables en todo el planeta, extrayendo lentamente minerales del suelo a lo largo de su proceso de crecimiento. Es difícil decir en este punto cómo esto afectará al ecosistema del planeta.\n\nHay múltiples posibles cursos de acción a tomar. Los colonos pueden intentar erradicar la infestación de cristales, cosecharlos periódicamente, o estudiar su crecimiento."
+ mem_space_monster_attacks.6.desc.gestalt:0 "A medida que los drones en [Root.GetName] todavía estaban reparando los daños del devastador ataque, hemos notado fragmentos de cristal que crecen en varios lugares alrededor de los asentamientos.\n\nUna investigación más a fondo ha revelado que la propagación de estos cristales no se limita a las inmediaciones de la colonia. En cambio, se pueden encontrar en concentraciones variables en todo el planeta, extrayendo lentamente minerales del suelo a lo largo de su proceso de crecimiento. Es difícil decir en este punto cómo esto afectará al ecosistema del planeta.\n\nHay múltiples posibles cursos de acción a tomar. Los drones pueden intentar erradicar la infestación de cristales, cosecharlos periódicamente, o estudiar su crecimiento."
+ mem_space_monster_attacks.6.a:0 "Dejen que cosechen los cristales regularmente."
+ mem_space_monster_attacks.6.a.tooltip:0 "§GProducción de minerales +50%§!\n§G+2 espacios para distritos mineros§!\n§G+2 trabajos de recolector de cristales raros§!\n§R-2 espacios para distritos agrícolas§!"
+ mem_space_monster_attacks.6.b:0 "Dejen que estudien los cristales."
+ mem_space_monster_attacks.6.b.tooltip:0 "§GInvestigación de sociedad +20%\nInvestigación de ingeniería +20%\n+2 trabajos de investigación\n+1 trabajo de investigación adicional por cada 20 poblaciones\n+1 trabajo de recolector de cristales raros§!\n§R-2 distritos agrícolas\n-1 distrito minero\nProducción de minería -10%§!"
+ mem_space_monster_attacks.6.c:0 "Dejen que erradiquen la infestación de cristales."
+ mem_space_monster_attacks.6.c.tooltip:0 "Nuestra colonia en [Root.GetName] se centrará en eliminar cada último brote de cristal. Todos los minerales obtenidos durante este proceso se añadirán al almacenamiento del imperio al final de este proceso. La productividad de esta colonia se reducirá en un 50% hasta que se complete este proceso. Se espera que el ecosistema del planeta pueda recuperarse completamente una vez terminado el trabajo."
+ #mem_space_monster_attacks.6.d:0 "REPLACE_ME"
+ 
+ # planet turns bleak
+ mem_space_monster_attacks.7.name:0 "Cambios en la Biosfera"
+ mem_space_monster_attacks.7.desc:0 "A pesar de los constantes esfuerzos de los colonos para contener la infestación de cristales, la propagación ha alcanzado ahora una extensión crítica. El daño al ecosistema del planeta es ahora innegable. Los rendimientos agrícolas están en mínimos históricos y la vegetación en general está en un estado de constante declive a medida que los cristales agotan el suelo.\n\nAunque nuestros científicos están seguros de que pueden prevenir que el planeta se vuelva completamente inhóspito, dudan de que este proceso pueda revertirse sin una extensa terraformación."
+ mem_space_monster_attacks.7.desc.gestalt:0 "A pesar de los constantes esfuerzos de los drones para contener la infestación de cristales, la propagación ha alcanzado ahora una extensión crítica. El daño al ecosistema del planeta es ahora innegable. Los rendimientos agrícolas están en mínimos históricos y la vegetación en general está en un estado de constante declive a medida que los cristales agotan el suelo.\n\nAunque es poco probable que el planeta se vuelva completamente inhóspito debido a nuestra intervención, revertir los efectos requeriría una extensa terraformación."
+ mem_space_monster_attacks.7.a:0 "Preocupante."
+ mem_space_monster_attacks.7.b:0 "Entendido."
+ mem_space_monster_attacks.7.c:0 "Esto era de esperar."
+
+ 
+ # crystals removed
+ mem_space_monster_attacks.8.name:0 "La Gran Limpieza"
+ mem_space_monster_attacks.8.desc:0 "Finalmente, las últimas trazas restantes de la infestación de cristales en [Root.GetName] han sido eliminadas. La vida colonial está volviendo lentamente a la normalidad.\n\nLos cristales procesados han sido añadidos a nuestro almacenamiento imperial."
+ mem_space_monster_attacks.8.a:0 "Buenas noticias."
+ 
+ MEM_SPACE_MONSTER_ATTACKS_CRYSTAL_STUDY:0 "Restos Cristalinos"
+ MEM_SPACE_MONSTER_ATTACKS_CRYSTAL_STUDY_DESC:0 "Una investigación de los fragmentos de cristal restantes podría resultar beneficiosa para nuestros esfuerzos de investigación, pero nuestro departamento de investigación tendrá que dedicar recursos y personal significativos para centrarse en este estudio."
+
+ # ecosystem restored after removing the crystals
+ mem_space_monster_attacks.9.name:0 "Ecosistema Restaurado"
+ mem_space_monster_attacks.9.desc:0 "[root.GetName] el ecosistema muestra claros signos de recuperación de los daños que la infestación cristalina había causado."
+ mem_space_monster_attacks.9.a:0 "Muy bien."
+ mem_space_monster_attacks.9.b:0 "Reconocido."
+
+ # situation finished, feature added
+ mem_space_monster_attacks.10.name:0 "Infestación Contenida"
+ mem_space_monster_attacks.10.desc:0 "Con la infestación finalmente contenida dentro de una zona segura, ahora podemos establecer una nueva normalidad.\n\nEl ecosistema ha sido dañado, aunque no se espera ninguna degradación adicional. A partir de ahora, el foco puede ser puesto en cómo explotar mejor los campos de cristal."
+ 
+ # decisions to add or remove the crystal field special feature
+ decision_mem_crystal_fields_clearing:0 "Limpieza del Campo de Cristal"
+ decision_mem_crystal_fields_clearing_desc:0 "Este proceso eliminará todos los rastros de la infestación cristalina. Los daños ecológicos sufridos debido a ella se curarán con el tiempo."
+ decision_mem_crystal_fields_seeding:0 "Siembra del Campo de Cristal"
+ decision_mem_crystal_fields_seeding_desc:0 "Se sembrará un campo de cristal, proporcionando una mayor extracción de minerales, así como siendo una fuente de cristales raros. Sin embargo, el crecimiento continuo de los cristales degradará el ecosistema de este planeta."
+
+ # tech to get the decision to add the special feature + building
+ tech_mem_crystal_cultivation:0 "Cultivo de Cristales"
+ tech_mem_crystal_cultivation_desc:0 "Los avances en la adaptación ecológica nos permitirán sembrar nuevos campos de cristales dentro de entornos controlados. Este proceso degrada el ecosistema del planeta anfitrión, pero los daños permanecerán dentro de parámetros aceptables."
+
+ # building requires tech and special feature present
+ building_mem_crystal_harvester:0 "Cosechadora de Cristales"
+ building_mem_crystal_harvester_desc:0 "Esta estación de comando de drones opera múltiples máquinas de cosecha dentro de los campos de cristales para recoger el espécimen maduro para su procesamiento."
+
+ # crystal situation
+ situation_mem_spacemonster_attacks_crystal:0 "Una Infestación Cristalina"
+ situation_mem_spacemonster_attacks_crystal_type:0 "$situation_mem_spacemonster_attacks_crystal$"
+ situation_mem_spacemonster_attacks_crystal_desc:0 "Desde el bombardeo orbital, nos dimos cuenta de varios puntos calientes de infestación cristalina formándose en [Target.GetName]."
+ situation_mem_spacemonster_attacks_crystal_monthly_change_tooltip:0 "Para que progrese la eliminación de las infestaciones en expansión, al menos tres trabajos de extractor de cristales tienen que ser llenados."
+ approach_mem_spacemonster_attacks_crystal_study:0 "Estudia los Cristales"
+ approach_mem_spacemonster_attacks_crystal_harvest:0 "Cosecha los Cristales"
+ approach_mem_spacemonster_attacks_crystal_destroy:0 "Limpia los Cristales"
+ approach_mem_spacemonster_attacks_crystal_destroy_tooltip:0 "Vamos a limpiar la infestación de cristales mientras mantenemos un pequeño número de especímenes para una investigación adicional."
+ mem_space_monster_attacks_situation_modifier_desc:0 "Demasiados Pocos Extractores de Cristales"
+
+ r_mem_amoeba_sample:0 "Muestra de Amoeba Antigua"
+ r_mem_amoeba_sample_desc:0 "Restos almacenados del Cadáver de la Amoeba Antigua, listos para ser sintetizados"
+ relic_mem_amoeba_sample_active_tooltip:0 "§HDesbloquea Decisión:§! §G$decision_mem_toxic_terraforming$§!, otorgando la capacidad de convertir un planeta $pc_toxic$ en un §Y$pc_gaia$§!."
+
+ tech_mem_toxic_gaiaforming:0 "Gaiaformación Tóxica"
+ tech_mem_toxic_gaiaforming_desc:0 "El estudio de las muestras aseguradas de la amoeba antigua, que se estrelló en nuestra colonia, nos dará una idea de cómo replicar su efecto en la biosfera del planeta."
+
+ decision_mem_toxic_terraforming:0 "Gaiaformación Tóxica"
+ decision_mem_toxic_terraforming_desc:0 "Este planeta será transformado de un páramo tóxico a un mundo jardín exuberante en una década."
+
+ situation_mem_toxic_gaiaforming:0 "Gaiaformación Tóxica"
+ situation_mem_toxic_gaiaforming_type:0 "$situation_mem_toxic_gaiaforming$"
+ situation_mem_toxic_gaiaforming_desc:0 "$decision_mem_toxic_terraforming_desc$"
+ situation_mem_toxic_gaiaforming_monthly_change_tooltip:0 "Este proyecto avanzará hasta su finalización."
+ mem_toxic_gaiaforming_modifier_desc:0 "Progreso Mensual"
+
+ d_mem_amoeba_corpse:0 "Restos de Amoeba Antigua"
+ d_mem_amoeba_corpse_desc:0 "Los restos de una amoeba antigua, que se estrelló en este planeta. Ofrece amplias oportunidades para la investigación, así como una fuente de gases exóticos producidos por su descomposición."
+ 
+ situation_mem_spacemonster_attacks_amoeba:0 "Herida Supurante"
+ situation_mem_spacemonster_attacks_amoeba_type:0 "$situation_mem_spacemonster_attacks_amoeba$"
+ situation_mem_spacemonster_attacks_amoeba_desc:0 "La biomasa en descomposición de la amoeba libera sustancias tóxicas previamente desconocidas que afectan negativamente a la flora y fauna en su proximidad."
+ situation_mem_spacemonster_attacks_amoeba_monthly_change_tooltip:0 "Esta situación avanza hasta su final sin ninguna entrada adicional."
+ approach_mem_spacemonster_attacks_amoeba_embrace:0 "Acepta el Cambio"
+ approach_mem_spacemonster_attacks_amoeba_stall:0 "Detén el Proceso"
+ approach_mem_spacemonster_attacks_amoeba_destroy:0 "Elimina el Cadáver"
+ approach_mem_spacemonster_attacks_amoeba_destroy_tooltip:0 "Vamos a limpiar la infestación del cadáver de la amoeba mientras mantenemos muestras para una investigación adicional."
+
+ MEM_SPACE_MONSTER_ATTACKS_AMOEBA_STUDY:0 "Una Amoeba Antigua"
+ MEM_SPACE_MONSTER_ATTACKS_AMOEBA_STUDY_DESC:0 "Una investigación de los restos de la amoeba podría resultar beneficiosa para nuestros esfuerzos de investigación, pero nuestro departamento de investigación tendrá que dedicar recursos y personal significativos para centrarse en este estudio."
+
+ #Amoeba appears
+ mem_space_monster_attacks.11.name:0 "Se Acerca una Enorme Amoeba Espacial"
+ mem_space_monster_attacks.11.desc:0 "Los sensores de largo alcance de nuestra colonia han captado una señal alarmante que se acerca desde el espacio profundo. Una sonda enviada rápidamente reveló que se trataba de una enorme amoeba espacial. Un intento de comunicación desde nuestra nave no obtuvo ninguna respuesta.\n\nAunque este espécimen parece bastante pasivo en comparación con sus congéneres, se dirige directamente hacia nuestra colonia. Nuestra flota ha sido puesta en alerta máxima."
+ mem_space_monster_attacks.11.desc.gestalt:0 "Nuestros sensores de largo alcance de la colonia han notado una señal alarmante que se acerca desde el espacio profundo. Una sonda enviada rápidamente reveló que se trataba de una enorme amoeba espacial. Un intento de comunicación desde nuestra nave no obtuvo ninguna respuesta.\n\nAunque este espécimen parece bastante pasivo en comparación con otros de su tipo, se dirige directamente hacia nuestra colonia. Nuestra flota ha sido puesta en alerta máxima."
+ mem_space_monster_attacks.11.a:0 "Envía la flota."
+
+ #Amoeba crashed on planet
+ mem_space_monster_attacks.12.name:0 "Aterrizaje Planetario"
+ mem_space_monster_attacks.12.desc:0 "Ignorando nuestras defensas, la ameba alcanzó [this.GetName] descendiendo a su atmósfera. Arrastrando detrás de sí una estela ardiente claramente visible desde nuestra colonia principal, se estrelló en un área escasamente poblada.\n\nMientras aún se estaban llevando a cabo los procedimientos de evacuación, los primeros informes del lugar del accidente confirmaron la muerte de la criatura como resultado del impacto.\n\n¿Vino aquí para morir?\n\nSe ha acordonado el entorno inmediato para permitir una investigación más cercana."
+
+ #Amoeba has been destroyed before reaching the colony
+ mem_space_monster_attacks.13.name:0 "Peligro Evitado"
+ mem_space_monster_attacks.13.desc:0 "Nuestra flota ha sido victoriosa. Solo quedan pedazos destrozados de la ameba. Por qué vino aquí y nos atacó puede que nunca se revele, pero nuestra colonia está segura una vez más.\n\nUn breve escaneo de los restos de la ameba mostró la presencia de gases exóticos de gran valor y otros materiales útiles. Ya se ha ordenado a los cargueros cercanos que los recojan. Si bien la mayoría de los escombros se rasparán para obtener recursos, las piezas más interesantes se conservarán para un estudio más detenido.\n\nAlgunos de nuestros científicos ya fantasean con las posibles aplicaciones, como cascos auto-reparables, mientras que otros señalan que hay mucha investigación fundamental que hacer antes de que podamos esperar un gran avance."
+
+ #Project finished
+ mem_space_monster_attacks.14.name:0 "Un Especimen Antiguo"
+ mem_space_monster_attacks.14.desc:0 "El análisis de los restos de la ameba proporcionó solo unas pocas respuestas a nuestras preguntas. Parece ser el espécimen más antiguo que jamás haya sido encontrado por cualquiera de nuestras naves. Por qué vino aquí sigue siendo un misterio, pero se suponía que se acercaba al final de su ciclo de vida en el momento en que nos encontramos con él.\n\nAdemás de esto, solo hubo una ganancia marginal de comprensión con respecto a su capacidad regenerativa natural, que sin embargo ayudará a nuestros futuros esfuerzos de investigación en este campo."
+
+ #Amoeba corpse infestations spreads, what now?
+ mem_space_monster_attacks.15.name:0 "Herida Purulenta"
+ mem_space_monster_attacks.15.desc:0 "Los informes entrantes describen desarrollos preocupantes en torno a la carcasa de la ameba en [Root.GetName]. Su biomasa en descomposición libera sustancias tóxicas previamente desconocidas que ya afectan negativamente a la flora y fauna dentro de su proximidad.\n\nLos estudios de la carcasa en sí revelaron que era el espécimen más antiguo de su tipo que aún nos encontramos y probablemente estaba cerca del final de su ciclo de vida. Sin embargo, por qué eligió este planeta para morir sigue siendo un misterio.\n\nLa pregunta más inmediata es, cómo lidiar con los restos."
+
+ #Amoeba corpse removed
+ mem_space_monster_attacks.16.name:0 "Cadáver Removido"
+ mem_space_monster_attacks.16.desc:0 "Finalmente se han eliminado los restos de la ameba y los daños anteriores al ecosistema de [Root.GetName] parecen ser temporales en su naturaleza sin que se esperen efectos duraderos.\n\nLa carcasa en sí nos proporcionó una cantidad considerable de gases raros y material para un estudio más detenido."
+
+ #situation stage 2 reached
+ mem_space_monster_attacks.17.name:0 "Estado de Decadencia"
+ mem_space_monster_attacks.17.desc.a:0 "El área afectada por las toxinas en descomposición de la ameba está creciendo constantemente. La flora y la fauna están sucumbiendo lentamente al efecto de la toxina. Por ahora, nuestra colonia todavía está fuera del territorio afectado, aunque puede que no permanezca así por mucho más tiempo."
+ mem_space_monster_attacks.17.desc.b:0 "El área afectada por las toxinas en descomposición de la ameba está creciendo constantemente. La flora y la fauna están sucumbiendo lentamente al efecto de la toxina. Las medidas tomadas para frenar la propagación tuvieron éxito en cierto grado, pero solo retrasan lo inevitable. Por ahora, nuestra colonia todavía está fuera del territorio afectado, aunque puede que no permanezca así por mucho más tiempo."
+
+ #situation stage 3 reached
+ mem_space_monster_attacks.18.name:0 "Mutación"
+ mem_space_monster_attacks.18.desc:0 "Se han estado acumulando informes de vida silvestre muriendo y vegetación marchitándose. Entre los especímenes sobrevivientes se ha informado que las mutaciones están desenfrenadas coincidiendo con una agresividad creciente de la vida silvestre restante.\n\nEsto no es todo, sin embargo, ya que se están observando efectos adversos similares dentro de nuestra población hasta el punto de llegar a las fatalidades con el número de casos creciendo constantemente."
+ mem_space_monster_attacks.18.desc.machine:0 "Se han estado acumulando informes de vida silvestre muriendo y vegetación marchitándose. Entre los especímenes sobrevivientes se ha informado que las mutaciones están desenfrenadas coincidiendo con una agresividad creciente de la vida silvestre restante."
+
+ #situation finished, planet changed to gaia
+ mem_space_monster_attacks.19.name:0 "Regeneración"
+ mem_space_monster_attacks.19.desc:0 "Cuando pensamos que el proceso en curso podría convertir inevitablemente a [This.GetName] en un páramo tóxico, se notó un cambio en la atmósfera de [This.GetPlanetMoon]. La concentración de partículas tóxicas asociadas al cadáver de la ameba está disminuyendo constantemente.\n\nLa razón aparente de este declive son las plantas mutadas, que ya están reclamando regiones anteriormente muertas alimentadas por la absorción de estas partículas. Esperamos que su rápido crecimiento disminuya una vez que la atmósfera esté libre de contaminación.\n\nSi esta tendencia continúa, [This.GetName] terminará siendo más habitable de lo que era antes de este problema."
+
+ #Amoeba sample research finished
+ mem_space_monster_attacks.20.name:0 "Gaiaformación Tóxica"
+ mem_space_monster_attacks.20.desc:0 "Con la investigación necesaria ya realizada, ahora somos capaces de sintetizar y ajustar el material excretado por el antiguo cadáver de ameba para gaiaformar planetas de manera controlada. Sin embargo, esto solo funcionará en mundos tóxicos y requerirá una inversión significativa de material y tiempo."
+
+ #situation finished, planet changed to gaia
+ mem_space_monster_attacks.21.name:0 "Gaiaformación"
+ mem_space_monster_attacks.21.desc:0 "Nuestros [Root.GetTerraformerPlural] se complacen en informar que el proceso de gaiaformación en [mem_toxic_gaiaforming_target.GetName] ha concluido! La implementación de nuevos híbridos de plantas creados en laboratorio, hechos usando gases de ameba sintetizados y semillas genéticamente modificadas, transformó exitosamente el clima y la atmósfera de [mem_toxic_gaiaforming_target.GetName] en menos de una década.\n\nLas plantas híbridas se multiplicaron a través del planeta como se esperaba, y ahora están entrando en una fase 'dormida', ya que los cambios químicos atmosféricos en [mem_toxic_gaiaforming_target.GetName] las han desactivado ahora."
+
+ #Relic used, planet suggested
+ mem_space_monster_attacks.23.name:0 "Un Candidato Tóxico"
+ mem_space_monster_attacks.23.desc:0 "Nuestros [Root.GetTerraformerPlural] ya han seleccionado un candidato adecuado para nuestro candidato a gaiaformación para sugerir para el procedimiento. Sin embargo, si finalmente será elegido o no, no está en sus manos."

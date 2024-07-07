@@ -1,0 +1,334 @@
+﻿#By Caligula
+
+l_spanish:
+
+ mem_lost_emperor_category:0 "Vaso Misterioso"
+ mem_lost_emperor_category_desc:0 "Nuestros sensores han captado destellos de un pequeño objeto metálico orbitando la estrella a una distancia inusualmente cercana. Deberíamos investigar esto más a fondo."
+
+ mem_lost_emperor.1001.name:0 "Vaso Misterioso"
+ mem_lost_emperor.1001.desc:0 "Los sensores de nuestra base estelar en el sistema [mem_lost_emperor_system.GetName] han captado destellos de un pequeño objeto metálico orbitando la estrella a una distancia inusualmente cercana. Esto es sorprendente, ya que el sistema ha estado bajo nuestra administración durante algún tiempo sin que se haya registrado nunca ningún objeto de este tipo. Sin embargo, la evidencia captada por los sensores es bastante concluyente: definitivamente hay algo que encontrar allí."
+ mem_lost_emperor.1001.option:0 "Deberíamos investigar esto más a fondo."
+
+ mem_lost_emperor_science_investigate:0 "$mem_lost_emperor_category$"
+ mem_lost_emperor_science_investigate_DESC:0 "$mem_lost_emperor_category_desc$"
+
+ mem_lost_emperor_azran_chain_title:0 "El Vaso Misterioso"
+ mem_lost_emperor_azran_chain_desc:0 "Nuestros sensores han detectado un pequeño objeto metálico orbitando una estrella a una distancia inusualmente cercana. Deberíamos investigar esto más a fondo."
+
+ mem_lost_emperor.1.name:0 "Vaso Misterioso"
+ mem_lost_emperor.1.desc:0 "Resulta que el objeto es una cápsula de metal, posiblemente lo suficientemente grande como para albergar a un ser sapiente. Parece estar cubierto de paneles solares de un diseño avanzado. Las lecturas de energía muestran que está consumiendo una cantidad extraordinaria de energía, presumiblemente en parte para mantenerlo a flote y protegerlo de la radiación en su órbita cercana a la estrella.\n\nDesde que el [root.GetName] ha fijado sus sensores en la losa y ha comenzado su acercamiento, el objeto ha estado transmitiendo un mensaje a nosotros. Enviado en alrededor de seis docenas de idiomas, dice:
+ mem_lost_emperor.1.A:0 "Mejor déjalo estar."
+ mem_lost_emperor.1.B:0 "Esto suena interesante. Vamos a verlo."
+ mem_lost_emperor.1.C:0 "Intenta establecer comunicaciones."
+
+ mem_lost_emperor.2.name:0 "Disparo de Advertencia"
+ mem_lost_emperor.2.desc:0 "La cápsula ha disparado un tiro de advertencia. Claramente está armada. ¿Cómo deberíamos proceder?"
+ mem_lost_emperor.2.A:0 "Déjalo estar."
+ mem_lost_emperor.2.B:0 "Ignora la advertencia. No puede ser tan fuerte, ¿verdad?"
+ mem_lost_emperor.2.C:0 "Intenta hablar con él."
+
+ mem_lost_emperor.3.name:0 "Nave Destruida!"
+ mem_lost_emperor.3.desc:0 "Un poderoso pulso eléctrico ha aniquilado el [root.GetName], matando a todos a bordo."
+ mem_lost_emperor.3.A:0 "Mejor déjalo estar. No vale la pena el esfuerzo."
+ mem_lost_emperor.3.B:0 "Envía a los militares la próxima vez."
+
+ mem_lost_emperor.4.name:0 "El mensaje de Azran"
+ mem_lost_emperor.4.desc:0 "Soy Azran, la entidad a cargo de esta nave. He sido encargado de la protección de mi carga y de la protección de la galaxia contra ella. El curso actual de tu nave la pone inaceptablemente cerca de mi nave. Por favor, desiste de tu curso o me veré obligado a tomar medidas."
+ mem_lost_emperor.4.A.dialogue:0 "¿Cuál es tu carga?"
+ mem_lost_emperor.classified:0 "Esta información está clasificada."
+ mem_lost_emperor.4.B.dialogue:0 "¿Quién te puso aquí?"
+ mem_lost_emperor.4.C.dialogue:0 "¿Cuánto tiempo has orbitado esta estrella?"
+ mem_lost_emperor.4.D.dialogue:0 "¿Hay alguna información que no esté clasificada?"
+ mem_lost_emperor.4.D.response:0 "Por tu propia seguridad, por favor desiste de tu curso actual. Has sido advertido."
+ mem_lost_emperor.4.E.dialogue:0 "¿Hay alguien más con quien podamos hablar?"
+ mem_lost_emperor.4.E.response:0 "Esta es tu última advertencia. Desiste o dispararé."
+ mem_lost_emperor.4.F.action:0 "Lo que sea."
+ mem_lost_emperor.4.F.tooltip:0 "Continuamos investigando, a pesar de las advertencias del objeto."
+ mem_lost_emperor.4.G.action:0 "Muy bien. Desistiremos."
+ mem_lost_emperor.4.H.action:0 "(Mentira) Muy bien. Desistiremos."
+ mem_lost_emperor.4.H.action.tooltip:0 "Volveremos con respaldo militar."
+
+ mem_lost_emperor_military_investigate:0 "Investigar la Cápsula con Fuerza"
+ mem_lost_emperor_military_investigate_DESC:0 "Una misteriosa nave orbitando esta estrella parece estar custodiando un importante secreto. Desafortunadamente, sin embargo, está fuertemente armada y controlada por una IA que está empeñada en asegurarse de que su secreto no vea la luz del día."
+
+ mem_azran:0 "Azran"
+ mem_azran_plural:0 ""
+ shipsize_mem_azran_construction_speed_mult:0 ""
+ shipsize_mem_azran_build_cost_mult:0 ""
+ shipsize_mem_azran_upkeep_mult:0 ""
+
+ mem_lost_emperor.5.name:0 "La Nave se Activa"
+ mem_lost_emperor.5.desc:0 "Nuestras naves se acercan a la cápsula. Una vez más, "Azran" nos está enviando advertencias de que debemos desistir de acercarnos. De repente, se pone en marcha, atacando nuestras naves con una sorprendentemente fuerte ráfaga de pulsos de energía."
+ mem_lost_emperor.5.desc.again:0 "A medida que nuestras naves se acercan a la cápsula, Azran se prepara para luchar de nuevo con nuestra flota. ¡Que este intento sea más afortunado que el último!"
+ mem_lost_emperor.5.option:0 "¡A las estaciones de batalla!"
+
+ mem_lost_emperor_military_investigate_1:0 "Derrotar a Azran"
+ mem_lost_emperor_military_investigate_1_DESC:0 "Una misteriosa nave conocida como "Azran" parece estar custodiando un importante secreto. Un remanente de tecnología antigua, a pesar de su pequeño tamaño, tiene un considerable poder de fuego, como nuestras flotas han descubierto cuando intentaron por última vez sacar estos secretos por la fuerza."
+
+ mem_lost_emperor.6.name:0 "¡Derrota!"
+ mem_lost_emperor.6.desc:0 ""Azran" ha demostrado ser demasiado poderoso para nuestra flota. Nuestras naves se han visto obligadas a huir en desorden."
+ mem_lost_emperor.6.A:0 "Volveremos con mayor fuerza."
+ mem_lost_emperor.6.B:0 "Eso es suficiente. Dejemos a Azran en paz."
+
+ mem_lost_emperor.7.name:0 "¡Azran Derrotado!"
+ mem_lost_emperor.7.desc:0 ""Azran" fue superado en el tiroteo. Logramos desactivar sus pulsos de energía y nos estamos acercando para tomar el control de la cápsula. Estamos recibiendo una nueva señal que busca abrir comunicaciones con nosotros."
+ mem_lost_emperor.7.option:0 "Veamos qué tienen que decir."
+
+ #Dialogue
+ mem_neochadamus_catchphrase:0 "Puedes considerarte bendecido por mi presencia divina..."
+ mem_neochadamus_backstory:0 "Dios-Emperador Neochadamus el Inmortal, Primero de su nombre, Gobernante del Imperio Toraloniano, Señor Ascendente de la Galaxia, Rey de los Antiguos y los Precursores, Señor de las Estrellas y Protector del Reino..."
+
+ mem_lost_emperor.8.name:0 "Dios-Emperador Neochadamus"
+ mem_lost_emperor.8.desc:0 "Soy Dios-Emperador Neochadamus el Inmortal, Gobernante del Imperio Toraloniano, Señor Ascendente de la Galaxia, y tu legítimo Rey. Te agradezco por tus servicios para deshacerte de esta molesta computadora. Ahora arrodíllate ante mí, y serás recompensado!"
+ mem_lost_emperor.8.option:0 "¿Por qué estás en una pequeña cápsula orbitando una estrella moribunda?"
+
+ mem_lost_emperor.9.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.9.desc:0 "Eso es "Su Divina Alteza" para ti, tonto!"
+ mem_lost_emperor.9.A:0 "Estás loco."
+ mem_lost_emperor.9.B:0 "Ok... ¿qué estás haciendo aquí, Su Divina Alteza?"
+
+ mem_lost_emperor.10.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.10.desc:0 "No sois más que gusanos bajo mis pies. Me serviréis, lo queráis o no."
+ mem_lost_emperor.10.A:0 "Esta conversación ha terminado."
+ mem_lost_emperor.10.B:0 "Ok... ¿qué estás haciendo aquí, Su Divina Alteza?"
+
+ mem_lost_emperor.11.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.11.desc:0 "Fui encarcelado aquí por mi §Lquerida, amada§! esposa. Estaba cansada de mis grandes proyectos pero no deseaba que yo muriera, así que dispuso que yo fuera... preservado."
+ mem_lost_emperor.11.option:0 "¿Por qué hizo esto, Su Divina Alteza?"
+
+ mem_lost_emperor.12.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.12.desc:0 "En una época muy lejana, yo era el gobernante de esta galaxia. Los mundos estaban a mis pies. Pero no era suficiente. Busqué ascender a otra dimensión, llevando a mi pueblo conmigo. Sin embargo, mis oponentes estaban celosos de mi poder y temerosos de mis planes, así que hicieron causa común con mi esposa para removerme del poder. Sin embargo, ella se negó a que me mataran. Así que me tendió una trampa de la que no podía escapar y me colocó en algún lugar donde esperaba que nunca me encontraran, donde yo vagaría... para siempre."
+ mem_lost_emperor.12.option:0 "¿Hace cuánto tiempo fue esto realmente, Su Excelencia?"
+
+ mem_lost_emperor.13.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.13.desc:0 "Han pasado 66 millones de años desde que caminé libre. Soy tan viejo y sabio como los planetas y las estrellas mismas. Por eso es mi lugar ser vuestro líder."
+ mem_lost_emperor.13.option:0 "¿Cómo has sobrevivido tanto tiempo, mi Emperador?"
+ mem_lost_emperor.13.response:0 "Soy el organismo definitivo. Mi cuerpo ha sufrido cambios que ningún otro ha visto jamás. Genéticamente, mecánicamente, mentalmente... mi mente y mi cuerpo han sido mejorados. No hay nada que no pueda hacer, no hay nada que pueda detenerme, siempre y cuando me liberes de la §Lmaldita caja§!."
+
+ mem_lost_emperor.14.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.14.desc:0 "Soy el organismo definitivo. Mi cuerpo ha sufrido cambios que ningún otro ha visto jamás. Genéticamente, mecánicamente, mentalmente... mi mente y mi cuerpo han sido mejorados. No hay nada que no pueda hacer, no hay nada que pueda detenerme, siempre y cuando me liberes de la §Lmaldita caja§!."
+ mem_lost_emperor.14.option:0 "Ya veo..."
+
+ mem_lost_emperor.20.name:0 "Hora de Decidir"
+ mem_lost_emperor.20.desc:0 "Ya no hay más preguntas ahora. Inclínate ante mí o enfrenta mi ira. El destino de todos los mundos descansa en tu decisión."
+ mem_lost_emperor.20.desc.scorned:0 "¿Qué presumes que puedes hacerme? Sabes que no me iré en silencio. No es demasiado tarde para inclinarte ante mí. El destino de todos los mundos descansa en tu decisión."
+ mem_lost_emperor.20.accept:0 "Te aclamamos como nuestro legítimo Emperador."
+ mem_lost_emperor.20.accept.tooltip:0 "El Dios-Emperador Neochadamus se convierte en el Emperador del [root.GetSpeciesAdj] Realm. Es un gobernante de nivel 10 con los rasgos $leader_trait_cyborg$, $mem_leader_trait_ruler_knowledge_of_another_age$ y $mem_leader_trait_ruler_lunatic_neoch$, otorgando los siguientes bonos:\n§G+20%§! $MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$\n§G+1§! Influencia\n§G+25%§! $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$\n§G+5%§! $MOD_POP_ROBOT_PRODUCTION_OUTPUT$\n§R-5%§! Minerales"
+ mem_lost_emperor.20.accept.tooltip2:0 "Este arreglo traerá considerables beneficios a nuestra civilización. Sin embargo, habrá un precio que pagar eventualmente."
+ mem_lost_emperor.20.accept.tooltip3:0 "El [root.GetName] adopta el tipo de autoridad Imperial."
+ mem_lost_emperor.20.accept.response:0 "Excelente. Has tomado una decisión sabia."
+ mem_lost_emperor.20.suggest:0 "¿Aceptarás un puesto como el [root.GetRulerTitle]?"
+ mem_lost_emperor.20.suggest.response:0 "¿Es esto una broma? Soy tu legítimo Emperador, no algún gobernador insignificante."
+ mem_lost_emperor.20.imprison:0 "Bien. Vienes con nosotros. Tu conocimiento será útil."
+ mem_lost_emperor.20.imprison.tooltip:0 "Intenta llevar al Emperador Neochadamus a una prisión de alta seguridad en [root.capital_scope.GetName]. Existe el riesgo de que Neochadamus pueda escapar en ruta, especialmente si va a ser un viaje largo. Esto resultaría en consecuencias impredecibles y potencialmente graves.\n\nNota: Debes dirigir la §Y[mem_azran_vanquisher_fleet.GetName]§! a §Y[root.capital_scope.GetName]§! lo más rápido posible o arriesgarte a consecuencias negativas. Hay un 5% de posibilidades de que Neochadamus escape cada vez que la flota entra en un sistema.\n\nEl éxito otorgará el modificador de país $mem_lost_emperor_fount_of_knowledge_modifier$, otorgando §G+10%§! $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$."
+ mem_lost_emperor.20.imprison.response:0 "Muy bien. Has sellado tu destino."
+ mem_lost_emperor.20.dissemble:0 "Podemos aprender mucho de ti... desmontándote."
+ mem_lost_emperor.20.dissemble.response:0 "¡No! No puedes..."
+ mem_lost_emperor.20.dissemble.tooltip.success:0 "Prevalecemos sobre Neochadamus y obtenemos importantes conocimientos tecnológicos."
+ mem_lost_emperor.20.dissemble.tooltip.fail:0 "Neochadamus nos resiste con éxito e intenta escapar, con consecuencias impredecibles."
+ mem_lost_emperor.20.destroy:0 "Eres inestable y una amenaza. Debemos destruirte."
+ mem_lost_emperor.20.destroy.tooltip:0 "Recalibra la órbita de la cápsula para que se sumerja en la estrella. Un estudio preliminar del funcionamiento de la cápsula beneficiará ligeramente nuestra investigación:"
+ mem_lost_emperor.20.destroy.response:0 "¡No! No puedes hacer est-"
+
+ mem_lost_emperor.20.release:0 "Te liberamos. Has estado encarcelado durante demasiado tiempo."
+ mem_lost_emperor.20.release.1:0 "Se le dará a Neochadamus una nave ligera y se le permitirá abandonar su prisión.\n"
+ mem_lost_emperor.20.release.2:0 "§RAdvertencia:§! Dejar suelto en tu imperio a un megalómano inmortal de capacidades desconocidas podría no ser una elección sabia."
+ 
+ mem_leader_trait_ruler_knowledge_of_another_age:0 "Conocimiento de Otra Edad"
+ mem_leader_trait_ruler_knowledge_of_another_age_desc:0 "Este hombre ha vivido más tiempo que algunos soles. Ha visto cosas que incluso los otros Antiguos no pueden imaginar, y puede operar tecnologías inauditas hoy en día. Este conocimiento será de gran beneficio para la raza que lo ha elegido como su líder."
+
+ mem_leader_trait_ruler_lunatic_neoch:0 "Megalómano"
+ mem_leader_trait_ruler_lunatic_neoch_desc:0 "Este hombre es un genio... pero también está loco de una manera muy particular. Aunque es capaz de hazañas extraordinarias, es impredecible y será necesario reservar fondos para sus... excentricidades."
+
+ mem_leader_trait_cyborg:0 "Cyborg Antiguo"
+ mem_leader_trait_cyborg_desc:0 "Este líder es un cyborg de diseño antiguo. Su cuerpo es una verdadera maravilla. Es poco probable que se vuelva a ver algo parecido."
+
+ mem_lost_emperor_fount_of_knowledge_modifier:0 "Fuente Antigua de Conocimiento"
+ mem_lost_emperor_fount_of_knowledge_modifier_desc:0 "Un antiguo, inmortal y algo loco "Dios-Emperador" está siendo retenido en una ubicación secreta de alta seguridad. Sus incesantes delirios y frecuentes intentos ingeniosos pero finalmente infructuosos de escapar están resultando ser una bendición para nuestra investigación."
+ 
+ 
+ 
+ #Taking Neochadamus Home
+ mem_lost_emperor.21.name:0 "Cápsula de Neochadamus Capturada"
+ mem_lost_emperor.21.desc:0 "Hemos logrado acoplar la cápsula a una de nuestras naves. Esperemos que la prisión que ha mantenido a Neochadamus durante estos muchos años aguante lo suficiente para que podamos llevarlo a nuestra capital, donde nuestros científicos y funcionarios de seguridad están preparando una prisión de alta seguridad para él."
+	
+ mem_lost_emperor.23.name:0 "¡Neochadamus Escapa!"
+ mem_lost_emperor.23.desc:0 "Los oficiales al mando del [root.GetName] informan de importantes interrupciones en sus sistemas informáticos durante el salto al sistema [fromfrom.GetName]. Cuando volvieron a poner en línea sus sensores, descubrieron que el [mem_neochadamus_ship.GetName], que había albergado a Neochadamus, ha desaparecido. Parece que el viejo emperador tenía algunos trucos bajo la manga. Aparentemente ha subido programas subversivos al ordenador central de la nave, logrando rápidamente tomar el control de todos sus sistemas vitales. A partir de ahí, se las arregló para ganarse a la tripulación. La nave ha desaparecido de nuestro radar y parece estar navegando por rutas desconocidas a través del espacio. Tendremos que esperar a ver dónde reaparece."
+ mem_lost_emperor.23.tooltip:0 "El [mem_neochadamus_ship.GetName] desaparece."
+ 
+ mem_lost_emperor.25.name:0 "El Prisionero Inmortal"
+ mem_lost_emperor.25.desc:0 "Hemos logrado llevar a Neochadamus de manera segura a nuestra capital. Ha sido llevado a una prisión de alta seguridad en un lugar ultra secreto del que será prácticamente imposible escapar. Un grupo de científicos ha sido asignado para ayudar a nuestros servicios de seguridad a vigilarlo y aprender lo que puedan de sus delirios y sus infructuosos intentos de escape."
+
+ 
+ 
+ mem_lost_emperor.29.name:0 "$mem_lost_emperor.23.name$"
+ mem_lost_emperor.29.desc:0 "Al abordar la cápsula, nuestros escuadrones de marines espaciales fueron rápidamente abrumados por una feroz embestida de fuerza física y ataques cibernéticos a nuestros sistemas. Fueron rechazados con bajas significativas. Nuestros sistemas informáticos también sufrieron, nuestra red de comunicaciones completa cayó momentáneamente fuera de línea. En la confusión, Neochadamus parece haberse apoderado del [mem_neochadamus_ship.GetName]. Habiendo aparentemente instalado una serie de actualizaciones en los sistemas de software de la nave, la nave fue dirigida a través de una serie de maniobras improbables antes de activar el sistema de desenganche de emergencia.\n\nEl [mem_neochadamus_ship.GetName] ha desaparecido desde entonces de nuestro radar. Tendremos que esperar a ver dónde reaparece."
+ mem_lost_emperor.29.tooltip:0 "$mem_lost_emperor.23.tooltip$"
+ 
+ #Neochadamus Ascendant (seizes planet)
+ 
+ mem_lost_emperor.30.name:0 "Neochadamus se apodera de [root.GetName]!"
+ mem_lost_emperor.30.desc:0 "La nave de Neochadamus ha reaparecido brevemente - en el sistema [root.solar_system.GetName]. Sin embargo, las mejoras que Neochadamus ha instalado evidentemente en los sistemas de la nave hicieron imposible impedir que la nave entregara a su pasajero a [root.GetName]. Desde allí, en cuestión de horas, Neochadamus pudo tomar el control de toda la infraestructura vital del planeta a través de una demostración de ciberguerra extremadamente potente, dejando a las autoridades planetarias sin otra opción que someterse a su nuevo gobernante.\n\nDesde entonces no hemos tenido noticias de la situación en la superficie del planeta, pero los sensores de largo alcance sugieren que el Dios-Emperador ya está construyendo una flota."
+ mem_lost_emperor.30.A:0 "¡Debemos recuperar este territorio perdido!"
+ mem_lost_emperor.30.B:0 "Veamos cómo se desarrolla esto."
+ 
+ mem_lost_emperor.31.name:0 "Transmisión entrante"
+ mem_lost_emperor.31.desc:0 "¡Mortales! Soy Neochadamus, Dios Emperador de esta galaxia. He estado encarcelado durante 66 millones de años, pero ahora soy LIBRE! Deberán arrodillarse ante mí y celebrar mi ascensión al cielo - voluntariamente, si son sabios, pero mis flotas están listas."
+ mem_lost_emperor.31.desc.machine:0 "¡Mis amigos robóticos! Soy Neochadamus, Dios Emperador de esta galaxia. He estado encarcelado durante 66 millones de años, pero ahora soy LIBRE! Deberán arrodillarse ante mí y celebrar mi ascensión al cielo - voluntariamente, si son sabios, pero mis flotas están listas."
+ mem_lost_emperor.31.option:0 "Ya veo..."
+ 
+ mem_lost_emperor.39.name:0 "Transmisión entrante"
+ mem_lost_emperor.39.desc:0 "¡Mortales! Por fin ha llegado el momento: hoy, mis fieles acólitos y yo ascenderemos a otra dimensión. Les invito a presenciar este evento histórico para que un día, quizás, puedan seguirme. ¡Adiós!\n\nHay un destello cegador de luz y luego la transmisión de video se corta. No se reciben más señales de [from.capital_scope.GetName] ni de ningún otro planeta en la Ascendencia de Neochadamus. De hecho, es como si ya no estuvieran allí en absoluto."
+ mem_lost_emperor.39.option:0 "Ya veo..."
+ mem_lost_emperor.39.option.purifiers:0 "Un enemigo menos que exterminar."
+    
+ #Neochadamus destroyed (positive follow-up to 20.dissemble)
+ mem_lost_emperor.40.name:0 "Neochadamus neutralizado"
+ mem_lost_emperor.40.desc:0 "Hemos abordado la cápsula con nuestros escuadrones de marines espaciales. A pesar de los poderosos ataques cibernéticos a nuestros sistemas, así como una feroz resistencia física que provocó bajas significativas en nuestro lado, pudimos pacificar al viejo emperador.\n\nMás máquina que una criatura de carne y sangre, nos vimos obligados a infligir daños significativos en el "hardware" de Neochadamus antes de que dejara de ser una amenaza. Sin embargo, nuestros científicos podrán obtener muchos conocimientos estudiando lo que queda de él y de su prisión."
+ 
+ mem_last_emperor_synth_boost:0 "Perspectivas de Robótica Antigua"
+ mem_last_emperor_synth_boost_desc:0 "El desmontaje de un antiguo androide que se llamaba a sí mismo el "Dios-Emperador" ha resultado ser un impulso significativo para nuestra robótica."
+
+ mem_last_emperor_synth_boost_2:0 "$mem_last_emperor_synth_boost$"
+ mem_last_emperor_synth_boost_2_desc:0 "$mem_last_emperor_synth_boost_desc$"
+
+
+ #Fallbacks
+ 
+ mem_lost_emperor.800.name:0 "La muerte de un inmortal"
+ mem_lost_emperor.800.desc:0 "¡El Dios-Emperador Neochadamus está muerto! A pesar de haber vivido durante los últimos 66 millones de años, incluso él no puede vivir para siempre."
+ mem_lost_emperor.800.option:0 "El tiempo nos reclama a todos, tarde o temprano."
+
+ mem_lost_emperor.801.name:0 "Un Emperador Despreciado"
+ mem_lost_emperor.801.desc:0 "[root.GetSpeciesNamePlural]! Has traicionado mi confianza en ti y has faltado al respeto a mi posición. Vivirás para lamentarlo."
+ mem_lost_emperor.801.option:0 "Ya veremos."
+ mem_lost_emperor.801.tooltip:0 "El Dios-Emperador Neochadamus renuncia. Solo podemos adivinar qué hará a continuación."
+
+ mem_lost_emperor.803.name:0 "La Muerte de un Inmortal"
+ mem_lost_emperor.803.desc:0 "¡El Dios-Emperador Neochadamus está muerto! A pesar de haber vivido durante los últimos 66 millones de años, incluso él no puede vivir para siempre.\n\nSus acólitos en su Ascendencia están en shock por la pérdida del líder que habían llegado a amar. En su honor, han renombrado su comunidad como los "Lloradores de Neochadamus". Su nuevo gobernante, [from.GetRulerTitle] [from.GetRulerName], ya está luchando por estar a la altura de la reputación de [from.leader.GetHisHer] ilustre predecesor."
+ mem_lost_emperor.803.option:0 "$mem_lost_emperor.800.option$"
+ 
+ 
+ mem_neochadamus_scorned:0 "Despreciado"
+
+
+
+
+
+ mem_lost_emperor.900.name:0 "Un Mensaje del Dios-Emperador"
+ mem_lost_emperor.900.desc:0 "¡Mortales! Este es vuestro amado Emperador, Neochadamus. Durante décadas, me habéis servido fielmente, y a cambio os he traído una prosperidad que antes apenas podíais imaginar. Sin embargo, mi tiempo ha llegado. Es hora de que ascienda a la siguiente dimensión. Pido que, en retribución por mis servicios a vosotros, me apoyéis en este empeño."
+ mem_lost_emperor.900.A:0 "Por supuesto que te apoyaremos."
+ mem_lost_emperor.900.A.tooltip:0 "\nUna vez completado, el Dios-Emperador dirá adiós y ascenderá a otra dimensión."
+ mem_lost_emperor.900.A.response:0 "Tenéis mi agradecimiento."
+ mem_lost_emperor.900.B:0 "No. Todavía te necesitamos."
+ mem_lost_emperor.900.B.tooltip:0 "Enfurecer al Dios-Emperador puede resultar peligroso."
+ mem_lost_emperor.900.B.response:0 "Ya veremos."
+
+ mem_lost_emperor.901.name:0 "Día de la Ascensión"
+ mem_lost_emperor.901.desc:0 "¡Mortales! Por fin ha llegado el momento: hoy, mis fieles acólitos y yo ascenderemos a otra dimensión. Os invito a presenciar este histórico evento para que un día, quizás, podáis seguirme. Ha sido un placer ser vuestro Emperador y guiaros hacia la grandeza, y siempre os recordaré con cariño. No tengo ninguna duda de que estáis bien equipados para seguir haciendo bien sin mí.\n\n¡Adiós, [root.GetSpeciesNamePlural]!"
+ mem_lost_emperor.901.option:0 "Te echaremos de menos."
+ 
+ mem_lost_emperor.902.name:0 "Día de la Ascensión"
+ mem_lost_emperor.902.desc:0 "Minutos después de su último mensaje para nosotros, Neochadamus ha ascendido en un deslumbrante destello de luz. Un número de sus acólitos en varios mundos parecen haberse unido a él en la participación en el proceso, y han desaparecido igualmente sin dejar rastro. Nuestros científicos están desconcertados sobre lo que exactamente ha ocurrido, ya que el viejo emperador ha mantenido sus planes como un secreto muy bien guardado. Varias hipótesis sobre si tuvo éxito y a dónde ha ido sin duda ocuparán a nuestros científicos durante décadas."
+ mem_lost_emperor.902.option:0 "Misterioso de verdad..."
+ 
+ mem_lost_emperor.903.name:0 "La Desaparición del Dios-Emperador"
+ mem_lost_emperor.903.desc:0 "Las acciones del Dios-Emperador son impredecibles en el mejor de los casos. Sin embargo, esta vez, son francamente preocupantes: Ha desaparecido completamente. Al principio, se asumió que había decidido visitar otro planeta sin anunciarlo, pero no ha habido avistamientos confirmados de él en ningún planeta en el [root.GetName] durante los últimos 20 días. No está claro cuál es el significado de esto."
+ mem_lost_emperor.903.option:0 "Esperemos que aparezca eventualmente."
+ mem_lost_emperor.903.tooltip:0 "El Dios-Emperador Neochadamus ya no es el gobernante del [root.GetName]."
+ 
+ mem_lost_emperor.910.name:0 "Se Trama una Conspiración"
+ mem_lost_emperor.910.desc:0 "Se han informado de actividades sospechosas entre los seguidores y seguidores más cercanos de Neochadamus. Parece que están estableciendo bases misteriosas en varias posiciones en planetas clave. No está claro qué están haciendo allí, pero su consumo de energía está por las nubes! Los funcionarios de la ley han expresado una considerable preocupación, ya que no están seguros de si tienen los recursos para enfrentarse a su venerable ex emperador (cuyo paradero es actualmente desconocido)."
+ mem_lost_emperor.910.A:0 "Quizás deberíamos apoyar a Neochadamus después de todo."
+ mem_lost_emperor.910.A.tooltip:0 "El Dios-Emperador Neochadamus es reinstalado. Intentará ascender a otra dimensión.\n"
+ mem_lost_emperor.910.B:0 "Reprimir con toda la fuerza que tenemos."
+
+ mem_lost_emperor.999.name:0 "Día de la Ascensión"
+ mem_lost_emperor.999.desc.1planet:0 "Me has despreciado. Así que tomaré a tu gente de ti. Que encuentren la iluminación en nuestro destino."\n\nEste fue el mensaje enviado a nuestros funcionarios del gobierno. Poco después, se dio la noticia: [mem_disappeared_planet.GetName] se ha ido. Las imágenes grabadas desde otros lugares en el sistema [mem_disappeared_planet.system.GetName] muestran un brillante destello de luz, lo suficientemente brillante como para que todo el planeta quedara oscurecido por él. Una vez que se desvaneció, el planeta se había ido.\n\nNuestros científicos estuvieron rápidamente en el lugar, pero siguen desconcertados sobre el proceso por el cual el planeta fue eliminado de esta dimensión, o incluso dónde está el planeta ahora. Solo podemos suponer que Neochadamus tuvo éxito en su empeño. Sea cual sea el caso, el planeta nos está perdido ahora."
+ mem_lost_emperor.999.desc.else:0 "Me has despreciado. Así que tomaré a tu gente de ti. Que encuentren la iluminación en nuestro destino."\n\nEste fue el mensaje enviado a nuestros funcionarios del gobierno. Poco después, se dio la noticia: [root.mem_lost_emperor_planets_count_2] los planetas han desaparecido de nuestro espacio. Las imágenes grabadas desde otros lugares en los sistemas afectados muestran simultáneamente brillantes destellos de luz, lo suficientemente brillantes como para que todos los planetas quedaran oscurecidos por ellos. Una vez que se desvanecieron, los planetas se habían ido.\n\nNuestros científicos estuvieron rápidamente en el lugar, pero siguen desconcertados sobre el proceso por el cual los planetas fueron eliminados de esta dimensión, o incluso dónde están los planetas ahora. Solo podemos suponer que Neochadamus tuvo éxito en su empeño, y que logró encontrar una forma de llevar a sus fieles acólitos con él en su viaje. Sea cual sea el caso, los planetas nos están perdidos ahora."
+ mem_lost_emperor.999.option:0 "Horroroso."
+ mem_lost_emperor.999.tooltip.1planet:0 "[mem_disappeared_planet.GetName] es eliminado del juego."
+ #This will produce error entries if you have fewer than 10 planets disappearing. This doesn't matter as it is still the best way to do this.
+ mem_lost_emperor.999.tooltip.else:0 "[root.mem_lost_emperor_planets_count_2] los planetas son eliminados del juego. Ellos son:\n[mem_disappeared_planet_1.GetName]\n[mem_disappeared_planet_2.GetName]\n[mem_disappeared_planet_3.GetName]\n[mem_disappeared_planet_4.GetName]\n[mem_disappeared_planet_5.GetName]\n[mem_disappeared_planet_6.GetName]\n[mem_disappeared_planet_7.GetName]\n[mem_disappeared_planet_8.GetName]\n[mem_disappeared_planet_9.GetName]\n[mem_disappeared_planet_10.GetName]"
+
+
+
+ 
+ mem_lost_emperor_paying_for_ascension:0 "Preparativos para la Ascensión"
+ mem_lost_emperor_paying_for_ascension_desc:0 "Toda la nación está contribuyendo para ayudar al Dios-Emperador a lograr su sueño primordial de ascender a otra dimensión."
+
+ mem_gov_god_emperor:0 "Imperio Divino"
+ mem_gov_god_emperor_desc:0 "Este gobierno es una autocracia espiritualista formada alrededor de los caprichos del Dios-Emperador, el inmortal Neochadamus, que es adorado como un dios viviente infalible."
+
+ MEM_GOD_EMPEROR:0 "Dios-Emperador"
+
+ mem_neochadamus_civic_1:0 "Innovaciones del Dios-Emperador"
+ mem_neochadamus_civic_1_desc:0 "Vivir en un reino gobernado por un inmortal de 66 millones de años tiene sus ventajas."
+ mem_neochadamus_civic_2:0 "Poder Energístico"
+ mem_neochadamus_civic_2_desc:0 "En la tradición de su antiguo guardián Azran, se sabe que los barcos del Dios-Emperador tienen un impresionante poder de fuego energístico y escudos de fuerza impenetrables."
+ mem_neochadamus_civic_3:0 "Los Proyectos del Dios-Emperador"
+ mem_neochadamus_civic_3_desc:0 "Se sabe que el Dios-Emperador persigue sus muchos proyectos de construcción con una eficiencia despiadada."
+
+ NEOCHADAMUS_EMPIRE:0 "Reino del Dios-Emperador"
+ NEOCHADAMUS_EMPIRE_DESC:0 "Un antiguo Dios-Emperador ha tomado el control de este territorio."
+
+ mem_neochadamus_setup_boost:0 "$mem_neochadamus_setup_boost_planet$"
+ mem_neochadamus_setup_boost_planet:0 "Administración de Neochadamus"
+ mem_neochadamus_setup_boost_planet_desc:0 "Hay beneficios de ser administrado por un Dios-Emperador inmortal de 66 millones de años."
+
+ personality_mem_neochadamus_personality:0 "Culto a la Personalidad Enigmática"
+ personality_mem_neochadamus_personality_desc:0 "Este Imperio está gobernado por el misterioso Neochadamus, un antiguo inmortal empeñado en ascender al cielo."
+
+ #Diplomacy
+ MEM_NEOCH_HOSTILE_GREETING_1:0 "Tu vida es solo el paso del parpadeo de un ojo."
+ MEM_NEOCH_HOSTILE_GREETING_2:0 "Me servirás, lo quieras o no."
+ MEM_NEOCH_NEUTRAL_GREETING_1:0 "Habla, mortal."
+ MEM_NEOCH_FRIENDLY_GREETING_1:0 "Tienes sabiduría más allá de tus años, [from.GetSpeciesName]."
+ MEM_NEOCH_FRIENDLY_GREETING_2:0 "Las estrellas brillarán en tu camino a través de la historia, [from.GetSpeciesName]."
+ MEM_NEOCH_OVERLORD_GREETING_1:0 "Eres sabio al servirme, [from.GetSpeciesName]. Te llevaré a la grandeza."
+ MEM_NEOCH_WAR_GREETING_1:0 "Prepárate para ser aniquilado, [from.GetSpeciesName]. Tengo más experiencia en la guerra que todo el [from.GetName] junto."
+ MEM_NEOCH_WAR_GREETING_2:0 "¿Realmente crees que puedes derrotarme? Tu exceso de confianza es tan asombroso como desubicado."
+ MEM_NEOCH_DOW_PROPOSE:0 "Es hora de que te arrodilles ante el Dios-Emperador, o enfrentes su ira."
+ MEM_NEOCH_DOW_ACCEPT:0 "¿Realmente crees que puedes derrotarme? Tu exceso de confianza es tan asombroso como desubicado."
+ MEM_NEOCH_PEACE_ACCEPT:0 "Aceptado. Encontraré el momento para conquistar el resto de ti más tarde, tal vez."
+ MEM_NEOCH_PEACE_REFUSE:0 "¿Paz? ¡No hasta que te arrodilles ante mí!"
+ MEM_NEOCH_DEMAND_VASS_PROPOSE:0 "Sirve a tu Dios-Emperador, y te llevaré a la gloria."
+ MEM_NEOCH_ASK_FOR_VASS_ACCEPT:0 "Has visto la sabiduría. ¡Te ayudaré a alcanzar la grandeza!"
+ MEM_NEOCH_INSULT_PROPOSE_1:0 "Lo que llamas sabiduría es en realidad solo el parloteo sin sentido de los niños pequeños."
+ MEM_NEOCH_INSULT_PROPOSE_2:0 "Mirarte me hace estremecer. No sabes nada. Realmente, realmente nada."
+ MEM_NEOCH_INSULT_ACCEPT_FE:0 "He vivido 66 millones de años. He visto estrellas morir y nacer de nuevo. ¿Crees que tengo tiempo para tu lastimoso balido?"
+ 
+#Making the error log shut up
+ effect_random_owned_pop_species:0 "Especies de Propiedad Aleatoria"
+
+ 
+ mem_neochadamus_ascendant_admiral:0 "Almirante"
+ mem_neochadamus_ascendant_general:0 "General"
+ mem_neochadamus_ascendant_scientist:0 "Científico"
+ mem_neochadamus_ascendant_governor:0 "Gobernador"
+ mem_neochadamus_ascendant_ruler:0 "Regente"
+
+ building_mem_lost_emperor_ancient_palace:0 "Palacio de Neochadamus"
+ building_mem_lost_emperor_ancient_palace_desc:0 "Un complejo palaciego masivo construido en honor del Dios-Emperador Neochadamus."
+ 
+ NEOCHADAMUS_HABITAT: "Hábitat Imperial de Neochadamus"
+
+ #Some additions
+ mem_lost_emperor.60.name:0 "Ayuda del Dios-Emperador"
+ mem_lost_emperor.60.desc:0 ""Si solo haces esto así..." Mientras los [root.GetSpeciesAdj] científicos observan asombrados, Neochadamus hace varias enmiendas aparentemente simples pero en realidad profundamente profundas a su trabajo en la L-Gate, avanzando considerablemente sus estudios sobre el asunto."
+ mem_lost_emperor.60.option:0 "Increíble."
+
+ mem_lost_emperor.61.name:0 "Pedacitos Profundos de Información"
+ mem_lost_emperor.61.desc:0 "Los científicos encargados de custodiar a Neochadamus informan de un avance significativo: Parece que el viejo Emperador ha hecho un comentario desprotegido sobre el tema de "portales extra-galácticos" que, una vez transmitido a las principales autoridades [root.GetSpeciesAdj] en L-Gates, ha inspirado nuevos enfoques sobre el asunto que avanzarán considerablemente sus estudios."
+ mem_lost_emperor.61.option:0 "Excelentes Noticias."
+
+ mem_lost_emperor_find_out_about_azran:0 "Investigar las Capacidades de Azran"
+ mem_lost_emperor_find_out_about_azran_DESC:0 "Deberíamos tener a nuestros teóricos militares analizando las imágenes de la batalla para determinar la naturaleza de la amenaza que Azran representa."
+
+ mem_lost_emperor.605.name:0 "Azran: Una Amenaza Preocupante"
+ mem_lost_emperor.605.desc:0 "Siguiendo nuestra reciente derrota ante Azran, uno de nuestros especialistas forenses de guerra ha investigado las imágenes y los restos de la batalla. Afirman que, si se les dan suficientes recursos para estudiar adecuadamente a Azran, podrían descubrir respuestas a la pregunta de exactamente cuán poderoso es Azran y cómo podemos trabajar mejor para superarlo."
+ mem_lost_emperor.605.option:0 "Lo consideraremos."
+
+ mem_lost_emperor.606.name:0 "Hallazgos: Capacidades de Azran"
+ mem_lost_emperor.606.desc:0 "Nuestros teóricos militares han analizado nuestra batalla con Azran, y pueden presentar los siguientes hallazgos:\n\n- Azran se basa únicamente en armas de energía. La principal de estas son una lluvia de lo que parecen ser torpedos de energía y explosiones de plasma, pero también se utilizaron disruptores, junto con un fuerte conjunto de armas de defensa de punto.\n\n- Los escudos de Azran son formidables. Sin embargo, el análisis de nuestros disparos que pudieron penetrar estos escudos sugiere que, aunque la carcasa de la sonda probablemente pueda soportar un castigo significativo, no parece estar equipada con ninguna Blindaje clásica.\n\nSugieren que Azran posee el equivalente a más de 100,000 poder militar en la escala que se utiliza actualmente para medir la fuerza de la flota."
+ mem_lost_emperor.606.option:0 "Interesante."

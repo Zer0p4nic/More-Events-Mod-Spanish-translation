@@ -1,0 +1,48 @@
+﻿l_spanish:
+ mem_DRONE_HANGAR:0 "Hangar de Drones Guardian Tipo-I"
+ mem_AWAKENED_DRONE_HANGAR:0 "Hangar de Drones Guardian Tipo-II"
+ 
+ mem_AURA_MINEFIELD:0 "Minas de Subespacio del Vigilante"
+ mem_AURA_SHIELD_RECHARGER:0 "Campos de Capacitores del Vigilante"
+
+ mem_PROGENITOR_DRIVE:0 "Núcleo UL del Progenitor"
+ mem_PROGENITOR_THRUSTER:0 "Propulsión Inercial del Progenitor"
+ mem_PROGENITOR_SENSOR:0 "Matriz de Sensores del Progenitor"
+ 
+ mem_PROGENITOR_CPU_XS:0 "Núcleo de Unión del Progenitor"
+ mem_PROGENITOR_CPU_S:0 "Núcleo de Unión del Progenitor"
+ mem_PROGENITOR_CPU_M:0 "Núcleo de Unión del Progenitor"
+ mem_PROGENITOR_CPU_L:0 "Núcleo de Unión del Progenitor"
+ 
+ mem_PROGENITOR_POWER_CORE_S:0 "Reactor de Degeneración del Progenitor"
+ mem_PROGENITOR_POWER_CORE_M:0 "Reactor de Degeneración del Progenitor"
+ mem_PROGENITOR_POWER_CORE_L:0 "Reactor de Degeneración del Progenitor"
+ mem_PROGENITOR_POWER_CORE_XXL:0 "Reactor de Degeneración del Progenitor"
+ mem_PROGENITOR_SHIELD_S:0 "Escudo de Fuerza de Onda del Progenitor"
+ mem_PROGENITOR_SHIELD_M:0 "Escudo de Fuerza de Onda del Progenitor"
+ mem_PROGENITOR_SHIELD_L:0 "Escudo de Fuerza de Onda del Progenitor"
+ mem_PROGENITOR_ARMOR_S:0 "Blindaje Adaptativa del Progenitor"
+ mem_PROGENITOR_ARMOR_M:0 "Blindaje Adaptativa del Progenitor"
+ mem_PROGENITOR_ARMOR_L:0 "Blindaje Adaptativa del Progenitor"
+ 
+ mem_PROGENITOR_RECHARGER:0 "Modulador de Fuerza de Onda del Progenitor"
+ mem_PROGENITOR_REPAIR:0 "Sistema de Reparación Automatizada del Progenitor"
+
+ mem_PROGENITOR_SENSOR_SHIP:0 "Matriz de Sensores del Progenitor"
+ mem_PROGENITOR_SENSOR_STATION:0 "Matriz de Sensores del Progenitor"
+ 
+ mem_UBER_EARTH_LANCE:0 "Lanza de Partículas"
+ mem_ue_corvette:0 "$corvette$"
+ mem_ue_corvette_plural:0 "$corvette_plural$"
+ mem_ue_corvette_section_01:0 "Espinal"
+ mem_ue_destroyer:0 "$destroyer$"
+ mem_ue_destroyer_plural:0 "$destroyer_plural$"
+ mem_ue_cruiser:0 "$cruiser$"
+ mem_ue_cruiser_plural:0 "$cruiser_plural$"
+ mem_ue_battleship:0 "$battleship$"
+ mem_ue_battleship_plural:0 "$battleship_plural$"
+
+ NAME_mem_ue_corvette:0 "Libertad"
+ NAME_mem_ue_destroyer:0 "Libertad"
+ NAME_mem_ue_cruiser:0 "Igualdad"
+ NAME_mem_ue_battleship:0 "Democracia"

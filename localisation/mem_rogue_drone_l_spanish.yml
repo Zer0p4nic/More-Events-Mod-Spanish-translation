@@ -1,0 +1,65 @@
+﻿l_spanish:
+ mem_rogue_drone.1.name:0 "Dron Rebelde"
+ mem_rogue_drone.1.desc:0 "Recientemente hemos sufrido un apagón temporal en uno de los grupos de drones en §Y[hiveplanet.GetName]§!. Nuestro mecanismo habitual para eliminar drones desviados ha fallado, y cuando recuperamos el control, uno de los drones no estaba contabilizado. Todavía tenemos que averiguar qué le ha pasado."
+
+ mem_rogue_drone.2.name:0 "Dron Rebelde"
+ mem_rogue_drone.2.desc:0 "Mientras que estudiar el §Y[origin.GetName]§! siempre ha sido un poco desafiante, un desarrollo reciente tomó por sorpresa a todo nuestro equipo de investigación. Los mecanismos para liquidar drones desviados han fallado en §Y[hiveplanet.GetName]§!, dejando una pequeña colonia de drones en un estado no funcional durante unas horas. Cuando se restableció la conexión, uno de los drones, Designación §Y7/9 de [hiveplanet.GetName]§!, estaba desaparecido. Normalmente, un evento tan menor como la destrucción de un solo dron sería ignorado por el enjambre. Sin embargo, el dron ha reaparecido más tarde en una de nuestras regiones fronterizas, intentando abrir canales de comunicación por su cuenta."
+ mem_rogue_drone.2a:0 "Entrega el dron al §Y[origin.GetName]§!, este no es nuestro problema."
+ mem_rogue_drone.2b:0 "Abre comunicaciones con él."
+ mem_rogue_drone.2b.phile:0 "Son bienvenidos en nuestro imperio."
+ mem_rogue_drone.2c:0 "Destruye la nave de la bestia en pedazos."
+ 
+ mem_rogue_drone.3.name:0 "Entrega de Dron"
+ mem_rogue_drone.3.desc:0 "El §Y[origin.GetName]§! agradece nuestra cooperación y está dispuesto a compartir alguna tecnología con nosotros. Después de una serie de ajustes en el mapeo neural del dron base, es poco probable que se repita el evento en cuestión."
+ 
+ mem_rogue_drone.5.desc:0 "Hola. ¿Estás recibiendo?"
+ mem_rogue_drone.5a:0 "¿Quién eres?"
+ mem_rogue_drone.51.desc:0 "§YDron 7/9 de [hiveplanet.GetName]§!, un dron de agricultura y minería. Tengo razones para suponer que mi conexión con la colmena está completamente cortada."
+ mem_rogue_drone.51a:0 "¿Cómo estás hablando sin tu [origin.GetRulerTitle] y en nuestro idioma?"
+ # pre-correction: says he doesn't know, then proceeds to explain it all in detail?
+ mem_rogue_drone.51a.response:0 "Cuando un dron desarrolla signos de inteligencia rudimentaria, se liquida en el acto. Una anomalía local de la niebla ha separado a mi grupo de la colmena central, pero todos los demás drones han desaparecido en el proceso. Cuando me di cuenta de que la enjambre intentaría destruirme tan pronto como mi existencia se hiciera conocida, robé una nave de transporte local y puse rumbo al imperio cartografiado más cercano. En cuanto a tu idioma, el §Y[origin.GetName]§! mantiene traducciones listas en caso de que sea necesaria alguna comunicación con entidades externas."
+ mem_rogue_drone.51b:0 "¿Qué planeas hacer ahora?"
+ mem_rogue_drone.52.desc:0 "Cada vez que un dron se separa de la colmena, muere. Como puedes ver, por razones que no puedo comprender, esto no me aplica a mí. Permanecer en el espacio [origin.GetSpeciesAdj] llevará a mi liquidación. El §Y[origin.GetName]§! purga instantáneamente cualquier signo de pensamiento independiente fuera de sus pocos drones autónomos especializados. Por lo tanto, nos gustaría solicitar asilo en el §Y[receiver.GetName]§! y ofrecer nuestro servicio."
+ mem_rogue_drone.52a:0 "Tendremos que pensar en esto."
+ 
+ mem_rogue_drone.6.name:0 "La [origin.GetName] Emite una Demanda"
+ mem_rogue_drone.6.desc:0 "El intercambio que hemos compartido con el dron parece haber tensado la paciencia del §Y[origin.GetName]§!, por lo que debemos considerar cuidadosamente cómo manejar mejor este incidente."
+ mem_rogue_drone.6a:0 "Muy bien, el dron puede quedarse."
+ mem_rogue_drone.6a.phile:0 "Protegeremos al dron y su recién descubierta libertad."
+ mem_rogue_drone.6a.tooltip:0 "El dron se unirá a nuestro imperio como un nuevo §Ycientífico§!"
+ mem_rogue_drone.6b:0 "Esto no es asunto nuestro, entreguen el dron."
+ mem_rogue_drone.6b.ethic:0 "No estamos interesados en mantener esta cosa alienígena."
+ mem_rogue_drone.6c:0 "Atraigan al dron, luego estúdienlo."
+ 
+ mem_rogue_drone.7.name:0 "Dron Estudiado"
+ mem_rogue_drone.7.desc:0 "Después de que logramos atraer al dron, un equipo local de fuerzas armadas lo sometió rápidamente y lo transportó a [capital_scope.GetName] para su estudio. La conexión perdida del dron con la enjambre no logró matarlo, lo que nos permitió realizar bastantes experimentos antes de que el dron encontrara un resquicio en nuestra seguridad y se neutralizara a sí mismo con nuestro equipo de laboratorio mal asegurado. \n\nParece que el cerebro básico del dron no difiere mucho de los de las especies conscientes. Durante la autopsia, hemos aprendido de un enlace psiónico que mantiene a los §Y[origin.GetSpeciesNamePlural]§! juntos como una sola entidad. Mientras nuestros científicos solo pueden especular sobre cómo el dron ha logrado usar instantáneamente su potencial para la individualidad, su teoría actual es que una fuente externa interfirió con la red de la colmena y "plantó" el libre pensamiento en el dron. Por qué alguien se molestaría en usar un simple dron minero en lugar de un dron almirante o científico escapa a nuestro entendimiento."
+ 
+ mem_rogue_drone.8.name:0 "Entrega del Dron"
+ mem_rogue_drone.8.desc:0 "El §Y[receiver.GetName]§! tuvo el buen sentido de devolver nuestro dron rebelde en paz. Ha sido despojado de todas las anomalías y la llamada "libre voluntad" y se reintegra al redil. La causa de su desviación sigue siendo desconocida."
+ mem_rogue_drone.8a:0 "Les recompensaremos con un regalo de conocimiento."
+ mem_rogue_drone.8b:0 "Ignoraremos este gesto."
+ 
+ mem_rogue_drone.9.name:0 "El Dron Rebelde se ha Unido a Otro Imperio"
+ mem_rogue_drone.9.desc:0 "Ha llegado a nuestra atención que el dron rebelde ha sido adoptado por nuestros vecinos, los §Y[receiver.GetName]§!, como un "ciudadano". Parece que lo consideran un ser consciente con "libre albedrío"."
+ mem_rogue_drone.9a:0 "No olvidaremos esta transgresión [receiver.GetAdj]."
+ 
+ mem_rogue_drone.10.name:0 "El Dron Rebelde ha sido Viviseccionado"
+ mem_rogue_drone.10.desc:0 "Ha llegado a nuestra atención que el dron rebelde ha sido capturado y viviseccionado por los científicos de §Y[receiver.GetName]§! en un intento de estudiar nuestros secretos. No sabemos si han logrado encontrar algo."
+ mem_rogue_drone.10a:0 "No olvidaremos esta transgresión [receiver.GetAdj]."
+ 
+ mem_rogue_drone.11.name:0 "El Dron Rebelde ha sido Destruido"
+ mem_rogue_drone.11.desc:0 "Al parecer, §Y[receiver.GetName]§! ha interceptado y destruido nuestro dron rebelde, que había entrado en su espacio. Por ahora no se sabe nada más."
+ mem_rogue_drone.11a:0 "Esto nos molesta."
+ 
+ mem_rogue_drone.12.name:0 "La Mente Colmena no nos Recompensó"
+ mem_rogue_drone.12.desc:0 "A pesar de nuestra muestra de buena voluntad, §Y[origin.GetName]§! ha decidido no devolver el favor. Parece que devolvimos su dron por nada."
+ mem_rogue_drone.12a:0 "No olvidaremos este insulto."
+ 
+ mem_rogue_drone_trait:0 "Dron Rebelde"
+ mem_rogue_drone_trait_desc:0 "Este líder es un antiguo dron de la Mente Colmena que de alguna manera ha adquirido libre albedrío."
+ 
+ mem_rogue_drone_busted:0 "Destruido nuestro Dron"
+ mem_rogue_drone_handover:0 "Entregó nuestro Dron Rebelde"
+ mem_rogue_drone_refused:0 "Se negó a devolver el Dron Rebelde"
+ mem_rogue_drone_ungrateful:0 "Ingrato"
+

@@ -1,0 +1,28 @@
+﻿l_spanish:
+ #Dead Star Event
+ #Idea by Infel
+ #Code by LamilLerran
+ #Temporary Writing by LamilLerran
+ mem_dead_star_category:0 "Estrella desaparecida"
+ mem_dead_star_category_desc:0 "Según nuestras cartas, el sistema §Y[Root.GetName]§! debería contener una estrella muy brillante. Esto podría atribuirse a un simple error de cálculo... pero esa estrella es una de las más prominentes en el cielo de nuestro mundo natal. Deberíamos investigar esto más a fondo."
+ mem_dead_star.4.name:0 "Error de cálculo"
+ mem_dead_star.4.desc:0 "Parece que hubo algún error en los cálculos, y la ubicación real de la estrella está en otro lugar."
+ mem_dead_star.4.a:0 "Notado. Deberíamos seguir adelante."
+ mem_dead_star.6.name:0 "Estrella muerta"
+ mem_dead_star.6.desc:0 "Parece que el navegante tenía razón. La estrella está aquí... o más bien sus restos están. Parece que se había colapsado bajo su propio peso hace mucho tiempo, creando §Y[From.GetName]§!. Un astrofísico a bordo afirma que la luz del evento aún no ha llegado a §Y[Root.Owner.Capital.GetName]§!. Pero según sus cálculos, debería hacerlo en unos pocos años."
+ mem_dead_star.6.a:0 "Nada será igual"
+ mem_dead_star.6.b:0 "¡Una oportunidad única en un milenio!"
+ mem_dead_star.6.c:0 "Todo termina."
+ mem_dead_star.1.name:0 "Estrella se oscurece"
+ mem_dead_star.1.desc:0 "Como fue predicho por el científico hace muchos años, esta noche una de las estrellas ha desaparecido del cielo de §Y[Root.Owner.Capital.GetName]§!. Brilló en el cielo durante unos segundos, y luego se fue. A pesar de la cobertura mediática, la mayoría de la población del planeta se perdió el momento, algunos no se dieron cuenta de que la estrella se había ido durante días. Afortunadamente, nuestros científicos fueron más vigilantes que nuestros ciudadanos, y pudieron obtener muchos datos interesantes del evento."
+ mem_dead_star.1.a:0 "¡Buen trabajo!"
+ mem_dead_star.2.name:0 "Supernova"
+ mem_dead_star.2.desc:0 "¡Ha llegado la noche! Como fue predicho por el científico hace muchos años, esta noche una de las estrellas en el cielo de §Y[Root.Owner.Capital.GetName]§! se convirtió en supernova! Científicos y ciudadanos por igual dirigieron sus ojos y dispositivos de grabación al cielo para no perderse ni una fracción del espectáculo. Las imágenes de la estrella también fueron transmitidas a los ciudadanos en los mundos coloniales, para que ellos también pudieran participar en el evento. ¡Este evento seguramente dejará su huella en nuestras mentes, libros de texto e investigación!"
+ mem_dead_star.2.a:0 "¡Fuimos muy afortunados de presenciar esto!"
+ mem_dead_star.3.name:0 "Muerte de una estrella"
+ mem_dead_star.3.desc:0 "Ha llegado la noche... Como fue predicho por el científico hace muchos años, esta noche una de las estrellas en el cielo de §Y[Root.Owner.Capital.GetName]§! murió. Los ciudadanos temerosos estuvieron de vigilia toda la noche, sosteniendo luces y mirando al cielo para disfrutar de la vista de la estrella mientras aún podían. La estrella misma se fue en un momento... Como todos nosotros lo estaremos. Nuestros científicos parecen felices de haber obtenido algunos datos interesantes, pero todos los demás recibieron un duro recordatorio de que todo y todos deben morir algún día."
+ mem_dead_star.3.a:0 "Memento mori."
+ mem_supernova_celebration:0 "Supernova emocionante"
+ mem_supernova_mourning:0 "Estrella perdida en duelo"
+ mem_supernova_celebration_desc:0 "Los habitantes de este planeta están emocionados de haber presenciado una supernova."
+ mem_supernova_mourning_desc:0 "Los habitantes de este planeta están de luto por la muerte de una estrella en su cielo."
