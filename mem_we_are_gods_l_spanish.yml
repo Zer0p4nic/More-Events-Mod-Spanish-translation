@@ -1,0 +1,13 @@
+﻿l_spanish:
+ # We are gods
+ #Written by Maria
+ #Code by Matthew Betts
+
+ # ROOT = PLANET SCOPE
+ # FROM = SHIP SCOPE
+
+ mem_we_are_gods.2.name:0 "¿Somos Dioses?"
+ mem_we_are_gods.2.desc:0 "Parece que los nativos de este planeta han llegado a creer que somos... dioses. Esto nos dejó en una posición muy incómoda cuando uno de nuestros equipos de investigación fue descubierto y los nativos se arrodillaron en lugar de atacarlos. Las religiones basadas en la adoración de nosotros están en constante aumento en toda su sociedad, incluyendo algunas que nos refieren como aquellos que los "ascenderán" a un "plano superior de existencia". Sin embargo, hace más fácil secuestrar a los nativos para un estudio más profundo, dado que básicamente se ofrecen."
+ mem_we_are_gods.2.a:0 "Intrigante."
+ mem_we_are_gods.2.b:0 "Dioses... Casi podrías gustar de estos primitivos."
+ mem_we_are_gods.2.c:0 "Al menos están en el camino correcto... ALGO."

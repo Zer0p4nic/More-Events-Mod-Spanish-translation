@@ -1,0 +1,142 @@
+﻿l_spanish:
+ 
+ ########################
+ # Sleepers 
+ # by ViolentBeetle, Malthus proofread by LamilLerran
+ ########################
+ 
+ #Modifier
+ mem_sleepers_energy_cost:0 "Reembolso del Préstamo"
+ mem_sleepers_research_boost:0 "Experiencia Ozari"
+ 
+ #Leader Trait
+ mem_leader_trait_last_ozari:0 "El Último Ozari"
+ mem_leader_trait_last_ozari_desc:0 "Los Ozari eran particularmente hábiles en biotecnología."
+ #Project
+ MEM_SLEEPERS_SCAN:0 "Lecturas de Energía Alarmantes"
+ MEM_SLEEPERS_SCAN_DESC:0 "Nuestro puesto de observación sobre §Y[From.GetName]§! está informando señales inusuales y alarmantes provenientes del planeta. Se necesitan expertos para analizar completamente la situación, pero las lecturas preliminares indican que el desastre puede ser inminente."
+ 
+ mem_sleepers.2.name:0 "Abajo"
+ mem_sleepers.2.desc:0 "Nuestro puesto de observación en §Y[From.GetName]§! está informando señales inusuales y alarmantes provenientes del planeta. Están captando una firma de energía que se origina debajo de la superficie del planeta en una región aislada. La fuerza de la señal está más allá de lo que la tecnología nativa puede producir y es notablemente similar a nuestras propias plantas de energía. Más alarmante aún, la firma indica claramente una creciente inestabilidad en la fuente de energía. Esto probablemente terminará en desastre si no actuamos rápido."
+ mem_sleepers.2.a:0 "Envía a especialistas para investigar esto."
+ 
+ #Failed to do the project (Soft Fail)
+ mem_sleepers.3.name:0 "Punto Cero"
+ mem_sleepers.3.desc:0 "Una enorme explosión subterránea ha atravesado la corteza de §Y[From.From.From.GetName]§!, enviando cenizas y rocas a la atmósfera con una potencia que rivaliza con la erupción de un supervolcán. Cualquier cosa que hubiera que encontrar en el punto cero ahora ciertamente se ha vaporizado.\n\nNuestro puesto de observación informa que los nativos que presenciaron el incidente están asombrados por la catástrofe, y las culturas locales están experimentando un aumento de la espiritualidad nacida del miedo a la ira de los dioses."
+ mem_sleepers.3.a:0 "Parece que podría haber sido peor."
+ 
+ #Failed to do the project (Hard Fail)
+ mem_sleepers.4.name:0 "Punto Cero"
+ mem_sleepers.4.desc:0 "Una enorme explosión subterránea ha atravesado la corteza de §Y[From.From.From.GetName]§!, enviando cenizas y rocas a la atmósfera con una potencia que supera la de una erupción de supervolcán. Esto ha desencadenado ondas de presión supersónicas a través de la atmósfera del planeta, una serie de terremotos masivos en cascada, y columnas sofocantes de polvo y cenizas suficientes para enviar todo el planeta a un crepúsculo permanente. Esta catástrofe ha devastado la biosfera y extinguido la civilización nativa. Cualquier cosa que pudiéramos haber encontrado en el punto cero ciertamente se vaporizó.\n\nNuestro puesto de observación ha sido cerrado ya que no queda nadie a quien observar."
+ mem_sleepers.4.a:0 "Ojalá pudiéramos haberlo prevenido."
+ mem_sleepers.4.b:0 "Qué desperdicio de un planeta decente..."
+ 
+ #Finished Project
+ mem_sleepers.5.name:0 "Bóveda Subterránea"
+ mem_sleepers.5.desc:0 "La firma de energía en §Y[From.From.From.GetName]§! requirió una perforación precisa de nuestro equipo de ciencia, pero finalmente los llevó a un vasto sistema de cavernas. Una vez dentro, el equipo ha descubierto una gran estructura artificial deliberadamente oculta dentro. La estructura fue construida sin lugar a dudas utilizando tecnología de la era espacial, siglos por delante de lo que los nativos de este planeta deberían ser capaces. Dentro de esta estructura, la tripulación se sorprendió al encontrar innumerables cápsulas de sueño alineadas en las paredes, conteniendo alienígenas no solo inconsistentes con los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!, sino también algunos a diferencia de cualquier otra especie conocida por nosotros, así como un enorme arsenal de hardware militar avanzado. Sin embargo, el idioma utilizado en terminales y etiquetas tiene un notable parecido con los idiomas que hemos aprendido observando a los nativos.\n\nNuestros ingenieros han evaluado la situación en el control del reactor, que fue bastante anticlimático después de los descubrimientos anteriores. Siglos, si no milenios, sin mantenimiento han pasado factura, pero con nuestro nivel de tecnología, estabilizar el reactor debería ser trivial, especialmente si estamos dispuestos a sacrificar algunos de nuestros propios recursos."
+ mem_sleepers.5.a:0 "Intenta estabilizarlo y reactivar la bóveda."
+ mem_sleepers.5.a.tooltip:0 "Se utilizará una cantidad de 500 créditos de energía para este proyecto."
+ mem_sleepers.5.b.tooltip:0 "Como nos falta los 500 créditos de energía necesarios, tendremos que pedir prestada la cantidad a nuestro sector privado."
+ mem_sleepers.5.c:0 "Solo desactiva todos los sistemas y desmantela la bóveda en busca de objetos de valor."
+ mem_sleepers.5.c.tooltip:0 "Nuestro equipo comenzará a desmantelar todo lo que no sea necesario para la integridad estructural de la bóveda."
+ mem_sleepers.5.d:0 "Las vidas Xeno no valen la pena arriesgar a nuestro equipo. Vamos a volarlo."
+ 
+ #Looting the Vault and potentially getting uplifting tech option
+ mem_sleepers.6.name:0 "Tesoro Tecnológico"
+ mem_sleepers.6.desc:0 "Después de apagar las cápsulas de sueño y enviar a sus ocupantes a su descanso final, nuestro equipo ha comenzado a analizar todos los materiales potencialmente útiles, así como los datos históricos y tecnológicos almacenados en el servidor central de la bóveda.\n\nLos constructores de este lugar se han llamado a sí mismos los Ozari. Parecen no haber logrado el vuelo espacial interestelar, pero estaban muy avanzados en biotecnología. Ese avance finalmente llevó a su propia desaparición: habían elevado a los aparentes antepasados de los actuales §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! como una raza esclava, que luego se rebeló rápidamente. Los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! casi exterminaron a sus antiguos amos, con solo unos pocos Ozari encontrando refugio en esta instalación subterránea.\n\nPuede que no haya terminado bien para los Ozari, pero nuestros científicos ven un gran potencial en los fragmentos de tecnología que hemos descubierto."
+ mem_sleepers.6.a:0 "Otro avance tecnológico. ¡Buen trabajo!"
+ 
+ #Some sleepers awake and attack your looting team (small explosion) Scientist dies
+ mem_sleepers.7.name:0 "Desde la Tumba"
+ mem_sleepers.7.desc:0 "Mientras nuestro equipo de ciencia estaba ocupado desmantelando la instalación, un mecanismo de seguridad oculto debe haber despertado a algunos de los durmientes. No estaban demasiado contentos con el trabajo de nuestro equipo y estalló un tiroteo. Nuestro superior poder de fuego cambió rápidamente el rumbo de la batalla... pero no lo suficientemente rápido.\n\nDándose cuenta de su inminente condena, los últimos restos de los durmientes iniciaron el mecanismo de autodestrucción de la bóveda, llevándose a nuestro equipo, incluido nuestro científico jefe, con ellos.\n\nUna enorme explosión subterránea ha arrasado la corteza de §Y[From.From.From.From.GetName]§!, enviando cenizas y rocas a la atmósfera con una potencia rivalizando con una erupción de supervolcán. No queda nada del complejo de la bóveda.\n\nNuestro puesto de observación informa que los nativos que presenciaron el incidente están asombrados por la catástrofe, y las culturas locales están experimentando un aumento de la espiritualidad nacida del miedo a la ira de los dioses."
+ mem_sleepers.7.a:0 "No serán olvidados."
+ 
+ #Letting it blow up as a xenophobe
+ mem_sleepers.8.name:0 "Cero Absoluto"
+ mem_sleepers.8.desc:0 "Una enorme explosión subterránea ha arrasado la corteza de §Y[From.From.From.From.GetName]§!, enviando cenizas y rocas a la atmósfera con una potencia rivalizando con una erupción de supervolcán. No queda nada del complejo de la bóveda.\n\nNuestro puesto de observación informa que los nativos que presenciaron el incidente están asombrados por la catástrofe, y las culturas locales están experimentando un aumento de la espiritualidad nacida del miedo a la ira de los dioses."
+ mem_sleepers.8.a:0 "Bueno... lo que sea."
+ 
+ #Letting it blow up as a xenophobe
+ mem_sleepers.9.name:0 "Cero Absoluto"
+ mem_sleepers.9.desc:0 "Una enorme explosión subterránea ha atravesado la corteza de §Y[From.From.From.From.GetName]§!, enviando cenizas y rocas a la atmósfera con una potencia que rivaliza con la erupción de un supervolcán. Esto ha desencadenado ondas de presión supersónicas a través de la atmósfera del planeta, una serie en cascada de terremotos masivos, y columnas sofocantes de polvo y cenizas suficientes para enviar todo el planeta a un crepúsculo permanente. Nuestros científicos se sorprendieron por la escala de la explosión, ya que superó con creces todas las expectativas anteriores, devastando la biosfera y extinguiendo la civilización nativa.\n\nNuestro puesto de observación ha sido cerrado ya que no queda nada que observar."
+ mem_sleepers.9.a:0 "Qué desperdicio de un planeta decente..."
+ 
+ #Remnants prelude narration
+ mem_sleepers.45.name:0 "Despertar"
+ mem_sleepers.45.desc:0 "Con la afluencia de energía, las luces iluminaron de inmediato los silenciosos corredores de la bóveda. Las cápsulas de sueño se abrieron una tras otra. Nuestro equipo se apresuró a las cámaras del consejo, donde han residido los líderes de la sociedad durmiente. Los científicos llegaron para encontrar a los extraterrestres en una rápida discusión. Su idioma está inequívocamente relacionado con el idioma hablado por los primitivos locales, y solo se necesitan unas pocas frases para establecer la traducción y la comunicación."
+ mem_sleepers.45.a:0 "Entonces es hora de escucharlos."
+ mem_sleepers.45.a.tooltip:0 "Discutiremos la historia y el destino de estos extraterrestres"
+ 
+ #Sleepers Awake
+ mem_sleepers.50.name:0 "Los durmientes despiertan"
+ mem_sleepers.50.desc:0 "Somos los §YOzari§!, la primera progenie nacida de este mundo. A diferencia de tu gente, nuestra especie nunca llegó a las estrellas. En cambio, dominamos la biología y la genética, culminando en la elevación de una especie compañera en nuestro mundo natal, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!, para servir como soldados, trabajadores, y algún día, esperábamos, iguales. Sin embargo, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! no veían el mundo como nosotros, y aunque el conocimiento científico había sido en gran medida retenido de nuestros jóvenes primos, encontraron fuerza en los números. La guerra resultante nos llevó al borde de la extinción, y nosotros, los últimos supervivientes de nuestro pueblo, buscamos refugio en esta bóveda."
+ mem_sleepers.50.a:0 "¿Qué harás ahora?"
+ mem_sleepers.50.a.response:0 "Es hora de que los §YOzari§! conozcan a los descendientes de aquellos a quienes elevamos."
+ 
+ #Sleepers meet natives peacefully - player choice if integrating, protectorate or free empire
+ mem_sleepers.51.name:0 "Regreso de los Benefactores"
+ mem_sleepers.51.desc:0 "Los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! podrían haber perdido la mayor parte de la tecnología que sus antiguos maestros tenían, pero no olvidaron a quienes primero les dieron la sensibilidad. Su memoria ha vivido como mitos y leyendas de dioses, traicionados por sus ingratos antepasados.\n\nUna vez que los §YOzari§! se revelaron, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! se regocijaron al ver a sus benefactores regresar de la tumba. Su vínculo fue forjado de nuevo, y los líderes de ambas especies prometieron no repetir los errores del pasado. Ahora nos aclaman, deseando discutir su relación con nuestro imperio."
+ mem_sleepers.51.a:0 "Invítalos a unirse a nuestro imperio."
+ mem_sleepers.51.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§! será integrado pacíficamente en nuestro imperio."
+ mem_sleepers.51.b:0 "Invítalos a unirse a nosotros como protectorado."
+ mem_sleepers.51.b.tooltip:0 "§Y[From.From.From.From.From.GetName]§! se convertirá en un protectorado de nuestro imperio."
+ mem_sleepers.51.c:0 "Deben forjar su propio destino."
+ mem_sleepers.51.c.tooltip:0 "§Y[From.From.From.From.From.GetName]§! se convertirá en un imperio independiente."
+ mem_sleepers.51.d:0 "No tenemos interés en tratar con estos xenos."
+ 
+ #Sleepers eradicate natives - player choice if integrating, protectorate or free empire
+ mem_sleepers.101.name:0 "Día del Juicio"
+ mem_sleepers.101.desc:0 "Los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! podrían haber sido capaces de llevar a la civilización que los elevó a la extinción, pero ya no poseen el poder que tenían sus antepasados. La tecnología que tenían se perdió en el tiempo, y sin la mano guía de sus antiguos maestros se vieron obligados a construir su propia civilización desde cero.\n\nCon su tecnología casi inexistente, no eran rival para el arsenal de armas de los §YOzari§!. Los planeadores y los ataques con drones mataron a la mayoría de los primitivos en días, dejando a los §YOzari§! despertados como los únicos amos de §Y[From.From.From.From.From.GetName]§!. Su líder ahora nos está saludando, deseando discutir su relación con nuestro imperio."
+ mem_sleepers.101.a:0 "La traición nunca puede ser perdonada... Que se unan a nosotros."
+ mem_sleepers.101.a.xenophobe:0 "A pesar de ser xenos, su resolución es admirable. Que se unan a nosotros."
+ mem_sleepers.101.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§! será integrado pacíficamente en nuestro imperio."
+ mem_sleepers.101.b:0 "Invítalos a unirse a nosotros como protectorado."
+ mem_sleepers.101.b.tooltip:0 "§Y[From.From.From.From.From.GetName]§! se convertirá en un protectorado de nuestro imperio."
+ mem_sleepers.101.c:0 "Sus atrocidades son inaceptables. Cesa todos los contactos."
+ mem_sleepers.101.c.tooltip:0 "§Y[From.From.From.From.From.GetName]§! se convertirá en un imperio independiente."
+ mem_sleepers.101.d:0 "No tenemos interés en tratar con estos xenos."
+ 
+ #Remnants prelude narration
+ mem_sleepers.145.name:0 "Despertar"
+ mem_sleepers.145.desc:0 "Solo se iluminaron unas pocas cápsulas. Nuestros científicos se apresuraron a extraer y estabilizar a los extraterrestres contenidos en ellas. Establecimos comunicaciones rápidamente, ya que el idioma que hablaban está estrechamente relacionado con varios idiomas hablados por los nativos contemporáneos.\n\nNo todos ellos tomaron bien la noticia de la desaparición de su especie, pero hemos encontrado un líder que se mantiene estoicamente y parece capaz de hablar por el grupo."
+ mem_sleepers.145.a:0 "Entonces es hora de escucharlos."
+ mem_sleepers.145.a.tooltip:0 "Discutiremos la historia y el destino de estos extraterrestres"
+ 
+ #Remnants
+ mem_sleepers.150.name:0 "Restos"
+ mem_sleepers.150.desc:0 "Somos los §YOzari§!, la primera progenie nacida de este mundo. A diferencia de tu gente, nuestra especie nunca llegó a las estrellas. En cambio, dominamos la biología y la genética, culminando en el ascenso de una especie compañera en nuestro planeta natal, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!, para servir como soldados, trabajadores, y algún día, esperábamos, iguales. Sin embargo, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! no veían el mundo como nosotros, y aunque el conocimiento científico había sido en gran medida retenido de nuestros jóvenes primos, encontraron fuerza en números. Intentamos crear criobúnkeres para refugiarnos de la matanza, pero temo que este fue el único completado.\n\nYa no tenemos lugar en este mundo. Nuestra especie está casi extinta, y nuestras propias creaciones probablemente no nos traten amablemente. ¿Quizás puedes concedernos refugio entre tu gente?"
+ mem_sleepers.150.a:0 "Compartiremos nuestros hogares y tú compartirás tu experiencia."
+ mem_sleepers.150.a.tooltip:0 "Los §YOzari Remnants§! apoyarán nuestra investigación biotecnológica con su experiencia a cambio de recibir refugio."
+ mem_sleepers.150.a.response:0 "Tienes nuestra profunda gratitud. No te arrepentirás."
+ mem_sleepers.150.b:0 "Lo siento, pero perteneces aquí. Le debes esto a tus creaciones."
+ mem_sleepers.150.b.response:0 "Parece que no tenemos otra opción. No nos darás la bienvenida, y tampoco podemos quedarnos aquí..."
+ mem_sleepers.150.c:0 "Preferiríamos acabar con tu miseria, xenos."
+ mem_sleepers.150.c.response:0 "Eso no será necesario. Nos iremos entonces..."
+ 
+ #Last Remnants die
+ mem_sleepers.151.name:0 "El último Ozari falleció"
+ mem_sleepers.151.desc:0 "Hoy, nos informaron sobre el fallecimiento del último de los §YOzari§! del planeta §Y[From.From.From.From.From.GetName]§!. Esto marca no solo el fin de su orgullosa raza sino también el fin de nuestra cooperación a largo plazo. Su experiencia en bioingeniería, que incluso nuestras mentes más brillantes luchan por lograr, será muy extrañada por nuestro personal científico."
+ mem_sleepers.151.a:0 "Que descansen en paz."
+ mem_sleepers.151.b:0 "Eran un activo, nada más..."
+ 
+ #Primitive civilization evolves with help of Ozari
+ mem_sleepers.152.name:0 "El Camino del Progreso"
+ mem_sleepers.152.desc:0 "Han pasado años desde que el último §YOzari§! salió a hacer las paces con su pasado. Parece como si hubieran encontrado un nuevo propósito en la vida. La civilización primitiva de §Y[From.From.From.From.From.GetName]'s§! ha hecho avances notables, obviamente resultado de la influencia de §YOzari§!."
+ mem_sleepers.152.a:0 "Bien por ellos."
+ 
+ #The Last Prelude
+ mem_sleepers.195.name:0 "Despertar"
+ mem_sleepers.195.desc:0 "A pesar de nuestros mejores esfuerzos, el reactor falló rápidamente. Pudimos dirigir solo suficiente de su energía colapsante para revivir una sola cápsula. Nuestros científicos se apresuraron a la cápsula y encontraron un extraterrestre que parece llevar atuendos de liderazgo.\n\nHemos establecido comunicaciones, lo que resultó ser una tarea bastante trivial ya que el idioma del líder está estrechamente relacionado con varios idiomas hablados por los nativos contemporáneos. Más desafiante fue la angustia severa aparente incluso a través de las líneas de especies cuando dijimos que no habíamos podido salvar a ningún otro. Pero ahora creemos que este único superviviente está listo para hablar."
+ mem_sleepers.195.a:0 "Entonces es hora de que escuchemos."
+ mem_sleepers.195.a.tooltip:0 "Discutimos la historia y el destino de estos extraterrestres"
+ 
+ #The Last
+ mem_sleepers.200.name:0 "El Último"
+ mem_sleepers.200.desc:0 "Hablo como miembro de los §YOzari§!, la primera progenie nacida de este mundo. A diferencia de tu gente, nuestra especie nunca llegó a las estrellas. En cambio, dominamos la biología y la genética, culminando en el ascenso de una especie compañera en nuestro planeta natal, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!, para servir como soldados, trabajadores, y algún día, esperábamos, iguales. Sin embargo, los §Y[mem_sleepers_natives.GetSpeciesNamePlural]§! no veían el mundo como nosotros, y aunque el conocimiento científico había sido en gran medida retenido de nuestros jóvenes primos, encontraron fuerza en números. Intentamos crear criobúnkeres para refugiarnos de la matanza, pero este fue el único completado, y por lo tanto ahora soy el único de mi especie.\n\nYa no pertenezco a este mundo. ¿Quizás me permitirás unirme a ti entre las estrellas?""
+ mem_sleepers.200.a:0 "Puedes vivir con nosotros siempre que compartas tu experiencia."
+ mem_sleepers.200.a.tooltip:0 "El último Ozari se unirá a nuestro imperio como científico con especialización en biotecnología."
+ mem_sleepers.200.a.response:0 "Te proporcionaré todo lo que sé. No te arrepentirás de esta decisión."
+ mem_sleepers.200.b:0 "Lo siento, pero no podemos permitir esto."
+ mem_sleepers.200.b.response:0 "¿Pero a dónde debo ir?!"
+ mem_sleepers.200.c:0 "¿Por qué no terminamos el trabajo y te sacamos de tu miseria?"
+ mem_sleepers.200.c.response:0 "Que así sea, entonces. No tengo poder para detenerte..."

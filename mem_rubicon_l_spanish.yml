@@ -1,0 +1,119 @@
+﻿#Rubicon
+#By ViolentBeetle
+
+l_spanish:
+#Ship Classes
+ mem_rubicon_fortress:0 "Estación de Piquete"
+ mem_rubicon_fortress_plural:0 "Estaciones de Piquete"
+ shipsize_mem_rubicon_fortress_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_fortress_build_cost_mult:0 ""
+ shipsize_mem_rubicon_fortress_upkeep_mult:0 ""
+ mem_rubicon_battleship:0 "Sonda de Batalla Principal"
+ mem_rubicon_battleship_plural:0 "Sondas de Batalla Principal"
+ shipsize_mem_rubicon_battleship_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_battleship_build_cost_mult:0 ""
+ shipsize_mem_rubicon_battleship_upkeep_mult:0 ""
+ mem_rubicon_cruiser:0 "Sonda Crucero"
+ mem_rubicon_cruiser_plural:0 "Sondas Crucero"
+ shipsize_mem_rubicon_cruiser_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_cruiser_build_cost_mult:0 ""
+ shipsize_mem_rubicon_cruiser_upkeep_mult:0 ""
+ mem_rubicon_destroyer:0 "Sonda de Bloqueo"
+ mem_rubicon_destroyer_plural:0 "Sondas de Bloqueo"
+ shipsize_mem_rubicon_destroyer_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_destroyer_build_cost_mult:0 ""
+ shipsize_mem_rubicon_destroyer_upkeep_mult:0 ""
+ mem_rubicon_corvette:0 "Sonda de Persecución"
+ mem_rubicon_corvette_plural:0 "Sondas de Persecución"
+ shipsize_mem_rubicon_corvette_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_corvette_build_cost_mult:0 ""
+ shipsize_mem_rubicon_corvette_upkeep_mult:0 ""
+
+ mem_rubicon_mender:0 "Reparador del Mundo"
+ mem_rubicon_mender_plural:0 "Reparadores del Mundo"
+ shipsize_mem_rubicon_mender_construction_speed_mult:0 ""
+ shipsize_mem_rubicon_mender_build_cost_mult:0 ""
+ shipsize_mem_rubicon_mender_upkeep_mult:0 ""
+
+ #Ship sections
+ mem_rubicon_station_key:0 ""
+ mem_rubicon_battleship_key:0 ""
+ mem_rubicon_cruiser_key:0 ""
+ mem_rubicon_destroyer_key:0 ""
+ mem_rubicon_corvette_key:0 ""
+  mem_rubicon_worldmender_key:0 ""
+
+ #Components
+ MEM_RUBICON_UP_BEAM:0 "Rayo UP Rubiconid"
+ MEM_RUBICON_DROD:0 "Emisor DROD Rubiconid"
+ MEM_RUBICON_WORLDMENDER_GUN:0 "Cañón Reparador del Mundo"
+ MEM_RUBICON_AUX_MODULE:0 "Caché Técnico de Worldmender"
+ MEM_RUBICON_AUX_MODULE_DESC:0 "Este núcleo de datos masivo contiene una inmensa cantidad de datos recopilados por los Worldmenders."
+
+ #Events
+ mem_rubicon.1.name:0 "Sistema Rubicon"
+ mem_rubicon.1.desc:0 "Hemos descubierto un gran número de naves hostiles de diseño inusual patrullando el sistema §Y[From.GetName]§!, que está lleno de viejos escombros de batalla. \n\nNombrados provisionalmente como "§YRubiconids§!", parecen estar concentrados principalmente alrededor de un denso cinturón de asteroides como si estuvieran protegiendo algo."
+ mem_rubicon.1.a:0 "Deberíamos monitorear la situación."
+
+ mem_rubicon_core_category:0 "Nave oculta"
+ mem_rubicon_core_category_desc:0 "Se puede detectar el perfil de una gran nave inerte en lo profundo del denso campo de escombros."
+
+ mem_rubicon.2.name:0 "Nave oculta"
+ mem_rubicon.2.desc:0 "[Leader.GetName] informa que [Leader.GetSheHe] [Leader.GetHasHave] confirmado la presencia de una nave desconocida dentro de la parte más densa del campo de escombros planetarios. \n\nLas observaciones preliminares sugieren que está aparcada junto a una gran roca y está segura por ahora, pero debido al entorno peligroso, sería imposible maniobrarla de forma segura."
+ mem_rubicon.2.a:0 "Deberíamos seguir monitoreándola."
+ mem_rubicon.2.a.tooltip:0 "Añade §S$mem_rubicon_hidden_ship$§! a §Y[From.GetName]§!: \n£engineering  Ingeniería §G+6§!. \nConstruye una §Sestación de investigación§! sobre ella para saber más."
+
+ mem_rubicon_hidden_ship:0 "Nave oculta"
+ mem_rubicon_hidden_ship_desc:0 "Una nave está oculta en lo profundo de los densos escombros. \n\n§LConstruye una §Sestación de investigación§L sobre ella para saber más.§!"
+
+ mem_rubicon.4.name:0 "Ventana de oportunidad"
+ mem_rubicon.4.desc:0 "Después de observar §Y[From.GetName]§! durante un tiempo, nuestros científicos han formulado un plan para navegar por el denso campo de escombros y acceder a la nave oculta. \n\nEsto será arriesgado, pero los informes preliminares sugieren que hay tecnología altamente avanzada escondida allí."
+ mem_rubicon.4.a:0 "Haz que suceda."
+
+ MEM_RUBICON_EXPEDITION:0 "Nave oculta"
+ MEM_RUBICON_EXPEDITION_DESC:0 "Una nave está oculta en lo profundo del campo de escombros designado §Y[mem_rubicon_core_planet.GetName]§!. Con un tiempo preciso y una navegación ágil, deberíamos poder llegar a ella."
+
+ mem_rubicon.5.name:0 "El Worldmender"
+ mem_rubicon.5.desc:0 "El científico [Leader.GetName] a bordo del [Root.GetName] informa de que el equipo de [Leader.GetHerHis] ha navegado con éxito por el denso campo de escombros del sistema §Y[mem_rubicon_core_planet.Solar_System.GetName]§ y ha abordado la nave inerte oculta en medio de él. \n\nDicha nave es impresionantemente antigua, con estimaciones que oscilan entre miles y cientos de miles de años. La mayoría de los equipos y núcleos de datos de a bordo se han perdido por el paso del tiempo y los impactos de escombros. Sin embargo, lo que hemos conseguido reunir sigue siendo fascinante. Parece que la nave es un híbrido de nave de guerra y terraformador llamado Worldmender. Originalmente transportaba una enorme tripulación y un gran número de pasajeros, actualmente se conserva bajo la supervisión de una unidad de IA llamada "Fleetmind". \n\nEl Worldmender entero está demasiado dañado para escapar, pero partes de él podrían, con nuestra ayuda."
+ mem_rubicon.5.a:0 "Guarda los módulos esenciales de la nave de guerra."
+ mem_rubicon.5.a.tooltip:0 "Se añadirá una nueva nave poderosa a nuestra armada, junto con un §Salmirante AI§!. \nMientras la nave esté en nuestra posesión, disfrutaremos de los beneficios del §Y$mem_rubicon_mender_archives$§!"
+ mem_rubicon.5.b:0 "Guarda los módulos de la nave de guerra pero elimina la IA"
+ mem_rubicon.5.b.tooltip:0 "Se añadirá una nueva nave poderosa a nuestra armada. \nMientras la nave esté en nuestra posesión, disfrutaremos de los beneficios del §Y$mem_rubicon_mender_archives$§!"
+ mem_rubicon.5.c:0 "Reactiva los sistemas de terraformación."
+ mem_rubicon.5.c.tooltip:0 "Si reactivamos el sistema, la nave se nos perderá. Se utilizará para reparar el campo de escombros en un planeta real."
+ mem_rubicon.5.c.tooltip.gaia:0 "Se producirá un mundo §GGaia§!."
+ mem_rubicon.5.c.tooltip.regular:0 "Se producirá un mundo §SRegular§!."
+ mem_rubicon.5.c.tooltip.tomb:0 "Se producirá un mundo §LTomb§!."
+ mem_rubicon.5.c.tooltip.barren:0 "Se producirá un mundo §RBarren§!."
+ mem_rubicon.5.d:0 "Accede a los datos sobre los creadores de la nave."
+ mem_rubicon.5.d.response:0 "La nave pertenecía a una civilización identificada simplemente como los §SMenders§!. El principio fundamental de su ideología parece haber sido un sentido de "supremacía ecológica", es decir, creían que el ecosistema natural de su planeta natal era superior a cualquier otro ecosistema en la galaxia. Durante generaciones, han practicado la terraformación agresiva con total desprecio por las formas de vida nativas, a menudo descomponiendo por completo las biosferas de los planetas y refundiéndolas de nuevo. A veces, incluso desmontaban planetas y los reconstruían para adaptarlos a su ideal utilizando flotas lideradas por las llamadas naves Worldmender."
+ mem_rubicon.5.e:0 "Descubre más sobre lo que causó su caída."
+ mem_rubicon.5.e.response:0 "La información sobre las afiliaciones políticas de los Menders es escasa, pero la historia de su caída parece clara. \n\nUna de las civilizaciones que se encontró atrapada en la estela de la fiebre de terraformación de los Menders aparentemente dependía de una red de astilleros ocultos y altamente automatizados, y aunque sus mundos fueron rápidamente transformados en jardines del diseño de los Menders, varios de estos astilleros permanecieron. \n\nUn siglo o más después de la extinción de sus amos, hordas de drones han aparecido en las fronteras del sobrecargado y complaciente Imperio Mender, abrumando a sus flotas con pura cantidad. Los Menders que una vez aniquilaron a sus creadores se encontraron a merced de los drones y pronto se vieron obligados a retirarse a una base oculta. A pesar de sus mejores esfuerzos, el enemigo los siguió y destruyó el recordatorio de su armada."
+ mem_rubicon.5.f:0 "Acceso a informes finales."
+ mem_rubicon.5.f.response:0 "Aquí, en el sistema [mem_rubicon_core_planet.Solar_System.GetName], los Menders hicieron su última resistencia contra las máquinas empeñadas en su destrucción. Una vez el sitio de un prometedor proyecto de terraformación, se convirtió en el lugar donde encontrarían su fin.\n\n Cuando la derrota parecía inevitable, la nave insignia gravemente dañada se sumergió en la media formada cáscara de un planeta y permaneció oculta, operada y mantenida por su IA cuidadora. Incapaces de perseguirla, los drones mantuvieron vigilancia en el sistema. Con el tiempo, parece, los drones supervivientes fueron designados §SRubiconids§! por exploradores galácticos que desconocían sus verdaderos objetivos."
+
+ mem_rubicon_mender_archives:0 "Archivos de los Menders"
+ mem_rubicon_mender_archives_desc:0 "Las bases de datos de Worldmender contienen una inmensa cantidad de conocimientos de terraformación que todavía no podemos mover fuera del sitio. \n§TNo debemos perder esta nave si queremos mantener estos beneficios.§!"
+
+ trait_mem_rubicon_mender:0 "Mente Mender"
+ trait_mem_rubicon_mender_desc:0 "Esta construcción de IA fue diseñada tanto para liderar la flota Mender en la batalla como para verla a través de la reconstrucción de otro mundo a su imagen. Hoy en día ha sido reutilizada para liderar una flota diferente."
+
+ mem_rubicon.6.name:0 "Éxito en la Terraformación del Planeta"
+ mem_rubicon.6.desc:0 "§Y[mem_rubicon_core_planet.GetName]§! ha sido transformado con éxito en un mundo Gaia. \n\nEl sueño de los Menders de una tierra prometida perdura, miles de años después de su extinción."
+
+ mem_rubicon.7.name:0 "Completa la Terraformación del Planeta"
+ mem_rubicon.7.desc:0 "Parece que el daño sufrido por el equipo de terraformación fue demasiado severo para realizar plenamente su potencial, pero aún así, §Y[mem_rubicon_core_planet.GetName]§! ha sido transformado con éxito en un mundo habitable. \n\nEl sueño de los Menders de una tierra prometida perdura, aunque un poco empañado, miles de años después de su extinción."
+ mem_rubicon.7.a:0 "Podría haber sido mejor."
+
+ mem_rubicon.8.name:0 "Terraformación del Planeta Defectuosa"
+ mem_rubicon.8.desc:0 "Parece que el daño sufrido por el equipo de terraformación fue demasiado severo. §Y[mem_rubicon_core_planet.GetName]§! ha sido transformado con éxito en un mundo parcialmente habitable, pero las fugas masivas de radiación han impedido que sea completamente habitable. \n\nEl sueño de los Menders de una tierra prometida no se ha realizado completamente."
+ mem_rubicon.8.a:0 "Al menos se mantiene unido."
+
+ mem_rubicon.9.name:0 "Fallo en la Terraformación del Planeta"
+ mem_rubicon.9.desc:0 "Parece que el daño sufrido por el equipo de terraformación fue demasiado severo. §Y[mem_rubicon_core_planet.GetName]§! ha sido fusionado, pero todos los sistemas que se suponía que harían habitable esta enorme roca no produjeron los resultados previstos. \n\nEl sueño de los Menders de una tierra prometida ha fracasado completamente."
+ mem_rubicon.9.a:0 "Muy decepcionante."
+
+ mem_rubicon_mended_ecosystem:0 "Ecosistema Mender"
+ mem_rubicon_mended_ecosystem_desc:0 "El ecosistema aquí está construido desde cero, siguiendo los planos de los "Planetmenders" desaparecidos hace mucho tiempo. Todo está en perfecto equilibrio."
+
+ mem_rubicon_country_buff:0 "Rubiconids"

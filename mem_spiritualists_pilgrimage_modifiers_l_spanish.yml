@@ -1,0 +1,11 @@
+﻿l_spanish:
+# Opinion modifiers
+ mem_opinion_very_pleased_pilgrims:0 "Peregrinos muy complacidos"
+ mem_opinion_pleased_pilgrims:0 "Peregrinos complacidos"
+ mem_opinion_bad_hosts:0 "Malos anfitriones"
+ mem_opinion_assassins:0 "Asesinos"
+ mem_opinion_accused_of_terrorism:0 "Acusados de terrorismo"
+# Pop modifier  
+ mem_strange_guests:0 "Huéspedes extraños"
+ terrorism:0 "Terrorismo"
+ 

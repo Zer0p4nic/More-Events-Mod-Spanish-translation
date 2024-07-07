@@ -1,0 +1,110 @@
+﻿#Space Race
+#By ViolentBeetle
+
+l_spanish:
+
+ mem_space_race.1.name:0 "Carrera Espacial"
+ mem_space_race.1.desc:0 "En interés de la paz galáctica y el intercambio cultural y tecnológico, se ha propuesto un nuevo evento deportivo. \n\nLa "Carrera Espacial" constará de una serie de competencias para identificar a los pilotos e ingenieros más hábiles de la galaxia. El formato sugerido implica que pequeñas naves pilotadas compitan entre sí a través de pistas complejas a través de nuestro espacio. \n\n¿Deberíamos ofrecernos como país anfitrión?"
+ mem_space_race.1.a:0 "¡Excelente idea! Enviemos invitaciones."
+ mem_space_race.1.b:0 "No, es una mala idea."
+ 
+ mem_space_race.2.name:0 "Invitación a una Carrera Espacial"
+ mem_space_race.2.desc:0 "Saludos, [root.GetSpeciesName]. Estamos organizando un evento deportivo galáctico, una Carrera Espacial, a través del cual esperamos identificar a los pilotos e ingenieros más hábiles de la galaxia. Estamos invitando a todas las naciones principales, incluyendo, por supuesto, a ustedes, a participar. ¿Les gustaría venir?"
+ mem_space_race.2.a:0 "Qué gran idea. Por supuesto que vendremos."
+ mem_space_race.2.b:0 "Preferiríamos no hacerlo."
+ mem_space_race.2.b.psycho:0 "¿Estás hablando en serio?!"
+ mem_space_race.2.b.inwards:0 "No tenemos interés en tus asuntos."
+ mem_space_race_must_be_diplomatic:0 "No estamos interesados en la diplomacia xeno."
+ 
+ mem_space_race.4.name:0 "La Carrera está en Marcha"
+ mem_space_race.4.desc:0 "Suficientes imperios extranjeros han expresado el deseo de participar en nuestra grandiosa nueva Carrera Espacial. Deberíamos comenzar los preparativos."
+ mem_space_race.4.a:0 "Apenas puedo esperar."
+ 
+ mem_space_race.5.name:0 "Carrera Espacial Cancelada"
+ mem_space_race.5.desc:0 "No pudimos encontrar suficientes países dispuestos a participar en la propuesta Carrera Espacial para que valiera la pena el esfuerzo. El evento tuvo que ser cancelado."
+ mem_space_race.5.a:0 "Muy decepcionante."
+ 
+ mem_space_race.6.name:0 "Preparativos para la Carrera"
+ mem_space_race.6.desc:0 "La Carrera Espacial se acerca cada vez más. Cada nación participante está trabajando duro para preparar sus naves de carrera y pilotos para el evento. Nuestros ingenieros están trabajando duro para proporcionar a nuestros pilotos todas las ventajas que puedan.\n\nLa carrera será una muestra de la mejor tecnología que [Root.GetName] y otros imperios pueden ofrecer. Sin embargo, las reglas de la carrera limitan el tamaño de la nave, obligándonos a elegir qué sistema priorizamos. ¿Deberíamos intentar presionar nuestra mayor ventaja tecnológica o compensar nuestras deficiencias? ¿O simplemente dar igual prioridad a todo y esperar que nuestro poder tecnológico general decida el día?"
+
+ mem_space_race.6.a:0 "Dale igual atención a todo."
+ mem_space_race.6.b:0 "Enfócate en los escudos."
+ mem_space_race.6.c:0 "Enfócate en el empuje."
+ mem_space_race.6.d:0 "Enfócate en la Blindaje."
+ 
+ mem_space_race.7.name:0 "Nuestra Participación en la Carrera Espacial se Cancela"
+ mem_space_race.7.desc:0 "Debido a la guerra que estamos luchando actualmente, no podremos dedicar los recursos para equipar un equipo para participar en la carrera espacial para la que nos inscribimos."
+
+ mem_space_race.8.name:0 "La Carrera Espacial Comenzará Pronto"
+ mem_space_race.8.desc:0 "Se están completando los preparativos finales mientras nuestro imperio se prepara para albergar el evento deportivo más emocionante de la galaxia. Pronto, los mejores pilotos e ingenieros del espacio conocido vendrán a mostrar sus habilidades."
+ mem_space_race.8.a:0 "Esto es tan emocionante."
+ 
+ mem_space_race.10.name:0 "Eliminación de la Carrera Espacial"
+ mem_space_race.10.desc.shield:0 "La ronda más reciente de la Carrera Espacial [mem_space_race_host.GetAdj] tuvo lugar en la proximidad de la estrella, obligando a los pilotos a confiar en sus escudos para evitar los peligrosos vientos solares y el calor. \n\nDesafortunadamente, nuestra nave no pudo soportar el calor y por lo tanto se vio obligada a mantener su distancia de la estrella, perdiendo tiempo precioso en su trayectoria más larga. No llegó a la línea de meta a tiempo, y ha sido eliminada."
+ mem_space_race.10.desc.thrust:0 "La ronda más reciente de la [mem_space_race_host.GetAdj] Carrera Espacial involucró una trayectoria larga y compleja alrededor de muchos planetas diferentes y otros cuerpos celestes masivos. \n\nParece que los motores de nuestra nave no eran lo suficientemente potentes para maniobrar de manera efectiva dentro de pozos de gravedad fuertes, lo que provocó que perdiera un tiempo precioso. No llegó a la línea de meta a tiempo y ha sido eliminado."
+ mem_space_race.10.desc.armor:0 "La ronda más reciente de la [mem_space_race_host.GetAdj] Carrera Espacial llevó a los participantes a través de una espesa nube de escombros espaciales, obligándolos a confiar en la Blindaje de sus naves para evitar ser deshabilitados por colisiones. \n\nNuestra nave desafió la pista de obstáculos durante algún tiempo, pero su casco no pudo soportar el castigo y, finalmente, fue dañado hasta tal extremo que tuvo que retirarse."
+ mem_space_race.10.a:0 "Decepcionante."
+ 
+ mem_space_race.11.name:0 "Tercer lugar en la Carrera Espacial"
+ mem_space_race.11.desc.shield:0 "$mem_space_race.10.desc.shield$ \n\nSer eliminado de la carrera en esta etapa nos coloca en tercer lugar en la puntuación general. Esto no es una victoria, pero llegamos al podio."
+ mem_space_race.11.desc.thrust:0 "$mem_space_race.10.desc.thrust$ \n\nSer eliminado de la carrera en esta etapa nos coloca en tercer lugar en la puntuación general. Esto no es una victoria, pero llegamos al podio."
+ mem_space_race.11.desc.armor:0 "$mem_space_race.10.desc.armor$ \n\n Ser eliminado de la carrera en esta etapa nos coloca en tercer lugar en la puntuación general. Esto no es una victoria, pero llegamos al podio."
+ mem_space_race.11.a:0 "Decepcionante."
+ 
+ mem_space_race.13.name:0 "Ganamos la Carrera Espacial"
+ mem_space_race.13.desc:0 "Hoy, la famosa [mem_space_race_host.GetAdj] Carrera Espacial ha concluido su ronda final. Una gran ceremonia de clausura tuvo lugar en [mem_space_race_host.Capital_Scope.GetName], con [mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim]self felicitando a los ganadores. Nuestro equipo ocupó el primer lugar y se le otorgó una preciosa medalla hecha de osmio puro. El segundo lugar y una medalla de rodio fueron otorgados al equipo de [second_place.GetName]. El tercer lugar y una medalla de iridio fueron para [third_place.GetName]. \n\nLa carrera fue una oportunidad única para que todos los participantes perfeccionaran sus habilidades de ingeniería y se pusieran a prueba contra culturas alienígenas."
+ mem_space_race.13.a:0 "Felicitaciones al equipo."
+ mem_space_race.13.a.machine:0 "Más rápido. Más fuerte. Mejor."
+ mem_space_race.13.a.hive:0 "Estamos satisfechos con nuestro progreso."
+ mem_space_race.13.a.auth:0 "¡Prueba de que nuestro camino es el mejor!"
+ 
+ 
+ mem_space_race.14.name:0 "Llegamos en segundo lugar en la Carrera Espacial"
+ mem_space_race.14.desc:0 "Hoy, la famosa [mem_space_race_host.GetAdj] Carrera Espacial ha concluido su ronda final. Una gran ceremonia de clausura tuvo lugar en [mem_space_race_host.Capital_Scope.GetName], con [mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim]self felicitando a los ganadores.\n\nNuestro equipo ocupó el segundo lugar y se le otorgó una preciosa medalla hecha de rodio puro. El único equipo que nos superó fue el de [first_place.GetName], que fue galardonado con una medalla de osmio. El tercer lugar y una medalla de iridio fueron para [third_place.GetName]. \n\nLa carrera fue una oportunidad única para que todos los participantes perfeccionaran sus habilidades de ingeniería y se pusieran a prueba contra culturas alienígenas."
+ mem_space_race.14.a:0 "¡Casi lo logramos!"
+ mem_space_race.14.a.machine:0 "Parámetros de la misión parcialmente cumplidos."
+ mem_space_race.14.a.auth:0 "El segundo lugar es para los perdedores."
+ 
+ mem_space_race.15.name:0 "Llegamos en tercer lugar en la Carrera Espacial"
+ mem_space_race.15.desc:0 "Hoy, la famosa [mem_space_race_host.GetAdj] Carrera Espacial ha concluido su ronda final. Una gran ceremonia de clausura tuvo lugar en [mem_space_race_host.Capital_Scope.GetName], con [mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim]self felicitando a los ganadores.\n\nNuestro equipo llegó en tercer lugar en la clasificación general y se le otorgó una medalla de iridio puro. Los dos equipos que nos superaron fueron los de [first_place.GetName] y [second_place.GetName], que llegaron en primer y segundo lugar y fueron galardonados con medallas de osmio y rodio, respectivamente. \n\nLa carrera fue una oportunidad única para que todos los participantes perfeccionaran sus habilidades de ingeniería y se pusieran a prueba contra culturas alienígenas."
+ mem_space_race.15.a:0 "Al menos conseguimos algo."
+ mem_space_race.15.a.machine:0 "Estado de la misión: Éxito provisional."
+ mem_space_race.15.a.auth:0 "¡Los [Root.GetSpeciesNamePlural] deberían haber sido mejores que esto!"
+ 
+ mem_space_race.16.name:0 "La Carrera Espacial ha concluido"
+ mem_space_race.16.desc:0 "Hoy, la famosa Carrera Espacial [mem_space_race_host.GetAdj] ha concluido su ronda final. Una gran ceremonia de clausura tuvo lugar en [mem_space_race_host.Capital_Scope.GetName], con [mem_space_race_host.GetSpeciesAdj] [mem_space_race_host.GetRulerTitle] [mem_space_race_host.GetRulerName] [mem_space_race_host.Leader.GetHerHim] mismo felicitando a los ganadores.\n\nEl primer lugar y una preciosa medalla de osmio puro fueron ganados por el equipo de [first_place.GetName]. El segundo lugar y la medalla de rodio fueron otorgados al equipo de [second_place.GetName]. Finalmente, el tercer lugar fue para el equipo de [third_place.GetName], que recibió una medalla de iridio. Fuimos eliminados mucho antes de que se decidieran los ganadores y no hemos ganado ninguna medalla o fama. \n\nLa carrera fue una oportunidad única para que todos los participantes perfeccionaran sus habilidades de ingeniería y se pusieran a prueba contra culturas alienígenas."
+ mem_space_race.16.a:0 "Buen carrera, a todos."
+ mem_space_race.16.a.machine:0 "Revisión de rendimiento: Insatisfactoria."
+ mem_space_race.16.a.hive:0 "¿Cómo pudimos fallar?!"
+ mem_space_race.16.a.auth:0 "¡Alguien va a pagar por esta vergonzosa exhibición!"
+ 
+ mem_space_race.17.desc:0 " "
+ mem_space_race.17.machine:0 " "
+ mem_space_race.17.hive:0 " "
+ mem_space_race.18.desc:0 " "
+ mem_space_race.18.machine:0 " "
+ mem_space_race.18.hive:0 " "
+ 
+ mem_space_race.20.name:0 "La Carrera Espacial está Cancelada"
+ mem_space_race.20.desc:0 "Debido al bajo número de participantes que se inscribieron, la Carrera Espacial [mem_space_race_host.GetAdj] tuvo que ser cancelada."
+ mem_space_race.20.a:0 "Muy decepcionante."
+ 
+ mem_space_race.21.name:0 "La Carrera Espacial está Cancelada"
+ mem_space_race.21.desc:0 "Debido a nuestra participación en un conflicto armado, no podemos dedicar recursos a la carrera espacial ni garantizar la seguridad de los concursantes. El evento tuvo que ser cancelado."
+ mem_space_race.21.a:0 "Es una lástima."
+ 
+ mem_space_race.22.name:0 "La Carrera Espacial está Cancelada"
+ mem_space_race.22.desc:0 "La Carrera Espacial [mem_space_race_host.GetAdj] ha sido cancelada prematuramente debido a la participación de [mem_space_race_host.GetName] en una guerra. Incapaces de garantizar la seguridad de los concursantes, tuvieron que cancelar el evento."
+ mem_space_race.22.a:0 "Es una lástima."
+ 
+ mem_space_race_host:0 "Organizando la Carrera Espacial"
+ mem_space_race_participant:0 "Participando en la Carrera Espacial"
+
+ resolution_categories_mem_cultural_events: "Eventos Culturales Galácticos"
+
+ resolution_mem_space_race: "Organizar una Carrera Espacial"
+ resolution_mem_space_race_desc: "Deberíamos organizar una §SCarrera Espacial§! - una competencia a nivel galáctico entre los pilotos e ingenieros más renombrados de los imperios participantes para ver quién está mejor equipado para navegar rápidamente por los peligrosos entornos del espacio exterior y vivir para contarlo."
+
+ mem_space_race_resolution_effect: "Comenzarán los preparativos para una Carrera Espacial. Al imperio que propuso el evento se le ofrecerá organizarlo primero. Si lo rechaza, se dará la oportunidad a otros miembros no gestalt de la Comunidad Galáctica."
+
+ mem_space_race_gain_intel: "El nivel de inteligencia mutua de todos los participantes ha aumentado."

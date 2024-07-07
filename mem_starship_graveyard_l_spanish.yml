@@ -1,0 +1,23 @@
+﻿l_spanish:
+
+####################################
+# Starship Graveyard Project
+# by asnys
+####################################
+
+ mem_starship_graveyard.101.title:0 "Un hallazgo interesante"
+ mem_starship_graveyard.101.desc:0 "Nuestro puesto de investigación en [mem_graveyard_planet.GetName] que investiga el cementerio de naves estelares informa de un hallazgo inusual entre los restos: una nave de guerra casi intacta con una serie de características interesantes. Solicitan la asistencia de una nave científica para ayudar a investigar el naufragio."
+ mem_starship_graveyard.101.a:0 "¡Envía una nave de inmediato!"
+ mem_starship_graveyard.101.b:0 "Todas nuestras naves están ocupadas en este momento."
+ 
+ MEM_STARSHIP_GRAVEYARD_PROJECT:0 "Expedición al Cementerio de Naves Estelares"
+ MEM_STARSHIP_GRAVEYARD_PROJECT_DESC:0 "Se ha localizado una nave de guerra inusualmente intacta con una serie de características interesantes en el cementerio. Se solicita la asistencia de una nave científica."
+ 
+ mem_starship_graveyard.103.title:0 "Hallazgos valiosos"
+ mem_starship_graveyard.103.desc:0 "Nuestros científicos han analizado el naufragio y han obtenido una cantidad considerable de nueva información de su diseño que nuestros ingenieros encontrarán útil."
+ mem_starship_graveyard.103.a:0 "¡Excelente!"
+ 
+ mem_starship_graveyard.104.title:0 "Hallazgos valiosos"
+ mem_starship_graveyard.104.desc:0 "Nuestros científicos han analizado el naufragio, y la mayor parte de la nave es bastante poco interesante, excepto por su casco, que está hecho de un material extremadamente resistente que recuerda al casco de las formas de vida cristalinas que hemos encontrado. Las muestras han sido enviadas a nuestros investigadores para su posterior estudio."
+ mem_starship_graveyard.104.a:0 "¡Excelente!"
+

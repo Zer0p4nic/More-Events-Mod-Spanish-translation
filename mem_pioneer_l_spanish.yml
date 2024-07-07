@@ -1,0 +1,33 @@
+﻿l_spanish:
+
+ # Writing and Idea by ViolentBeetle
+ # Coding by Rahorus
+
+ # Anomaly Window
+ mem_pioneer_category:0 "Posible Nave Pequeña"
+ mem_pioneer_category_desc:0 "Los sensores indican la presencia de un pequeño objeto artificial orbitando [Root.GetName]."
+
+ # Anomaly Success
+ mem_pioneer.1.name:0 "Sonda Extrasolar"
+ mem_pioneer.1.desc:0 "[Root.GetLeaderName] informa sobre la recuperación exitosa del objeto. Al examinarlo, parece ser una nave primitiva desgastada diseñada para viajes no tripulados entre las estrellas. Con toda probabilidad, fue lanzada hace milenios y ha viajado a través de múltiples sistemas a velocidad subluz hasta que fue atrapada por la gravedad de [From.GetName]. \n\nUna placa está montada en el casco de la nave, que muestra formas geométricas extrañas, un esquema de un sistema estelar no identificado y un pictograma de dos miembros desnudos de una especie desconocida para nosotros. No está claro por qué cualquier civilización consideraría conveniente difundir tal información a través del universo."
+ mem_pioneer.1.a:0 "Interesante."
+ mem_pioneer.1.b:0 "¡Obviamente quieren ser encontrados!"
+ mem_pioneer.1.c:0 "Qué pandilla de degenerados."
+ 
+ mem_pioneer.2.name:0 "Nave de Carga"
+ mem_pioneer.2.desc:0 "La pequeña nave recuperada por el [Root.GetName] resultó ser algún tipo de nave comercial de mensajería alienígena. \n\nTripulada por dos orgánicos no identificados y un sintético alimentado químicamente crudo, aparentemente estaba transportando una carga preciosa cuando fue emboscada por piratas. \n\nParece que la tripulación pereció en el ataque. Como los asaltantes se llevaron la carga, la nave quedó a la deriva sin rumbo hasta que fue atrapada por la gravedad de la estrella."
+ 
+ mem_pioneer.3.name:0 "Nave Militar Ligera"
+ mem_pioneer.3.desc:0 "Según la estimación de [Leader.GetName], la nave encontrada por [Root.GetName] era un buque militar tripulado por varias especies distintas e identificadas. \n\nSegún las bases de datos sobrevivientes, llevaba información valiosa que sería fundamental para asegurar una victoria militar contra algún tipo de \"rebeldes\" cuando fue emboscada en las proximidades de [From.GetName]. \n\nUna llamarada solar mal programada causó incendios en todo el barco que la tripulación intentó apagar despresurizándolo, sólo para descubrir que su control de escotillas y sistema de soporte vital habían sido dañados por dichos incendios. Incapaces de volver a presurizar, la tripulación pereció, dejando la cáscara de su nave para vagar sin rumbo alrededor de la estrella."
+ 
+ mem_pioneer.4.name:0 "Cápsula de Vida"
+ mem_pioneer.4.desc:0 "La nave que [Root.GetName] recuperó parece ser algún tipo de pequeña cápsula de vida que lleva los restos momificados de un joven alienígena. \n\nParece que la cápsula fue enviada desde un planeta desconocido hacia otro planeta, presumiblemente para escapar de algún tipo de catástrofe y dar a su pasajero la oportunidad de vivir en un planeta alienígena. \n\nEn cambio, la cápsula fue atrapada por la gravedad de la estrella y ha orbitado desde entonces, mientras que el sistema de soporte vital finalmente falló. \n\n[Leader.GetName] notó una composición genética inusual del pasajero. Si hubiera sobrevivido y madurado, podría potencialmente haberse convertido en uno de los orgánicos más fuertes y resistentes conocidos por nuestros científicos, incluso sin ningún tipo de aumento."
+ mem_pioneer.4.a:0 "Una amenaza menos de la que preocuparse."
+ 
+ mem_pioneer.5.name:0 "Máquina de Viaje Individual"
+ mem_pioneer.5.desc:0 "[Leader.GetName] no está muy seguro de lo que [Leader.GetSheHe] recuperó de la órbita de [From.GetName], pero parece ser algún tipo de cápsula cónica sellada y autopropulsada hecha de un material extremadamente duradero. \n\nOtros elementos inusuales incluyen un único sensor óptico en un tallo orientado hacia adelante, un único cañón orientado hacia adelante y algún tipo de manipulador. En el interior, la cápsula aparentemente contenía un pequeño compartimento de piloto apto para algún tipo de ser pequeño con múltiples brazos. \n\nEn algún momento del pasado, fue aparentemente atacada, y una potente explosión golpeó el sensor. El impacto resultó fatal para el piloto, que murió al instante."
+ mem_pioneer.5.a:0 "Lo que sea que fuera, ahora está muerto."
+
+ # Anomaly Failure
+ mem_pioneer.99.name:0 "Fracaso"
+ mem_pioneer.99.desc:0 "[Root.GetLeaderName] lamenta informar que [Leader.GetSheHe] [Leader.GetWasWere] incapaz de localizar y recuperar el objeto. Sea lo que sea, es probable que ahora esté perdido para siempre."
