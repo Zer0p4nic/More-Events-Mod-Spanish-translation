@@ -1,0 +1,12 @@
+﻿l_spanish:
+ #Molten Core Anomaly
+ #Writing and idea by Foremole
+ #Code by LamilLerran
+ mem_molten_core_category:0 "Mares de Fuego"
+ mem_molten_core_category_desc:0 "Como la mayoría de los mundos fundidos, §Y[Root.GetName]§! está cubierto por corrientes y mares de lava. Sin embargo, algo es claramente inusual en este planeta en particular, visible incluso desde la órbita. Como el mundo continental promedio, alrededor del 70% de la superficie del planeta está cubierta con líquido, a pesar de todas las predicciones que indican que la lava debería haberse solidificado hace mucho tiempo, ya que el sol de este [Root.GetPlanetMoon] no proporciona suficiente calor para mantener su superficie en este estado."
+ mem_molten_core.1.name:0 "Núcleo Expuesto"
+ mem_molten_core.1.desc:0 "Aunque es común que los planetas fundidos tengan muchos puntos de salida para que el magma del núcleo externo líquido alcance la superficie, §Y[From.GetName]§! parece haber llevado esto al siguiente nivel. Casi el 40% de la superficie del planeta es núcleo externo expuesto, lo que ha resultado en los vastos mares que provocaron el estudio. Se pueden lanzar fácilmente sondas para explorar el centro del planeta, arrojando nueva luz sobre la geología planetaria que de otra manera requeriría costosos esfuerzos de minería en cualquier otro mundo. Esto hace que §Y[From.GetName]§! sea perfecto para los esfuerzos de investigación."
+ mem_molten_core.1.a:0 "Bueno escuchar."
+ mem_molten_core.99.name:0 "Mares Solidificándose"
+ mem_molten_core.99.desc:0 "Un informe de §Y[This.GetLeaderName]§! sobre los mares de lava de §Y[From.From.GetName]§! muestra que su presencia no es más que una casualidad. Ya la superficie está comenzando a enfriarse, y se espera que dentro de unos años la proporción de lava a tierra del [From.From.GetPlanetMoon] será típica para un mundo fundido."
+ mem_molten_core.99.a:0 "Muy bien."

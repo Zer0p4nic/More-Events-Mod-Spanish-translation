@@ -1,0 +1,16 @@
+﻿#Caretakers
+#By ViolentBeetle
+
+l_spanish: 
+
+ #Traits
+ mem_caretakers_trait:0 "Drones Cuidadores"
+ mem_caretakers_trait_desc:0 "Esta pequeña especie dócil fue diseñada para tener una comprensión innata de la maquinaria compleja."
+
+ #Event
+ mem_caretaker.1.name:0 "Equipo de Mantenimiento"
+ mem_caretaker.1.desc:0 "El §Y[Root.GetName]§! ha completado su estudio de una estación de hábitat abandonada en el Sistema §Y[From.Solar_System.GetName]§!. A pesar de su avanzada edad, todavía parece estar operativa, aunque a la mitad de su capacidad. \n\nLos signos de vida detectados en el interior indican la presencia de numerosas criaturas pequeñas. Aunque no poseen verdadera sapiencia, parecen haber sido criadas o genéticamente diseñadas para tener una comprensión instintiva de la maquinaria compleja. Aparte de algunas secciones derrumbadas, han mantenido la estación habitable durante un largo período de tiempo, presumiblemente esperando que los legítimos propietarios lleguen y reclamen el hábitat. \n\nPodríamos ser capaces de elevar a estos seres menores, con la tecnología adecuada."
+
+ #Blockers
+ d_mem_caretakers_ruined_section:0 "Sección en Ruinas"
+ d_mem_caretakers_ruined_section_desc:0 "Esta sección del hábitat ha cedido a los estragos del tiempo y los impactos aleatorios de asteroides. Se requieren reparaciones y limpieza extensas para hacerla habitable de nuevo."

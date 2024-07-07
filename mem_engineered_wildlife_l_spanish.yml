@@ -1,0 +1,20 @@
+﻿#The Ark
+#By ViolentBeetle
+l_spanish:
+
+mem_engineered_wildlife_category:0 "Vida Silvestre Curiosa"
+mem_engineered_wildlife_category_desc:0 "Nuestros escaneos han indicado patrones de comportamiento inusuales entre la vida silvestre nativa de [root.GetName]. Se necesita un estudio más a fondo para ver cómo esto puede impactar los esfuerzos de colonización potenciales."
+
+mem_engineered_wildlife.1.name:0 "La Vida Silvestre es... Linda"
+mem_engineered_wildlife.1.desc:0 "La vida silvestre nativa de [from.GetName] es extremadamente tranquila en presencia de nuestros investigadores. Además, todas las especies encontradas hasta ahora son bastante estéticamente agradables para la tripulación, creando sentimientos de protección y compañerismo. Mientras que [root.leader.GetName] originalmente estaba preocupado de que esto pudiera ser alguna feromona u otro fenómeno alienígena, los resultados muestran que los animales en cuestión simplemente se consideran "lindos". La naturaleza agradable de los animales de [from.GetName] es demasiado universal para ser el resultado de la evolución natural, y la teoría líder actual es que este mundo puede haber sido el objetivo de la ingeniería genética en el pasado para crear algún tipo de zoológico. Independientemente, la naturaleza amigable de la fauna local será bienvenida si elegimos colonizar el planeta."
+mem_engineered_wildlife.1.option:0 "Eso fue inesperado."
+
+mem_cute_wildlife:0 "Vida Silvestre Linda"
+mem_cute_wildlife_desc:0 "Este planeta es anfitrión de varias especies de vida silvestre que han sido genéticamente diseñadas para ser lindas."
+
+
+mem_engineered_wildlife.2.name:0 "¡Vida Silvestre Hostil en Todas Partes!"
+mem_engineered_wildlife.2.desc:0 "¡La vida silvestre nativa de [from.GetName] es increíblemente hostil y peligrosa! Varios miembros de la tripulación de la [root.GetName] se perdieron obteniendo muestras de la vida silvestre, y cada criatura aquí es letal para la vida orgánica de alguna manera u otra. El muestreo genético de las especies que logramos capturar muestra una clara evidencia de manipulación genética. [from.GetName] fue muy probablemente un laboratorio para el desarrollo de armas biológicas alienígenas que eventualmente se soltaron. Si las criaturas destruyeron o no a sus creadores es desconocido. Independientemente, la naturaleza hostil de estas criaturas creará barreras significativas para nuestros colonos si elegimos seguir con la colonización."
+
+mem_engineered_wildlife_dangerous:0 "Vida Silvestre Peligrosa"
+mem_engineered_wildlife_dangerous_desc:0 "Este planeta es anfitrión de varias especies de vida silvestre mortales, genéticamente modificadas."

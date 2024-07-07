@@ -1,0 +1,24 @@
+﻿# Idea by tzerrell
+# Writing and Code by Rahorus
+
+l_spanish: 
+
+ # Anomaly Category 
+ mem_nanobot_room_category:0 "Puesto minero único"
+ mem_nanobot_room_category_desc:0 "Los escaneos han indicado un hallazgo interesante en la superficie de [Root.GetName]. Parece ser una estación minera abandonada, pero los sensores de nuestra nave científica han detectado señales de energía fluctuantes que se originan dentro de la estación. \n\nParecería que la instalación todavía está activa."
+ 
+ # Anomaly Success
+ mem_nanobot_room.1.name:0 "Minería de nanobots"
+ mem_nanobot_room.1.desc:0 "A pesar de encontrar dificultades iniciales al aterrizar en la superficie, el equipo de expedición científica liderado por [Root.GetLeaderName] logró entrar a la estación de manera segura. Siguiendo los sensores de sus trajes, el equipo comenzó a hacer el arduo viaje hacia las profundidades de la instalación, hacia donde se originaban las señales de energía inestables. Lo que encontraron fue bastante extraordinario. \n\nLas señales de energía irregulares fueron producidas por enjambres de nanobots, que, a pesar de su edad y falta de mantenimiento, parecen no haber olvidado su propósito. El equipo observó con asombro cómo los nanobots, por falta de mejores términos, 'devoraban' rocas y piedras aparentemente inútiles, 'digerían' el contenido, 'excretaban' el material inútil en una caja de desechos y 'regurgitaban' los minerales valiosos en una colección de recuperación, que no parece haber sido vaciada durante algún tiempo."
+ mem_nanobot_room.1.a:0 "Sus creadores no se molestarán si tomamos sus minerales."
+ mem_nanobot_room.1.mat:0 "Reparar los nanobots."
+ 
+ # Anomaly Failure
+ mem_nanobot_room.10.name:0 "Fracaso"
+ mem_nanobot_room.10.desc:0 "Las señales de energía desaparecieron tan rápido como habían aparecido. Después de unas horas de sondeo e investigación, [Root.GetLeaderName] abandonó [Leader.GetHisHer] búsqueda. Nunca se encontrará lo que causó las señales de energía."
+ mem_nanobot_room.10.a:0 "Vamos."
+ 
+ # Anomaly Epic Failure
+ mem_nanobot_room.20.name:0 "Fracaso Crítico"
+ mem_nanobot_room.20.desc:0 "Cuando el equipo aterrizó en la superficie del planeta, [Root.GetLeaderName] accidentalmente activó un antiguo protocolo de defensa. El suelo tembló, y para la curiosidad y horror del equipo, las señales de energía comenzaron a navegar desde las profundidades de la instalación, directamente hacia el equipo de ciencia. El equipo intentó abandonar el planeta, pero en vano. \n\nLas señales de energía resultaron ser un enjambre de nanobots agresivos, que rápidamente devoraron a [Root.GetLeaderName], [Leader.GetHisHer] tripulación, e incluso toda la nave científica. Al consumir a la tripulación, los nanobots se apresuraron a regresar a la instalación minera. Parece que nunca sabremos qué estaban haciendo originalmente los nanobots."
+ mem_nanobot_room.20.a:0 "Maldición."

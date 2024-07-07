@@ -1,0 +1,43 @@
+﻿l_spanish:
+
+ r_mem_doom_capacitor: "Condensador Maligno"
+ r_mem_doom_capacitor_desc: "Un dispositivo que no solo canaliza energías de otras dimensiones sino que también las moldea en constructos poderosos."
+ mem_doom_capacitor_effect_tooltip: "Invoca a un §SGusano Espectral§! para que nos sirva. \nEl Gusano Espectral posee armas poderosas pero es bastante frágil para su tamaño."
+ mem_doom_requires_no_other_ship: "Ya hemos invocado a un §SGusano Espectral§!."
+ 
+ mem_doom_dragon_ship: "Gusano Espectral"
+ mem_doom_dragon_ship_plural: "Gusanos Espectrales"
+ mem_doom_dragon_section:0 ""
+ 
+ MEM_COMPONENT_DOOM_DRAGON_BEAM: "Haz Maligno"
+ MEM_COMPONENT_DOOM_DRAGON_PROJECTION: "Proyección Maligna"
+ MEM_DOOM_SHIELD: "Deflector de Energía Negativa"
+ MEM_DOOM_AURA_SHIELD_DAMPENER: "Campo de Distorsión de Otro Mundo"
+ 
+ mem_doom_dig_site: "En la Puerta del Destino"
+ mem_doom_dig_site_desc: "Este planeta desolado una vez contuvo un avanzado puesto de investigación. Sin embargo, ahora yace en ruinas, el sitio todavía está lleno de los restos momificados de sus antiguos habitantes. Sus asesinos no se encuentran por ninguna parte. \n\nLa destrucción del puesto de investigación debe haber ocurrido hace cientos de años, sin embargo, los escaneos indican que algunas instalaciones podrían seguir intactas bajo tierra. Contra todo pronóstico, estamos detectando una fuente de energía enterrada profundamente dentro. ¿Qué podría haber sobrevivido y seguir operativo después de todo este tiempo?"
+ 
+ mem_doom.1.name: "La Entrada"
+ mem_doom.1.desc: "La expedición arqueológica ha hecho un avance. §Y[Leader.GetName]§! informa que [Leader.GetSheHe] finalmente ha localizado un pasaje relativamente intacto que conduce desde la superficie a las secciones subterráneas. \n\nAl igual que la superficie, los pasillos están llenos de los cuerpos muertos de los ocupantes anteriores. Su muerte fue violenta, pero la causa de la misma no está del todo clara debido al extenso daño sufrido, tanto por los cuerpos como por su entorno. También parece que algunos cuerpos pertenecían a una fuerza militar de algún tipo, quizás un equipo de control de daños o de encubrimiento enviado para contener la situación. \n\nA juzgar por el estado general de las cosas, no fueron particularmente exitosos."
+ mem_doom.1.a: "$DIG$"
+ mem_doom.2.name: "El Núcleo de Comando"
+ mem_doom.2.desc: "La expedición arqueológica ha hecho un gran avance. Una sala recientemente descubierta resultó albergar el núcleo de comando que controla los sistemas informáticos de las instalaciones.\n\nClaramente tuvo lugar un gran tiroteo aquí, y de la masa de computadoras descuidadas y destruidas, solo un par siguen funcionando. Contienen principalmente registros sobre un flujo masivo de energía de algo llamado §SSitio Cero§! a la red de distribución en la superficie del planeta. También hay una transcripción de respaldo titulada §SIncidente Crítico 05484§! que contiene lo siguiente: \n§gSupervisor de Turno:§! Oh, esto no puede ser bueno. \n§Y<<Ininteligible>>\n<<Ruido No Identificado Fuerte>>§!\n§RAlerta:§! Las lecturas del sensor 2 están fuera de los parámetros aceptables.\n§RAlerta:§! No hay lecturas de los sensores 1, 2, 4, 5, 7 y 9. \n§SError:§! Módulo de Control 4 fuera de línea.\n§g<<Fin de la transcripción>>§!"
+ mem_doom.3.name: "El Almacén de Piedra"
+ mem_doom.3.desc: "El equipo arqueológico informa de nuevos hallazgos: A cierta distancia de las áreas de trabajo principales, §Y[Leader.GetName]§! encontró una colección de tablas de piedra. \n\nLa piedra en sí parece haber sido obtenida de las profundidades de §Y[From.Planet.GetName]§! y el guión en las tablas parece haber sido escrito durante el tiempo en que la instalación todavía estaba operativa, sin embargo, el idioma en la mayoría de ellas es completamente diferente al que hemos encontrado en otras áreas del sitio y es indescifrable para nosotros. Lo poco que está escrito en el idioma de los operadores del sitio es solo divagaciones y es casi incomprensible, aludiendo a algo llamado §YTalnekhreck§!. \n\nExtrañamente, no hay signos de lucha en la habitación, sin embargo, muchas piedras están cubiertas con una cantidad excesiva de sangre seca. Se estima que parte de ella data de décadas antes de la caída de la instalación."
+ mem_doom.4.name: "Profundidades Insondables"
+ mem_doom.4.desc: "A medida que se adentran en el corazón de la instalación alienígena, el equipo de §Y[Leader.GetName]§ y [Leader.GetHerHis] se encuentran con más y más cosas que no tienen sentido. \n\nVarias habitaciones parecen estar llenas de un campo de energía de algún tipo. Invisible para la mayoría de los sensores, hace que cualquier objeto que entre en la habitación se desvanezca en el aire. Además, bolsas esféricas de radiación flotan en el espacio, desafiando todas las leyes de la física nuclear. \n\nLos restos del personal de las instalaciones se encuentran cada vez más dispersos. Por otra parte, las paredes ya no son una mezcla familiar de aleaciones y polímeros, sino que ahora se asemejan mucho a la carne fosilizada. \n\nSe puede obtener más información de los terminales de computadora que sobreviven. La instalación fue construida sobre una grieta dimensional natural en la corteza de §Y[From.Planet.GetName]§!. Su propósito era investigar la inusual naturaleza del universo de bolsillo del otro lado y canalizar energía de él para las necesidades de su imperio. Sin embargo, el reino al que se conectaron no estaba tan vacío como pensaban, y algo poco amistoso siguió el flujo de energía."
+ mem_doom.5.name: "Sitio Cero"
+ mem_doom.5.desc: "El equipo arqueológico ha llegado a los niveles más profundos de la instalación. Ahora están de pie en el fondo de ella, justo encima de una caverna masiva llamada §SSitio Cero§!. \n\nLa tecnología regular de la instalación, construida de metal y plásticos, ha dado paso a extrañas rocas dentadas, que se asemejan a los dientes o garras de una bestia gigantesca. Los pilares de material orgánico extraño intentan alcanzar la escotilla en el techo que conduce al resto de la instalación, pero se cortan a unos pocos metros. Un montón masivo de cadáveres carbonizados cubre el suelo de la caverna. \n\n[Leader.GetName] concluyó que un escuadrón de soldados de élite una vez entró en este lugar y descendió a las cavernas, luego volvió a emerger y avanzó hacia un segmento diferente de la instalación."
+ mem_doom.5.a: "Sigue ese rastro."
+ mem_doom.6.name: "El Condensador Maligno"
+ mem_doom.6.desc: "El destino final del escuadrón de élite cuyo olor recogimos en el §SSitio Cero§! no estaba tan lejos. Hasta donde podemos inferir, la resistencia que encontraron no fue tan grande, sin embargo, como estaban bajos de municiones y personal, el escuadrón disminuyó. \n\nAparentemente, su objetivo era una instalación auxiliar específicamente establecida en caso de eventos como los que ocurrieron, sin embargo, cuando ocurrió lo peor y se necesitaba, la instalación fue invadida. La batalla final aparentemente costó la vida de los soldados restantes, aunque lograron asegurar la instalación. \n\nLos registros encontrados en su Blindaje de poder dan más claridad a la situación. Un ser al que llamaron §YTalnekhreck§! envió una de sus crías a la instalación, donde influyó sutilmente en el personal, exigiendo sacrificios para nutrirse a sí mismo y a su progenitor. Con el tiempo, §YTalnekhreck§! mismo ha atravesado, matando a parte del personal de la instalación y mutando a otros. A un gran costo, el portal se derrumbó. \n\nEl escuadrón a cargo hizo un intento por destruir todo lo que contenía influencia de otro mundo. Fallaron. \n\nUna sola unidad todavía se alimenta con energía de otro mundo está sentada allí, justo más allá del alcance del último cuerpo muerto."
+ mem_doom.6.a: "Lo tomaremos. Será seguro si se maneja con cuidado."
+ mem_doom.6.b: "Terminemos el trabajo y destruyámoslo."
+ 
+ mem_doom.7.name: "El Wyrm Espectral se Manifiesta"
+ mem_doom.7.desc: "A medida que el Condensador Maligno alcanza su máxima potencia, su energía adquiere una forma. Un poderoso ser de otro mundo, dado forma por el propio Talnekhreck, se ha manifestado sobre §Y[Capital_Scope.GetName]§! y está listo para hacer nuestra oferta."
+ mem_doom.7.a: "¡Salve a Talnekhreck!"
+
+ mem_doom.100.name: "Puesto Avanzado en Ruinas"
+ mem_doom.100.desc: "A pesar de la devastación generalizada de [From.GetName], [Leader.GetName] todavía pudo localizar una ruina tecnológica en la superficie del planeta. \n\nSe ha establecido un sitio arqueológico para investigarlo más a fondo."
+ 

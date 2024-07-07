@@ -1,0 +1,204 @@
+﻿l_spanish:
+ mem_food_constructor_chain_title:0 "Constructor de alimentos"
+ mem_food_constructor_chain_desc:0 "Un extraño dispositivo alienígena en nuestra posesión está produciendo polvo de comida a velocidades cada vez mayores sin fin a la vista. Necesitamos encontrar una forma de detenerlo antes de que sea demasiado tarde."
+ 
+ mem_food_constructor_modifier_1:0 "Polvo de comida"
+ mem_food_constructor_modifier_1_desc:0 "Este planeta alberga una máquina alienígena que produce constantemente polvo nutritivo para que los locales lo consuman."
+ 
+ mem_food_constructor_modifier_2:0 "Desbordamiento de polvo de comida"
+ mem_food_constructor_modifier_2_desc:0 "El planeta está peligrosamente cerca de ser enterrado bajo los productos del constructor de alimentos. Un polvo gris fino está inundando las áreas que lo rodean mientras los vientos crean tormentas de polvo nutritivo sin precedentes."
+ 
+ mem_food_constructor_modifier_3:0 "Polvo de comida en todas partes"
+ mem_food_constructor_modifier_3_desc:0 "Una fina capa de polvo de comida ha cubierto toda la superficie planetaria, y el constructor de alimentos está drenando la red eléctrica para aumentar su producción con cada momento. Comestible como es el polvo, la bendición se ha convertido en una terrible maldición para la población local."
+ 
+ mem_food_constructor_modifier_4:0 "Marea creciente de alimentos"
+ mem_food_constructor_modifier_4_desc:0 "El constructor de alimentos ha enterrado todo el planeta con al menos un kilómetro de polvo de comida. Los locales nunca más tendrán que pasar hambre, pero apenas pueden viajar a ningún lado."
+ 
+ mem_food_constructor_modifier_5:0 "El polvo se ha asentado"
+ mem_food_constructor_modifier_5_desc:0 "Con el constructor de alimentos cerrado de forma definitiva, la vida en el planeta está volviendo a la normalidad. La capa de polvo en descomposición ha demostrado ser un muy buen fertilizante y está haciendo florecer todo el ecosistema planetario."
+
+ mem_food_constructor.1.name:0 "Un descubrimiento desconcertante"
+ mem_food_constructor.1.desc:0 "Uno de los colonos en §Y[Root.GetName]§! ha hecho un descubrimiento desconcertante cuando se topó con un enorme artefacto alienígena en las afueras del asentamiento. Después de activarlo accidentalmente, notó que producía un polvo gris fino. Un análisis más detallado ha revelado que este polvo es inofensivo y, de hecho, es un alimento muy nutritivo apto para el consumo de casi cualquier organismo. Esto promete grandes beneficios para la población local y para [Owner.GetName] en su conjunto."
+ mem_food_constructor.1.desc.machine:0 "Uno de los drones topógrafos en §Y[Root.GetName]§! ha encontrado un artefacto alienígena de origen indeterminado en la naturaleza. Durante el examen inicial, de alguna manera se activó y comenzó a producir un polvo gris fino. El análisis preliminar indica que este polvo no es peligroso de ninguna manera y contiene una cantidad significativa de energía química. Sin embargo, procesarlo no es lo suficientemente eficiente como para que sea viable conectarlo a la red eléctrica."
+ mem_food_constructor.1.desc.hive:0 "Uno de los drones topógrafos en §Y[Root.GetName]§! ha encontrado un artefacto alienígena de origen indeterminado en la naturaleza. Durante el examen inicial, de alguna manera se activó y comenzó a producir un fino polvo gris. Un análisis más detallado ha revelado que este polvo es inofensivo y, de hecho, es un alimento muy nutritivo apto para el consumo de casi cualquier organismo. Esto promete grandes beneficios para la población local y el [Owner.GetName] en su conjunto."
+ mem_food_constructor.1a:0 "Interesante."
+ mem_food_constructor.1b:0 "Este es un regalo de una inteligencia alienígena."
+ mem_food_constructor.1c:0 "Cuidado, podría estar trampa."
+ mem_food_constructor.1d:0 "Verdaderamente una bendición divina."
+ mem_food_constructor.1e:0 "No deberíamos confiar en la tecnología alienígena."
+ mem_food_constructor.1.machine:0 "Se requiere un examen más detallado."
+ mem_food_constructor.1.tooltip:0 "La producción de alimentos en §Y[Root.GetName]§! aumenta."
+ 
+ mem_food_constructor.2.name:0 "Desbordamiento de Producción de Polvo en [Root.GetName]"
+ mem_food_constructor.2.desc:0 "Informes alarmantes de §Y[Root.GetName]§! muestran una salida cada vez mayor del constructor de alimentos. Ha alcanzado el nivel en el que la población ya no puede comer los alimentos producidos o enviarlos fuera del mundo lo suficientemente rápido. Los intentos de apagar el dispositivo han resultado inútiles; las inscripciones decodificadas en el constructor mencionan una §Y"Llave Reesan"§! como medio para desactivarlo. Sin embargo, no poseemos tal cosa. Los intentos de destruir la máquina también han resultado inútiles: su casco parece más resistente que cualquier material artificial que conozcamos. Los vertederos amenazan con desbordarse, y la gente está huyendo de los distritos que rodean el edificio donde se encuentra la máquina."
+ mem_food_constructor.2.desc.machine:0 "La continua vigilancia del objeto designado "constructor de alimentos" en §Y[Root.GetName]§! muestra una salida cada vez mayor del polvo. La producción ha alcanzado el nivel en el que nuestros drones ya no pueden despejarlo lo suficientemente rápido. Los intentos de apagar el dispositivo han resultado inútiles; las inscripciones decodificadas en el constructor mencionan una §Y"Llave Reesan"§! como medio para desactivarlo. Sin embargo, no poseemos tal cosa. Los intentos de destruir la máquina también han resultado inútiles: su casco parece más resistente que cualquier material artificial que conozcamos. Los vertederos amenazan con desbordarse, y las instalaciones adyacentes al alojamiento del objeto han tenido que ser abandonadas ya que ya no pueden funcionar bajo tales condiciones."
+ mem_food_constructor.2.desc.hive:0 "Informes alarmantes de §Y[Root.GetName]§! muestran una salida cada vez mayor del constructor de alimentos. Ha alcanzado el nivel en el que nuestros drones ya no pueden comer los alimentos producidos o enviarlos fuera del mundo lo suficientemente rápido. Los intentos de apagar el dispositivo han resultado inútiles; las inscripciones decodificadas en el constructor mencionan una §Y"Llave Reesan"§! como medio para desactivarlo. Sin embargo, no poseemos tal cosa. Los intentos de destruir la máquina también han resultado inútiles: su casco parece más resistente que cualquier material artificial que conozcamos. Los vertederos amenazan con desbordarse, y los drones están siendo expulsados de los distritos que rodean el edificio donde se encuentra la máquina."
+ mem_food_constructor.2a:0 "¡Necesitamos encontrar una forma de apagarlo!"
+ mem_food_constructor.2b:0 "¿Qué pasó con el buen viejo botón "OFF"?"
+ mem_food_constructor.2c:0 "No deberíamos haber confiado en la tecnología alienígena."
+ mem_food_constructor.2.tooltip:0 "§Y[Root.GetName]§! comienza a experimentar dificultades."
+ 
+ mem_food_constructor.3.name:0 "[Root.GetName] se está ahogando en comida"
+ mem_food_constructor.3.desc:0 "Las autoridades locales en [Root.GetName] han renunciado oficialmente a los intentos de contener la situación. La producción de alimentos en constante crecimiento ha superado todos los intentos de deshacerse de ella en vertederos o llevarla fuera del mundo. Todo el planeta está gris con una gruesa capa de polvo de comida. Lo peor es que el constructor parece extraer energía de la red local, lo que dificulta el rendimiento de la red y, por lo tanto, el rendimiento de toda la economía planetaria."
+ mem_food_constructor.3.desc.machine:0 "El análisis de la situación que se desarrolla en [Root.GetName] es concluyente: es desesperado. La producción de polvo en constante crecimiento ha superado todos los intentos de deshacerse de él en vertederos o llevarlo fuera del mundo. Todo el planeta está gris con una gruesa capa de polvo de comida. Lo peor es que el constructor parece extraer energía de la red local, lo que dificulta el rendimiento de la red y, por lo tanto, el rendimiento de toda la economía planetaria."
+ mem_food_constructor.3.desc.hive:0 "Está claro que la situación en [Root.GetName] se ha vuelto realmente grave. La producción de polvo en constante crecimiento ha superado todos los intentos de deshacerse de él en vertederos o llevarlo fuera del mundo. Todo el planeta está gris con una gruesa capa de polvo de comida. Lo peor es que el constructor parece extraer energía de la red local, lo que dificulta el rendimiento de la red y, por lo tanto, el rendimiento de toda la economía planetaria."
+ mem_food_constructor.3a:0 "¡Esto es un desastre!"
+ mem_food_constructor.3b:0 "¿Qué ha hecho la ciencia?!"
+ mem_food_constructor.3c:0 "No deberíamos §RNO§! haber confiado en la tecnología alienígena!"
+ mem_food_constructor.3d:0 "Parece que ni siquiera tenía que estar trampa."
+ mem_food_constructor.3e:0 "Un trágico descuido por parte de los creadores, seguro."
+ mem_food_constructor.3.tooltip:0 "La vida en §Y[Root.GetName]§! se vuelve más difícil."
+ 
+ mem_food_constructor.4.name:0 "Marea de Alimentos"
+ mem_food_constructor.4.desc:0 "La vida en §Y[Root.GetName]§! se ha convertido en una constante carrera contra la creciente marea de alimentos, obligando a la población a moverse constantemente a nuevas alturas para escapar de la creciente producción del constructor de alimentos. La mayor parte de la industria del planeta se ha asfixiado con el fino polvo gris que cubre el planeta."
+ mem_food_constructor.4.desc.machine:0 "Las operaciones diarias en §Y[Root.GetName]§! se han convertido en una constante carrera contra la creciente marea de alimentos, obligando a las unidades a moverse constantemente a nuevas alturas para escapar de la creciente producción del constructor de alimentos. La mayor parte de la industria del planeta se ha asfixiado con el fino polvo gris que cubre el planeta."
+ mem_food_constructor.4a:0 "¡Por favor, que pare!"
+ mem_food_constructor.4.machine:0 "Inaceptable."
+ mem_food_constructor.4.tooltip:0 "Casi todas las funciones de la sociedad en §Y[Root.GetName]§! están completamente paralizadas."
+ 
+ mem_food_constructor.5.name:0 "Posible Pista de la Llave Reesan"
+ mem_food_constructor.5.desc:0 "Nuestros sensores de largo alcance han detectado una débil señal de energía que se asemeja a la firma de energía de un constructor de alimentos en funcionamiento similar al que tenemos en nuestra posesión. Aunque quien lo operaba probablemente ya no esté, podría haber una pista que nos ayude a localizar la esquiva §YLlave Reesan§!."
+ mem_food_constructor.5a:0 "¡Necesitamos investigar esto lo antes posible!"
+ 
+ mem_food_constructor_poi1:0 "Firma del Constructor de Alimentos"
+ mem_food_constructor_poi1_desc:0 "Las firmas de energía que recogimos recientemente provienen de este sistema. Quizás podamos encontrar a los creadores del constructor de alimentos. O al menos una pista..."
+  
+ mem_food_constructor.6.name:0 "Estamos en el Sitio"
+ mem_food_constructor.6.desc:0 "Los rastros de energía han llevado al sistema §Y[From.GetName]§!. Las muy débiles firmas de energía de un constructor de alimentos en funcionamiento parecen estar concentradas alrededor de uno de los planetas del sistema."
+ mem_food_constructor.6a:0 "Será mejor que lo investiguemos."
+ 
+ MEM_FOOD_CONSTRUCTOR_CRASHSITE:0 "Investigación Planetaria"
+ MEM_FOOD_CONSTRUCTOR_CRASHSITE_DESC:0 "Las débiles firmas de energía sugieren que un constructor de alimentos estuvo operativo en las cercanías. Podríamos encontrar pistas vitales sobre cómo apagarlo."
+ 
+ mem_food_constructor.7.name:0 "Nos estamos Acercando"
+ mem_food_constructor.7.desc:0 "Siguiendo el antiguo rastro de energía, finalmente encontramos un enorme carguero que se había estrellado en un mundo desolado. Parece que su tripulación intentó remolcar un constructor, todavía soldado al casco del barco, hacia una estrella, sólo para que sus sistemas fueran drenados de energía en pleno vuelo por el constructor. El barco muerto vagó sin rumbo durante algún tiempo hasta que fue atrapado por la gravedad de este planeta y finalmente se estrelló en su superficie.\n\nLa pequeña cantidad de datos que pudimos extraer de los ordenadores de vuelo muertos reveló que la misión original era entregar el constructor a una base de asteroides con la esperanza de que un recluso investigador alienígena que la poseía pudiera desactivar el constructor. Hemos copiado las coordenadas de esa base."
+ mem_food_constructor.7a:0 "Todavía podríamos tener una oportunidad."
+ 
+ mem_food_constructor_poi2:0 "Científico Recluso"
+ mem_food_constructor_poi2_desc:0 "Un barco que encontramos estaba en camino de ver a un científico recluso. Deberíamos visitarlo."
+ 
+ mem_food_constructor.8.name:0 "Sistema de Soledad"
+ mem_food_constructor.8.desc:0 "Hemos llegado al conjunto de coordenadas donde una vez operaba el laboratorio de científicos que estudiaban los constructores de alimentos. Si la ruta de vuelo era correcta, su base debería estar dentro del gran asteroide."
+ mem_food_constructor.8a:0 "Deberíamos visitarlo."
+ 
+ MEM_FOOD_CONSTRUCTOR_RECLUSE:0 "Investigación de la Base del Asteroide"
+ MEM_FOOD_CONSTRUCTOR_RECLUSE_DESC:0 "Un científico que estudiaba los constructores de alimentos operaba una vez desde una base de asteroides. Deberíamos ver si dejó alguna pista."
+ 
+ mem_food_constructor.9.name:0 "Base del Asteroide"
+ mem_food_constructor.9.desc:0 "Nuestros científicos han localizado con éxito un asteroide que fue vaciado para albergar una especie de estación de investigación y hábitat. Sus sistemas están drenados de energía al igual que el barco anterior, mientras que su interior está lleno de polvo de alimentos caducados. \n\nUsando taladros miniatura, nuestro equipo de ciencia ha logrado perforar hasta el núcleo de la instalación y localizar al antiguo propietario de la estación, sus restos bien conservados en el polvo. Lograron extraer algunos datos de su asistente digital. Parece que estaba experimentando con uno de los constructores de alimentos en un intento de encontrar una forma de apagarlo cuando un repentino pico de producción había roto el contenedor y lo había asfixiado. \n\nAunque no pudo apagar el constructor, parece haber deducido la ubicación donde operaban los diseñadores del constructor."
+ mem_food_constructor.9.desc.machine:0 "Nuestras unidades de investigación han localizado con éxito un asteroide que fue vaciado para albergar una especie de estación de investigación y hábitat. Sus sistemas están drenados de energía al igual que el barco antes que él, mientras que su interior está lleno de polvo de comida caducada hace mucho tiempo. \n\nLas unidades de perforación especializadas han logrado llegar al núcleo de la instalación y han logrado localizar al antiguo propietario de la estación, sus restos bien conservados en el polvo. Lograron extraer algunos datos de su asistente digital. Parece que estaba experimentando con uno de los constructores de alimentos en un intento de encontrar una forma de apagarlo cuando un pico repentino de producción había violado el contenedor y lo había asfixiado. \n\nAunque no pudo apagar el constructor, parece haber deducido el lugar donde operaban los diseñadores del constructor."
+ mem_food_constructor.9.desc.hive:0 "Nuestros drones de investigación han localizado con éxito un asteroide que fue vaciado para albergar una especie de estación de investigación y hábitat. Sus sistemas están drenados de energía al igual que el barco antes que él, mientras que su interior está lleno de polvo de comida caducada hace mucho tiempo. \n\nUsando taladros miniatura, nuestro equipo de ciencias ha logrado excavar en el núcleo de la instalación y ha logrado localizar al antiguo propietario de la estación, sus restos bien conservados en el polvo. Lograron extraer algunos datos de su asistente digital. Parece que estaba experimentando con uno de los constructores de alimentos en un intento de encontrar una forma de apagarlo cuando un pico repentino de producción había violado el contenedor y lo había asfixiado. \n\nAunque no pudo apagar el constructor, parece haber deducido el lugar donde operaban los diseñadores del constructor."
+ mem_food_constructor.9a:0 "La §YLlave Reesan§! está casi a nuestro alcance!"
+ 
+ mem_food_constructor_poi3:0 "Operaciones Reesan"
+ mem_food_constructor_poi3_desc:0 "Los esquivos Reesans una vez operaron desde este sistema. Podrían seguir ahí."
+ 
+ mem_food_constructor.10.name:0 "Operaciones Reesan"
+ mem_food_constructor.10.desc:0 "Hemos llegado al sistema identificado por el investigador muerto. Un anillo mundial masivo abarca el sistema, pero está gravemente dañado. Una raza tecnológica poderosa definitivamente floreció aquí una vez, pero este lugar claramente ya no está en condiciones de funcionar. Sin embargo, una sección del anillo mundial gravemente dañado parece estar intacta. \n\nSi vamos a encontrar la §YLlave Reesan§! en algún lugar, será allí. \n\nSin embargo, no todo está frío y muerto. Estamos detectando una flota de poderosas naves automatizadas en el sistema. Nos están saludando."
+ 
+ mem_food_constructor.11.desc:0 "Hemos llegado al sistema identificado por el investigador muerto. Un anillo mundial masivo abarca el sistema, pero está gravemente dañado. Una raza tecnológica poderosa definitivamente floreció aquí una vez, pero este lugar claramente ya no está en condiciones de funcionar. Sin embargo, una sección del anillo mundial gravemente dañado parece estar intacta. \n\nSi vamos a encontrar la §YLlave Reesan§! en algún lugar, será allí."
+ mem_food_constructor.11a:0 "Excelente, procedamos."
+ 
+ mem_food_constructor.12.name:0 "¡Bienvenido a Operaciones Reesan!"
+ mem_food_constructor.12.desc:0 "Gracias por visitar nuestro centro de asistencia y soporte al cliente. Desafortunadamente, nuestros servicios certificados no están disponibles en este momento, así que por favor mantenga su distancia hasta que el gerente llegue de otro mundo para asistirle. Por favor, no se acerque a la instalación o será destruido.\n\nEste mensaje automático fue traído a usted por §MConstructores y Destructores de Materia Reesan§!. \nConstructores y Destructores de Materia Reesan: El pasado fue terrible; por eso inventamos el futuro."
+ 
+ mem_food_constructor.12a:0 "¿Cuánto tiempo hasta que llegue su gerente?"
+ mem_food_constructor.12a.response:0 "Nuestros servicios han sido suspendidos durante §RINTEGER_OVERFLOW§! años a partir del momento, que es un poco más largo de lo habitual. Me disculpo por eso. Pero te aseguro, el gerente llegará en breve. Mientras tanto, por favor dime si puedo hacer que tu espera sea más cómoda. \n\nCuando surge tal situación, generalmente ofrecemos a nuestros clientes galletas especiales hechas con nuestra propia receta tradicional. Desafortunadamente, en este momento solo podemos ofrecerte §RPOLVO_PETRIFICADO§!. ¿Te gustaría algo?"
+ 
+ mem_food_constructor.12b:0 "¿Por qué se suspendieron sus operaciones?"
+ mem_food_constructor.12b.response:0 "Lo siento, pero me temo que no puedo revelar esta información. Intenta preguntarle a uno de nuestros gerentes cuando llegue."
+ 
+ mem_food_constructor.12c:0 "¿Tienes una Llave Reesan?"
+ mem_food_constructor.12c.response: "Por supuesto. Si has perdido o dañado tu Llave Reesan en los primeros 100 años después de comprar uno de nuestros productos, tienes derecho a un reemplazo gratuito. Solo proporciona a uno de nuestros gerentes tu nombre y prueba de compra, y recibirás tu reemplazo en breve. \n\nSi ya has recibido tu reemplazo gratuito, por favor contacta a nuestros gerentes para obtener información actualizada sobre los costos de reemplazo."
+ 
+ mem_food_constructor.12d:0 "Debe haber una forma de resolver esto pacíficamente."
+ mem_food_constructor.12d.response:0 "La hay. Solo espera a nuestro gerente y se te proporcionará cualquier asistencia que necesites con la menor cantidad posible de altercados violentos."
+ 
+ mem_food_constructor.12e:0 "¡Déjanos pasar, o te haremos!"
+ mem_food_constructor.12e.response:0 "Lamento que estés cansado de vivir y estés considerando el suicidio. ¿Hay alguna forma en que pueda convencerte de reconsiderar?"
+ 
+ mem_food_constructor.12f:0 "Adiós"
+ mem_food_constructor.12f.response:0 "¡Vuelve pronto!"
+ 
+ MEM_FOOD_CONSTRUCTOR_REESAN:0 "Investigar Operaciones Reesan"
+ MEM_FOOD_CONSTRUCTOR_REESAN_DESC:0 "Entre las ruinas de un mundo anillo masivo, un segmento aún está intacto. Quizás si rebuscamos en él, encontraremos una Llave Reesan."
+ 
+ mem_food_constructor.13.name:0 "Llave Reesan Localizada"
+ mem_food_constructor.13.desc:0 "Nuestro equipo de ciencia ha buscado en innumerables almacenes en el mundo anillo. Entre muchos dispositivos que están más allá de nuestro entendimiento, hemos localizado un gigantesco almacén lleno de lo que sin duda son Llaves Reesan. Nuestro equipo de ciencia informa que no han encontrado complicaciones al recuperar una. El resto de las extrañas contracciones Reesan proporcionarán una visión invaluable durante años."
+ mem_food_constructor.13.desc.machine:0 "Nuestras unidades de investigación han buscado en innumerables almacenes en el mundo anillo. Entre muchos dispositivos que desafían nuestra clasificación, han localizado un gigantesco almacén lleno de Llaves Reesan, identificables con un 96% de probabilidad. No hubo complicaciones durante el proceso de recuperación. El resto de las extrañas contracciones Reesan proporcionarán una visión invaluable durante años."
+ mem_food_constructor.13.desc.hive:0 "Nuestros drones han buscado en innumerables almacenes en el mundo anillo. Entre muchos dispositivos que están más allá de nuestro entendimiento, hemos localizado un gigantesco almacén lleno de lo que sin duda son Llaves Reesan. No hubo complicaciones durante el proceso de recuperación. El resto de las extrañas contracciones Reesan proporcionarán una visión invaluable durante años."
+ mem_food_constructor.13a.tooltip:1 "Ahora puede utilizar la decisión §Y$decision_mem_food_constructor_shut_down$§! a su discreción."
+ mem_food_constructor.13b:0 "Ahora podemos apagar fácilmente cualquier constructor de alimentos que encontremos."
+ mem_food_constructor.13b.tooltip:1 "Si alguna vez recuperas el control del Constructor de Comida, podrás utilizar la decisión §Y$decision_mem_food_constructor_shut_down$§ a tu discreción."
+ 
+ mem_food_constructor.14.name:0 "Apagado del Constructor de Alimentos"
+ mem_food_constructor.14.desc:0 "Los ciudadanos de §Y[Root.GetName]§! celebran cuando la Llave Reesan les es entregada e insertada en el constructor de alimentos. La pesadilla nutritiva gris finalmente ha terminado ya que el dispositivo parece haber sido apagado."
+ mem_food_constructor.14.desc.machine:0 "La Llave Reesan ha sido entregada a §Y[Root.GetName]§! e insertada en el constructor de alimentos. El dispositivo se ha apagado y parece estar drenado de toda su energía."
+ mem_food_constructor.14.desc.hive:0 " La Llave Reesan ha sido entregada a §Y[Root.GetName]§! e insertada en el constructor de alimentos. La pesadilla nutritiva gris finalmente ha terminado ya que el dispositivo parece haber sido apagado."
+ mem_food_constructor.14a:0 "¡Finalmente ha terminado!"
+ mem_food_constructor.14.tooltip:0 "La vida en §Y[Root.GetName]§! volverá a la normalidad con beneficios de los restos del constructor de alimentos."
+ 
+ mem_food_constructor.15.name:0 "Transformación del Ecosistema"
+ mem_food_constructor.15.desc:0 "Noticias increíbles desde §Y[Root.GetName]§!. La gruesa capa de polvo de comida que cubría el planeta ha creado un cambio dramático en el ecosistema del planeta. Con la afluencia de energía fácil y abundante, la vida en el planeta ha florecido y la biodiversidad se ha disparado. Este cambio dramático ha llevado a la reclasificación oficial del planeta como un mundo Gaia."
+ mem_food_constructor.15.desc.machine:0 "La gruesa capa de polvo de comida que cubría §Y[Root.GetName]§! ha creado un cambio dramático en el ecosistema del planeta. Con la afluencia de energía fácil y abundante, la vida en el planeta ha florecido y la biodiversidad se ha disparado. Este cambio dramático ha llevado a la reclasificación oficial del planeta como un mundo Gaia."
+ mem_food_constructor.15b:0 "Los espíritus trabajan de maneras misteriosas..."
+ mem_food_constructor.15c:0 "Deberíamos estar siempre agradecidos a los enigmáticos Reesans."
+ mem_food_constructor.15.machine:0 "Actualizando cartas planetarias."
+ 
+ MEM_FOOD_CONSTRUCTOR_LANCE:0 "Rayo de Desaliento"
+ MEM_FOOD_CONSTRUCTOR_MEDIUM_LASER:0 "Rayo de Apaciguamiento Medio"
+ MEM_FOOD_CONSTRUCTOR_LARGE_LASER:0 "Rayo de Apaciguamiento Grande"
+ MEM_FOOD_CONSTRUCTOR_DISRUPTOR:0 "Emisor Introductorio"
+
+ d_mem_food_constructor:1 "Constructor de Alimentos"
+ d_mem_food_constructor_desc:1 "Un enorme artilugio alienígena que escupe toneladas de polvo gris comestible."
+ d_mem_food_constructor_dust_field: "Campos de Polvo"
+ d_mem_food_constructor_dust_field_desc: "Toda la región del planeta está cubierta por una gruesa capa de polvo gris semi-fosilizado."
+ mem_food_constructor_need_resolve_quest_first: "§RNo tenemos la capacidad de limpiar este polvo todavía.§!"
+ d_mem_food_constructor_fertile_dust_fields: "Polvo Fértil"
+ d_mem_food_constructor_fertile_dust_fields_desc: "El polvo gris semi-descompuesto es un gran fertilizante"
+
+ job_mem_food_constructor_dust_gatherer:1 "Recolector de Polvo"
+ job_mem_food_constructor_dust_gatherer_plural:1 "Recolectores de Polvo"
+ job_mem_food_constructor_dust_gatherer_desc:1 "Alternativa más simple y fácil para la agricultura. ¿Quién necesita rotación de cultivos y calendarios de cosecha cuando puedes obtener los mismos resultados con una pala y un cubo?"
+ job_mem_food_constructor_dust_gatherer_effect_desc:1 "£job_mem_dust_gatherer£ $job_mem_food_constructor_dust_gatherer_plural$ produce £food£ §Y$food$§!. Su producción aumenta con la producción del constructor de alimentos."
+ mod_job_mem_food_constructor_dust_gatherer_add:1 "$job_mem_food_constructor_dust_gatherer$ Trabajos"
+ mod_job_mem_food_constructor_dust_gatherer_per_pop:1 "§G+1§! $job_mem_food_constructor_dust_gatherer$ Trabajo por $VALUE$ Poblaciones"
+ mod_job_mem_food_constructor_dust_gatherer_per_pop_short:1 "\n§G+1§! £job_mem_dust_gatherer£ por $VALUE$ £pop£"
+
+ job_mem_food_constructor_dust_gatherer_gestalt:1 "Drone Recolector de Polvo"
+ job_mem_food_constructor_dust_gatherer_gestalt_plural:1 "Drones Recolectores de Polvo"
+ job_mem_food_constructor_dust_gatherer_gestalt_desc:1 "Alternativa más simple y fácil para la agricultura. ¿Quién necesita rotación de cultivos y calendarios de cosecha cuando puedes obtener los mismos resultados con una pala y un cubo?"
+ job_mem_food_constructor_dust_gatherer_gestalt_effect_desc:1 "£job_mem_dust_gatherer£ $job_mem_food_constructor_dust_gatherer_plural$ produce £food£ §Y$food$§!. Su producción aumenta con la producción del Constructor de Alimentos."
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_add:1 "$job_mem_food_constructor_dust_gatherer_gestalt$ Trabajos"
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_per_pop:1 "§G+1§! $job_mem_food_constructor_dust_gatherer_gestalt$ Trabajo por $VALUE$ Poblaciones"
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_per_pop_short:1 "\n§G+1§! £job_mem_dust_gatherer£ por $VALUE$ £pop£"
+
+ decision_mem_food_constructor_shut_down:1 "Apagar el Constructor de Alimentos"
+ decision_mem_food_constructor_shut_down_desc:1 "Un Constructor de Alimentos hiperactivo más una Llave Reesan igual a un Constructor de Alimentos inerte."
+ mem_food_constructor_shut_down_effect:1 "El Constructor de Alimentos será desactivado. La mayoría de sus efectos, junto con todos los trabajos £job_mem_dust_gatherer£ que proporciona, serán eliminados del planeta para siempre."
+
+ mem_food_constructor_debuff_0:1 "Estragos de la Edad"
+
+ mem_reesan_habitat_ruined:0 "Hábitat Reesan Arruinado"
+ mem_reesan_habitat_ruined_DESC:0 "Esta estructura una vez fue el nexo de la actividad Reesan y sirvió de hogar a muchos. Los inmensos anillos entrelazados hace mucho que se rompieron, y la fuente de energía en su núcleo se ha extinguido, pero puede ser restaurada."
+ mem_reesan_habitat_ruined_MEGASTRUCTURE_DETAILS:0 ""
+ mem_reesan_habitat_ruined_CONSTRUCTION_INFO_DELAYED:0 ""
+ mem_reesan_habitat_restored:0 "Hábitat Reesan Restaurado"
+ mem_reesan_habitat_restored_DESC:0 "El hábitat ha sido reconstruido y el núcleo de energía en su corazón ha sido reavivado para hacer la estructura habitable de nuevo."
+ # Those two lines don't actually seem to do anything, but might be useful, just in case.
+ mem_reesan_habitat_restored_MEGASTRUCTURE_DETAILS:0 "$habitat_0_MEGASTRUCTURE_DETAILS$"
+ mem_reesan_habitat_restored_CONSTRUCTION_INFO_DELAYED:0 "$habitat_0_CONSTRUCTION_INFO_DELAYED$"
+
+ d_mem_reesan_ring:0 "Superestructura Patentada Reesan"
+ d_mem_reesan_ring_desc:0 "Bandas habitables que rodean las estaciones, optimizadas para la construcción. Un generador de campo de fuerza asegura una estabilidad extra."
+ d_mem_reesan_core:0 "Núcleo Reesan"
+ d_mem_reesan_core_desc:0 "Una microsingularidad capturada dentro de un campo de contención proporciona una fuente de energía efectiva y accesible para la estación."
+
+ mem_requires_voidborn_ap: "§RRequiere §Y$ap_voidborn$§R Ventaja o §Y$tech_mega_engineering$§R Tecnología.§!"
+ mem_requires_starbase_4_tech: "§RRequiere §Y$tech_starbase_4$§R o §Y$tech_mega_engineering$§R Tecnología.§!"
+
+ mem_food_constructor_large_ship:0 "Guardián"
+ mem_food_constructor_large_ship_plural:0 "Guardianes"
+ mem_food_constructor_small_ship:0 "Perro guardián"
+ mem_food_constructor_small_ship_plural:0 "Perros guardianes"

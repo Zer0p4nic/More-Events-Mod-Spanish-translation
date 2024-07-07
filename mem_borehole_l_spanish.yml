@@ -1,0 +1,38 @@
+﻿l_spanish:
+ mem_borehole_category:0 "Hueco en el Suelo"
+ mem_borehole_category_desc:0 "La imagen de la superficie reveló un largo eje vertical en la corteza del planeta. Los ángulos rectos precisos y la superficie inusualmente lisa sugieren un origen artificial."
+  
+ mem_borehole.1.name:0 "Mina Profunda Abandonada"
+ mem_borehole.1.desc:0 "[Root.GetLeaderName] informa que la instalación es una especie de mina diseñada para extraer minerales de los niveles más profundos de la corteza del planeta. La mina está actualmente desactivada, y con reparaciones mínimas, puede volver a ponerse en línea."
+ mem_borehole.1a:0 "Reparar el equipo de perforación."
+ mem_borehole.1b:0 "Desmontar el equipo para aprender sobre sus secretos."
+ mem_borehole.1c:0 "Recuperar el equipo de perforación."
+ 
+ mem_borehole.2.name:0 "Estudio de Minerales Raros"
+ mem_borehole.2.desc:0 "Parece que el eje fue diseñado para romper un gran depósito de mineral raro. Sin embargo, justo cuando los mineros llegaron a ese depósito, el proyecto fue abandonado por razones desconocidas."
+ mem_borehole.2a:0 "Deberíamos estudiar sus hallazgos."
+ mem_borehole.2b:0 "Parece que encontraron cristales raros."
+ 
+ mem_borehole.3.name:0 "Silo de Misiles"
+ mem_borehole.3.desc:0 "En el fondo de la mina, nuestro equipo científico ha encontrado un enorme cohete equipado con la ojiva termonuclear más grande jamás registrada. [Root.GetLeaderName], sin embargo, sugiere que esto no es, de hecho, un arma, sino un proyecto de novedad de algún tipo, ya que su masa, composición material y estructura significa que es imposible que vuele, y mucho menos que alcance la velocidad de escape, sin desmoronarse. Algunas de las elecciones de diseño son aún muy interesantes, sin embargo."
+ mem_borehole.3a:0 "Deberíamos estudiar el cohete."
+ 
+ mem_borehole.4.name:0 "Un Hábitat"
+ mem_borehole.4.desc:0 "Al inspeccionar, se encontró que las paredes del eje estaban compuestas por miles de pequeñas cápsulas autosostenibles equipadas con sistemas de soporte vital. La mayoría de ellos estaban limpios o nunca habían sido habitados para empezar, pero algunos todavía tienen objetos esparcidos en su interior, lo que sugiere que los habitantes se habían ido de prisa. El inusual diseño arquitectónico de las cápsulas podría ser un tema para un estudio interesante."
+ mem_borehole.4a:0 "Deberíamos investigarlo."
+ 
+ mem_borehole.5.name:0 "Depósito de Lodo"
+ mem_borehole.5.desc:0 "La observación inicial mostró que el pozo está casi totalmente lleno de un lodo radiactivo de alta energía. Probablemente fue un vertedero de contaminación industrial de otra civilización. [Root.GetLeaderName] se niega a seguir avanzando, citando la falta de fe de [Leader.GetHerHis] en la capacidad de nuestra tecnología de protección de materiales peligrosos para salvar a [Leader.GetHerHim] y al equipo de [Leader.GetHerHis] de este "crimen contra la naturaleza.""
+ mem_borehole.5a:0 "Repugnante. Pero interesante."
+ 
+ mem_borehole.6.name:0 "Carrera Hacia el Fondo"
+ mem_borehole.6.desc:0 "El equipo científico ha examinado el agujero de perforación. A juzgar por la textura de la pared, fue tallada con una potente instalación láser y parece haber alcanzado el núcleo fundido del planeta sin golpear ningún depósito particularmente útil. Cerca de allí, [Root.GetLeaderName] localizó un pequeño transmisor que hace mucho tiempo se quedó sin energía. El análisis preliminar de sus bancos de datos sugiere que estaba destinado a transmitir un mensaje en repetición a través de la galaxia, presumiendo de haber alcanzado el núcleo fundido del planeta antes que los competidores."
+ mem_borehole.6a:0 "Felicitaciones, probablemente."
+ 
+ mem_borehole.7.name:0 "Nada de Valor Encontrado"
+ mem_borehole.7.desc:0 "[Root.GetLeaderName] informa que, aunque el eje es definitivamente un agujero de perforación artificial, fue raspado limpio, sin tecnología útil o depósitos minerales para ser recuperados."
+ 
+ mem_borehole.8.name:0 "¡Es una Trampa!"
+ mem_borehole.8.desc:0 "Mientras exploraba la perforación en [From.GetName], §Y[Root.GetLeaderName]§! aparentemente activó algún tipo de trampa explosiva, causando que toda la estructura se derrumbara, matando a [Leader.GetHerHim] y a la mayor parte del equipo de [Leader.GetHerHis]."
+
+ 

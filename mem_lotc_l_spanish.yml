@@ -1,0 +1,236 @@
+﻿l_spanish:
+ 
+ ########################
+ #Legacy of the Carcharorion
+ #AKA The Unponounceable Welsh event chain
+ #By ViolentBeetle
+ ########################
+ 
+ #See "extinct abductors" for anomaly
+ 
+ #PROJECT CHAIN
+ mem_lotc_first_chain_title:0 "El Carcharorion"
+ mem_lotc_first_chain_desc:0 "Hace mucho tiempo, una especie que se llamaba a sí misma los Carcharorion estableció una operación para mover a nuestros antepasados a otro lugar. Siguiendo las coordenadas que dejaron atrás, podríamos encontrar más rastros de ellos."
+ mem_lotc_clues:0 "Lugares investigados"
+ 
+ MEM_LOTC_FIRST:0 "Instalación Subacuática"
+ MEM_LOTC_FIRST_DESC:0 "Según estas coordenadas, algún tipo de instalación está oculta bajo el océano en un planeta distante."
+ 
+ mem_lotc_poi.2:0 "Punto de Encuentro"
+ mem_lotc_poi.2.desc:0 "Estas coordenadas son algún tipo de punto de encuentro para los Carcharorion. Si los Carcharorion aún existen, podrían estar allí."
+ 
+ MEM_LOTC_THIRD:0 "El Centro"
+ MEM_LOTC_THIRD_DESC:0 "Se presume que estas coordenadas son para algún tipo de centro comercial o de recreación operado por los Carcharorion."
+ 
+ MEM_LOTC_FOURTH:0 "El Memorial"
+ MEM_LOTC_FOURTH_DESC:0 "Estas coordenadas deberían llevar a un complejo aislado que podría ser algún tipo de memorial o museo."
+ 
+ MEM_LOTC_BOARDING_CRUISER:0 "Abordando el Crucero"
+ MEM_LOTC_BOARDING_CRUISER_DESC:0 "Ahora que el crucero Carcharorion ha sido desactivado, podemos intentar abordarlo."
+ 
+ mem_lotc_poi.5:0 "Sistema Carchar"
+ mem_lotc_poi.5.desc:0 "Este es probablemente el lugar de la patria de los Carcharorion."
+
+ mem_lotc_second_chain_title:0 "Sistema Carchar"
+ mem_lotc_second_chain_desc:0 "Hemos localizado el sistema natal de los Carcharorion. Aunque no hay signos de actividad de los Carcharorion aquí, deberíamos buscar rastros de ellos en los planetas y lunas de este sistema."
+ mem_lotc_surveyed:0 "Lugares estudiados"
+ 
+ MEM_LOTC_I:0 "Estudiar Gwyliwr"
+ MEM_LOTC_I_DESC:0 "Aunque este planeta no es propicio para ninguna vida tal como la conocemos, se menciona varias veces en los archivos de los Carcharorion que recuperamos. Podría merecer una mirada más cercana."
+ 
+ MEM_LOTC_IA:0 "Estudiar Crau"
+ MEM_LOTC_IA_DESC:0 "Esta luna fundida se refiere como un importante centro industrial para los Carcharorion. Necesitamos examinarla."
+ 
+ MEM_LOTC_II:0 "Estudiar Aelwyd"
+ MEM_LOTC_II_DESC:0 "Este planeta es el candidato más probable para el mundo natal de los Carcharorion."
+ 
+ MEM_LOTC_IIA:0 "Estudiar Chwaer"
+ MEM_LOTC_IIA_DESC:0 "Basándonos en la información que hemos obtenido de sus archivos, este satélite natural del presunto mundo natal de los Carcharorion parece haber sido muy importante para ellos."
+ 
+ MEM_LOTC_III:0 "Estudiar Ofannu"
+ MEM_LOTC_III_DESC:0 "Este planeta es el segundo más probable que haya sido habitado en algún momento. Es probable que sea relevante para nuestra búsqueda."
+ 
+ MEM_LOTC_IIIA:0 "Estudiar Morthwyl"
+ MEM_LOTC_IIIA_DESC:0 "Esta pequeña luna se menciona algunas veces en los archivos de los Carcharorion. Podría contener algo interesante."
+ 
+ MEM_LOTC_AS:0 "Estudiar Farchnad"
+ MEM_LOTC_AS_DESC:0 "Este asteroide particularmente grande se menciona en los archivos de los Carcharorion, y se supone que fue el núcleo de sus operaciones de cinturón."
+ 
+ MEM_LOTC_IVA:0 "Estudiar Marchog"
+ MEM_LOTC_IVA_DESC:0 "Esta luna parece ser lo suficientemente importante para los Carcharorion como para justificar extensas menciones en sus archivos."
+ 
+ MEM_LOTC_IVB:0 "Estudiar Caer"
+ MEM_LOTC_IVB_DESC:0 "Esta luna tiene una descripción desfavorable en los archivos de los Carcharorion."
+ 
+ MEM_LOTC_V:0 "Estudiar Anghenfil"
+ MEM_LOTC_V_DESC:0 "Este gigante gaseoso se encuentra en los bordes remotos del sistema, ofreciendo un gran número de lunas y un sistema de anillos. Si los Carcharorion tenían algo que ocultar, es probable que esté allí."
+ 
+ MEM_LOTC_VA:0 "Estudiar Dolennu"
+ MEM_LOTC_VA_DESC:0 "Esta luna es mencionada una vez por los archivos de los Carcharorion, lo que la hace merecedora de una mirada más cercana."
+ 
+ MEM_LOTC_VB:0 "Estudiar Erlid"
+ MEM_LOTC_VB_DESC:0 "Esta luna fue descrita como un importante nexo de actividad ilícita en los archivos de los Carcharorion."
+ 
+ MEM_LOTC_VI:0 "Estudiar Furiau"
+ MEM_LOTC_VI_DESC:0 "Este planeta más externo en el sistema fue aludido varias veces en los archivos de los Carcharorion."
+ 
+ mem_lotc_poi.6:0 "Sistema Unigedd"
+ mem_lotc_poi.6.desc:0 "Este es probablemente el lugar de una colonia de los Carcharorion"
+ 
+ mem_lotc_third_chain_title:0 "Destino de los Carcharorion"
+ mem_lotc_third_chain_desc:0 "Hemos recopilado suficientes datos para identificar el sistema donde podrían haber ido los restos de los Carcharorion."
+ 
+ MEM_LOTC_FINAL:0 "Establecer Contacto"
+ MEM_LOTC_FINAL_DESC:0 "Una señal débil que se origina desde dentro de Tristwch probablemente esté conectada a los Carcharorion."
+ 
+ #EVENTS
+ 
+ mem_lotc.1.name:0 "Operación de Tráfico"
+ mem_lotc.1.desc:0 "Después de explorar el complejo extensivamente, nuestro equipo de ciencia ha hecho un descubrimiento asombroso. Los núcleos de datos parecen estar mayormente borrados o erosionados, pero hemos establecido que el complejo pertenecía a una civilización desconocida para nosotros que se hacía llamar Carcharorion. Aparentemente, han operado hace miles de años en este sector de la galaxia. \n\nSin embargo, algo más es mucho más inusual. El nivel inferior está densamente lleno de un gran número de cápsulas de estasis que contienen... cuerpos de nuestra propia especie. Muchos de ellos todavía llevan grilletes avanzados o tienen implantes crudos alojados en sus sistemas nerviosos. Parece que estos Carcharorion han secuestrado a algunos de nuestros ancestros primitivos y los han sometido a experimentos, antes de, por razones desconocidas, optar por matarlos cortando el suministro de energía a las cápsulas de estasis y causándoles asfixia. \n\nTambién hemos detectado niveles elevados de radiación en las paredes y el equipo dentro del complejo. El núcleo de energía parece haber sido saboteado o haber sufrido una fuga en el pasado, pero no podemos estar seguros. Los datos residuales extraídos de los núcleos de datos también contienen varios conjuntos de coordenadas."
+ mem_lotc.1a:0 "¿Qué pasó aquí?"
+ 
+ mem_lotc.2.name:0 "Instalación Subacuática"
+ mem_lotc.2.desc:0 "Sumergido bajo el agua, nuestro equipo de ciencia ha descubierto las ruinas de un ecosistema autónomo. Parece haber sido producido enteramente a partir de componentes de naves espaciales. [Leader.GetName] estima que varias cientos de individuos vivieron aquí hasta que fue golpeado por un bombardeo orbital. La mayoría del equipo fue dañado por el agua salada, pero nuestro equipo de ciencia ha logrado recuperar datos de navegación fragmentados, que deberían ser útiles. Extrañamente, tanto las municiones almacenadas en el complejo mismo como los proyectiles intactos recuperados en el lugar están usando diseños similares."
+ mem_lotc.2a:0 "¿Una guerra civil?"
+ 
+ mem_lotc.3.name:0 "[From.GetName] Sistema"
+ mem_lotc.3.desc:0 "Estamos detectando una nave solitaria orbitando un gigante gaseoso. Parece muy desgastada pero claramente todavía está operativa. Deberíamos acercarnos con precaución."
+ 
+ mem_lotc.4.name:0 "El Hub"
+ mem_lotc.4.desc:0 "Varios buques Carcharorion parecen estar soldados juntos y colocados en órbita estable alrededor de [FromFrom.GetName]. Cuando nuestro equipo de ciencia entró, no encontraron nada más que decadencia y abandono. La mayoría de los sistemas de soporte vital y otros sistemas vitales fueron desmantelados, pero el equipo ha encontrado una holosuite aislada que han logrado encender brevemente con los sistemas de su nave. Cuando lo hicieron, se encontraron en la superficie de un mundo extraño, mirando un cielo desconocido. Han logrado grabar las estrellas en el cielo antes de que la suite se quemara permanentemente. Si es exacto, estas estrellas podrían permitirnos reducir la ubicación del planeta recreado."
+ mem_lotc.4a:0 "¿Podría ser su planeta natal?"
+ 
+ mem_lotc.5.name:0 "El Memorial"
+ mem_lotc.5.desc:0 "Desafortunadamente, llegamos tarde por varios siglos. Los restos del complejo todavía son reconocibles en los bordes de un cráter de impacto, pero la mayor parte de él ha sido obliterada por un golpe de meteorito. Lo que sobrevive, sin embargo, es muy interesante. Hemos identificado un puñado de grandes losas de roca que están cubiertas por pictogramas, posiblemente de los Carcharorion. Un núcleo de datos sobreviviente que [Leader.GetName] encontró contenía referencias a su sistema natal. Con datos adicionales para llenar los huecos, podría llevarnos directamente a él."
+ mem_lotc.5a:0 "Lo investigaremos."
+ 
+ mem_lotc.7.name:0 "La Nave Ha Sido Deshabilitada"
+ mem_lotc.7.desc:0 "Ahora que el crucero Carcharorion ha sido deshabilitado, deberíamos preparar el equipo de abordaje para investigarlo."
+ mem_lotc.7a:0 "Preparen nuestras tropas."
+ 
+ mem_lotc.8.name:0 "La Nave Ha Sido Deshabilitada"
+ mem_lotc.8.desc:0 "Alguien más deshabilitó el crucero Carcharorion y lo dejó a la deriva sin rumbo. Deberíamos preparar un equipo de abordaje para investigarlo."
+ mem_lotc.8a:0 "Preparen nuestras tropas."
+ 
+ mem_lotc.9.name:0 "[From.GetName] Sistema"
+ mem_lotc.9.desc:0 "Estamos detectando una nave Carcharorion deshabilitada a la deriva sin rumbo. Deberíamos preparar un equipo de abordaje para investigarlo."
+ mem_lotc.9a:0 "Preparen nuestras tropas."
+ 
+ mem_lotc.10.name:0 "Abordaje Exitoso"
+ mem_lotc.10.desc:0 "A medida que nuestras fuerzas abordaban el barco, fueron recibidas con una vista espantosa. Había cuerpos de múltiples especies, ¡algunos de ellos incluso de los nuestros! Aunque claramente deberían haber estado muertos, estaban tambaleándose e incluso intentaron defender el barco. \n\nParece que todavía están impulsados por extensos implantes neurales que los mantuvieron en movimiento incluso después de la muerte. Luchando todo el camino, nuestro equipo de abordaje ha llegado al puente del barco. Algunos datos de las computadoras de vuelo todavía eran utilizables. Indicaban que la tecnología de más rápido que la luz del barco había experimentado problemas importantes, similares a los que eliminamos antes de siquiera abandonar nuestro sistema natal. \n\nManipular los sistemas del barco parece haber desencadenado algún tipo de secuencia de autodestrucción, haciendo que el barco se vaporizara momentos después de que nuestro equipo de abordaje regresara."
+ mem_lotc.10a:0 "Inquietante."
+ 
+ mem_lotc.11.name:0 "El Sistema Hogar Carcharorion"
+ mem_lotc.11.desc:0 "Con los datos que hemos recogido, podemos identificar el presunto sistema natal de los misteriosos Carcharorion. Deberíamos explorarlo para descubrir qué les sucedió y descubrir su conexión con nuestra propia especie."
+ mem_lotc.11a:0 "¡Adelante, a las respuestas!"
+ 
+ mem_lotc.12.name:0 "Sistema Carchar"
+ mem_lotc.12.desc:0 "Hemos localizado Carchar, el presunto sistema natal de los Carcharorion. No estamos detectando tráfico en el sistema indicativo de una civilización espacial, por lo que nos corresponde a nosotros buscar sus planetas en busca de respuestas. \n\nCon la información que ya hemos recogido, no necesitamos realizar una encuesta básica. Sin embargo, hay muchos puntos de interés que deberíamos examinar más de cerca."
+ mem_lotc.12a:0 "Proceder."
+ 
+ 
+ mem_lotc.13.name:0 "Gwyliwr"
+ mem_lotc.13.desc:0 "La densa atmósfera venenosa de gases de efecto invernadero de Gwyliwr no nos parece prometedora, pero los Carcharorion parecen haber tenido una opinión diferente. Varios grandes vehículos más ligeros que el aire todavía flotan en la atmósfera superior, cada uno aparentemente un hábitat para varios miles de ciudadanos. Varios de ellos fueron dañados por disparos desde la órbita, pero a juzgar por la baja intensidad de estos, fueron disparos perdidos. \n\nNuestro equipo científico ha encontrado las áreas de hábitat desprovistas de cualquier posesión personal, y no se recuperaron cuerpos, lo que sugiere que la población había abandonado este lugar por su propia voluntad."
+ mem_lotc.13a:0 "¿A dónde fueron?"
+ 
+ mem_lotc.14.name:0 "Crau"
+ mem_lotc.14.desc:0 "Rastros de batalla llenan este planeta, y una gran cantidad de escombros todavía está a la deriva en su órbita. No está del todo claro qué sucedió aquí debido al extenso daño sufrido por las naves, pero las proyecciones de [Leader.GetName] sugieren que se establecieron varios astilleros importantes en la órbita del planeta, que habían utilizado minerales extraídos de la superficie para la producción de naves. Los astilleros probablemente eran objetivos militares valiosos, lo que explica la masiva batalla sobre ellos."
+ mem_lotc.14a:0 "Interesante."
+ 
+ mem_lotc.15.name:0 "Aelwyd"
+ mem_lotc.15.desc:0 "Dos características principales son aparentes al observar el planeta congelado: Masivas arcologías en ruinas salpicando su superficie y aún más masivos cráteres de impacto. La concentración de los cráteres sobre la mayor masa de tierra del planeta sugiere que fueron el resultado de un bombardeo deliberado. El planeta parece haber sufrido una pequeña edad de hielo como resultado. \n\nEl daño a las arcologías, mientras tanto, se extiende mucho más allá de los estragos del tiempo. Muchas de ellas tienen grandes brechas con perfiles similares a los de las rondas de conductores de masa. El interior de cada estructura está lleno de cadáveres de especies que hemos identificado como los Carcharorion. \n\nSin embargo, una de las arcologías parece haber sido salvada de los impactos directos. Se han encontrado múltiples cadáveres allí, víctimas de la hambruna y el frío, pero parecen haber sido movidos deliberadamente y almacenados en el nivel inferior. Es probable que alguien moviera los cuerpos allí antes de desocupar la arcología."
+ mem_lotc.15a:0 "¿Quién podría haber hecho esto?"
+ mem_lotc_terraforming_candidate_tooltip_1:0 "§Y[terraforming_candidate_1.GetName]§! podrá ser terraformado una vez que se haya investigado la tecnología £society  §H$tech_climate_restoration$§!."
+ 
+ mem_lotc.16.name:0 "Chwaer"
+ mem_lotc.16.desc:0 "La superficie de la luna parece albergar varias arcologías, con túneles subterráneos que las conectan. Los escombros de un gran número de naves de guerra salpican la superficie del planeta, y las estructuras en la superficie parecen haber sido perforadas por armas poderosas. Se encuentran cadáveres de Carcharorion en todas las estructuras, ya sea muertos por la exposición al vacío cuando las paredes fueron violadas, o sufriendo una muerte más lenta por la escasez de suministros. Algunos incluso parecen haber muerto por disparos autoinfligidos. \n\nEl equipo científico también ha encontrado fosas comunes en el exterior, con cuerpos simplemente arrojados a las trincheras y cubiertos con bulldozers."
+ mem_lotc.16a:0 "La guerra nunca cambia."
+ 
+ mem_lotc.17.name:0 "Ofannu"
+ mem_lotc.17.desc:0 "Múltiples biódromos cubren la superficie del planeta, todos ellos en ruinas. Nuestro equipo de ciencia ha identificado rastros de bombardeo planetario dirigido a los centros de población. A juzgar por algunos equipos sobrevivientes encontrados, los locales estaban trabajando en un gran proyecto de terraformación cuando su sociedad fue aniquilada por una fuerza hostil."
+ mem_lotc.17a:0 "¿Cómo ocurrió esto?"
+ mem_lotc_terraforming_candidate_tooltip_2:0 "§Y[terraforming_candidate_2.GetName]§! podrá ser terraformado una vez que la £society  §H$tech_climate_restoration$§! tecnología haya sido investigada."
+ 
+ mem_lotc.18.name:0 "Morthwyl"
+ mem_lotc.18.desc:0 "Unas pocas estaciones de radar en ruinas y una pequeña cantidad de escombros están esparcidos por esta luna. Parece que albergaba una estación naval, probablemente para proteger sus instalaciones primarias. Evidentemente, sufrió un ataque, pero es imposible decir quién ganó."
+ mem_lotc.18a:0 "Interesante."
+ 
+ mem_lotc.19.name:0 "Farchnad"
+ mem_lotc.19.desc:0 "El asteroide parece haber sido vaciado y convertido en un gran hábitat y un centro de suministros para una operación de minería de asteroides. También está girando inusualmente rápido, presumiblemente acelerado para producir artificialmente gravedad para sus habitantes. Se encuentran grandes cantidades de cuerpos muertos en su interior. \n\nNuestro equipo de ciencia ha logrado recuperar varios manifiestos digitales publicados en la estación que indican que se vio muy afectada por las interrupciones de las líneas de suministro al inicio de la guerra. Parece que el sistema de soporte vital con suministros insuficientes finalmente falló en algún momento, convirtiendo todo el asteroide en una tumba masiva."
+ mem_lotc.19a:0 "Horrible."
+ 
+ mem_lotc.21.name:0 "Marchog"
+ mem_lotc.21.desc:0 "Parece que en este planeta hubo varias bases en algún momento, pero ahora solo quedan ruinas. Estaban extrayendo hielo y varios minerales, presumiblemente para abastecer al resto del sistema. Todos ellos fueron eliminados con ataques orbitales de precisión en algún momento."
+ mem_lotc.21a:0 "Curioso."
+ 
+ mem_lotc.22.name:0 "Caer"
+ mem_lotc.22.desc:0 "Nuestro equipo de ciencia ha localizado un complejo abandonado que parece haber servido como prisión de Carcharorion en algún momento. Sus celdas parecen estar mayormente vacías, lo que sugiere que hubo una evacuación masiva de reclusos, o que el complejo estaba operando por debajo de su capacidad. Otro elemento notable en la superficie son los cuerpos de las fuerzas de seguridad, muchos de los cuales aparentemente murieron de heridas autoinfligidas. Los niveles inferiores revelan algo diferente: cuerpos de prisioneros equipados con implantes neurales de algún tipo. [Leader.GetName] sugiere que probablemente se usaron para controlar a los reclusos más peligrosos y hacerlos dóciles."
+ mem_lotc.22a:0 "¿Estaban experimentando con implantes neurales? Interesante."
+ mem_lotc.22b:0 "Esta tecnología es una abominación."
+ mem_lotc.22c:0 "¿Implantes neurales? Deberíamos investigarlo."
+
+ 
+ mem_lotc.23.name:0 "Anghenfil"
+ mem_lotc.23.desc:0 "Al parecer, aquí tuvo lugar una batalla masiva, con innumerables naves destruidas. Enormes nubes de escombros orbitan ahora el planeta, flotando sin rumbo por el vacío. [Leader.GetName] informa que [Leader.GetSheHe] [Leader.GetWasWere] pudo recuperar varios ordenadores de vuelo. Están dañados, pero no irreparablemente. A medida que nos familiarizamos más con los Carcharorion, se pueden extraer datos de ellos."
+ mem_lotc.23a:0 "¿Por qué estaban luchando?"
+
+ 
+ mem_lotc.24.name:0 "Dolennu"
+ mem_lotc.24.desc:0 "Nuestro equipo de ciencia ha encontrado un complejo de investigación escondido en la superficie de la luna. Está mayormente intacto, pero parece haber sido despojado de la mayoría de sus objetos de valor, incluyendo casi todos sus núcleos de datos. Sin embargo, se recuperaron algunos núcleos de datos. Tienen dos conjuntos distintos de entradas en ellos. El primero contiene referencias a una prueba de actividad alienígena en el sistema y algunos datos de investigación interesantes. Se refiere en su mayoría a la tecnología de más rápido que la luz, pero es cruda, y a veces completamente errónea, tanto que [leader.GetName] casi sospecha que los núcleos contienen desinformación deliberada. \n\nEl segundo conjunto parece haber sido creado por un equipo de ataque enviado para asegurar los resultados de los estudios del autor anterior. El equipo registra que el contacto con su comando se perdió repentinamente después de que tomaron control de la instalación. [Leader.GetName] ha encontrado los cuerpos del equipo de ataque en el comedor de la base, aparentemente habiendo muerto de heridas autoinfligidas."
+ mem_lotc.24a:0 "¿Qué estaban estudiando?"
+ 
+ mem_lotc.25.name:0 "Erlid"
+ mem_lotc.25.desc:0 "Nuestro equipo de ciencia se encontró con una instalación oculta. Su personal parece haber sido masacrado y sus sistemas borrados. Sin embargo, [Leader.GetName] ha logrado localizar varios escondites ocultos. Estos contienen en su mayoría propaganda anti-mundial dirigida a los mineros en las afueras del sistema, así como algunos datos tácticos que nos permiten tener una idea de las operaciones de la flota de Carcharorion."
+ mem_lotc.25a:0 "¿Qué estaban tratando de lograr?"
+ 
+ mem_lotc.26.name:0 "Furiau"
+ mem_lotc.26.desc:0 "Ubicados en órbita del planeta, nuestro equipo ha encontrado un astillero con una nave inacabada todavía en sus abrazaderas. La tecnología de estasis a bordo de la nave y algunos de sus otros elementos nos permiten identificarla como una nave colonia. Sin embargo, se aprecian algunas rarezas importantes en su diseño. Diseñada para operar en el espacio durante años sin ningún suministro y careciendo de cualquier tecnología más rápida que la luz, parece diseñada para viajar a velocidad sublumínica. \n\nLas cápsulas de estasis muestran rastros de congelación y descongelación pero no cuerpos, como si ya estuvieran ocupadas antes de que se extrajeran los que estaban dentro."
+ mem_lotc.26a:0 "¿Realmente estaban tratando de moverse a velocidad sublumínica?"
+ 
+ mem_lotc.27.name:0 "Algunos Secretos Son Mejor Mantenidos Enterrados"
+ mem_lotc.27.desc:0 "Varias flotas están entrando al sistema desde partes desconocidas. No responden a nuestro saludo, pero sus movimientos revelan intenciones hostiles. La única señal que viene de las naves es un simple mensaje en idioma Carcharorion, repetido una y otra vez:
+ mem_lotc.27a:0 "Veremos sobre eso."
+ 
+ mem_lotc.28.name:0 "El Destino de los Carcharorion"
+ mem_lotc.28.desc:0 "Aunque nuestro entendimiento de los Carcharorion todavía es limitado, hemos recogido suficientes datos en nuestro estudio de su sistema natal para identificar un sistema que podrían haber estado considerando para establecer su colonia. Quizás podríamos encontrar respuestas allí."
+ mem_lotc.28a:0 "¡Adelante!"
+ 
+ mem_lotc.30.name:0 "Sistema Unigedd"
+ mem_lotc.30.desc:0 "Hemos seguido con éxito la pista de pistas para llegar al sistema Unigedd, al que se dirigían los supervivientes Carcharorion de su sistema natal. \n\nPodemos detectar una gran flota con marcas Carcharorion en órbita de un gigante gaseoso local."
+ 
+ mem_lotc.31.name:0 "Sistema Unigedd"
+ mem_lotc.31.desc:0 "Hemos seguido con éxito la pista de pistas para llegar al sistema Unigedd, al que se dirigían los supervivientes Carcharorion de su sistema natal. \n\nPodemos detectar una señal débil que se origina en el gigante gaseoso del sistema, como si alguien estuviera tratando de contactarnos."
+ mem_lotc.31.desc.fallback:0 "Con las fuerzas hostiles en el sistema derrotadas, podemos detectar una señal débil que se origina en el gigante gaseoso del sistema, como si alguien estuviera tratando de contactarnos."
+ mem_lotc.31a:0 "Prepararse para el contacto."
+ 
+ mem_lotc.33.name:0 "El Último de los Carcharorion"
+ mem_lotc.33.desc:0 "Una señal débil se origina en el gigante gaseoso del sistema. Se activó justo después de que los defensores del sistema fueron destruidos, como si alguien estuviera buscando conocer a quienes los derrotaron."
+ 
+ mem_lotc.34.name:0 "Contacto Establecido"
+ mem_lotc.34.desc:0 "El [Root.GetName] informa que la señal que se origina en el gigante gaseoso ha sido descifrada con éxito. Una nave escondida dentro del gigante gaseoso nos está saludando."
+
+ mem_lotc.35.desc:0 "Hola, extraño. Has hecho un viaje bastante largo hasta este lugar. Soy Bradwyr, el último de los Carcharorion."
+ mem_lotc.35a:0 "Entonces, ¿qué sigue?"
+ mem_lotc.35a.response:0 "No lo sé. Soy viejo. He sobrevivido mil veces más de lo que tenía derecho. Mi cápsula de estasis ha prolongado mi vida, pero incluso tiene sus límites. Estoy subiendo mi nave. Quiero que la tengas. Aunque sé muy poco sobre tu especie, puedo ver que estás destinado a la grandeza. Al final, quiero que los Carcharorion sean recordados por algo. He mejorado mi nave muchas veces. Era la nave insignia de mis fuerzas. Úsala para marcar la diferencia."
+ mem_lotc.35b:0 "¿Qué pasó con tu gente?"
+ mem_lotc.35b.response:0 "Éramos una gran civilización, no muy diferente a la tuya. Mirábamos al cielo y soñábamos con encontrar nuestro lugar allí. Sin embargo, no tuvimos suerte. Parece trivial ahora, pero no pudimos superar la barrera de la luz. Nunca pudimos hacer los descubrimientos necesarios, parece. \n\nConfinados a nuestro sistema natal, nos vimos obligados a expandirnos de formas que otros no harían. Aspirábamos a colonizar mundos estériles. Cambiarlos para adaptarlos a nuestras necesidades. Pero no teníamos suficientes recursos. Algunos incluso intentaron construir una nave espacial capaz de sobrevivir a cientos de años de viaje en busca de un nuevo hogar. \n\nA medida que nuestra civilización crecía, también lo hacían sus necesidades. La escasez llevó a la guerra. Nuestro mundo natal ha luchado contra las colonias rebeldes. La rebelión fue sofocada, pero todo lo que habían construido fue destruido. Como último acto de desafío, los supervivientes rebeldes lanzaron varios asteroides al mundo natal. Con nuestras defensas planetarias debilitadas, no pudieron detenerlo. Esta guerra ha reclamado el 99% de nuestra población. \n\nPero no fue el final. Poco antes de la guerra, la fortuna nos sonrió. Parece que nuestro sistema fue visitado por alguna especie alienígena, aunque no llegamos a conocerlos. Una de sus naves se estrelló, dejando restos para que los encontráramos. Esta era una salida del sistema para los supervivientes. \n\nNo conocimos a ninguna civilización avanzada en nuestro tiempo, pero hemos encontrado a muchos primitivos, incluyendo a tu propia especie, creo. Sin embargo, hemos perdido nuestro camino. Muchos se volvieron impulsados por nada más que la voluntad de sobrevivir. Experimentamos con implantes neurales e intentamos reescribir las mentes de otros para albergarnos: Nuestra memoria, nuestra personalidad, nuestra cultura. Si hubiéramos podido, habríamos tomado un planeta, encubiertamente, y reconstruido nuestra sociedad en nuevos cuerpos. Pero fracasamos."
+ mem_lotc.35c:0 "¿Quién eres tú?"
+ mem_lotc.35c.response:0 "Como dije, mi nombre es Bradwyr. Yo era el científico jefe en el proyecto para estudiar la nave alienígena. Cuando reconocimos esta nave como una forma de salvar a nuestra especie, sabíamos que no podía caer en manos de nuestro gobierno o los rebeldes. Saboteamos nuestro trabajo y nos escondimos. Continuamos trabajando en secreto, permitiendo que unos pocos selectos se convirtieran en nuestros benefactores. Al final, teníamos una poderosa nave con capacidades más rápidas que la luz y los planos para hacer más. \n\nCuando llegó la guerra, lideré el esfuerzo de rescate. Sólo salvamos a unos pocos miles. Buscamos reconstruir nuestra civilización, pero al hacerlo nos dividimos una vez más. Creía que nunca deberíamos repetir los errores que el resto de los Carcharorion habían cometido. Haríamos nuestro deber proteger la galaxia. Mis oponentes no estaban de acuerdo. Buscaban sobrevivir a cualquier costo. Nos dividimos y luchamos entre nosotros por segunda vez. Mi lado perdió. \n\nEn mi último ataque, lideré lo que quedaba de nuestras fuerzas en la batalla. Una vez que quedó claro que habíamos perdido, me sumergí en este gigante gaseoso. Pensaron que había estrellado mi nave, pero sólo me escondí."
+ mem_lotc.35d:0 "¿El último? Lamento que hayamos matado al resto."
+ mem_lotc.35d.response:0 "No te halagues a ti mismo. Los Carcharorion estaban muertos mucho antes de que alcanzaras las estrellas. Con lo que luchaste fueron meras cáscaras - cadáveres mutilados impulsados por implantes neurales crudos. Ecos digitales desvanecidos. Sólo fantasmas del pasado."
+
+ 
+ mem_lotc.36.name:0 "El Legado de los Carcharorion"
+ mem_lotc.36.desc:0 "Una nave masiva ha emergido de la superficie del gigante gaseoso. No estamos detectando ninguna señal de vida en su interior. Parece que la nave es nuestra para tomar."
+ mem_lotc.36a:0 "Esta nave nos servirá bien."
+ mem_lotc.36a.phile:0 "Los Carcharorion no serán olvidados."
+ mem_lotc.36a.phobe:0 "Su especie ha fallado la prueba del tiempo."
+ mem_lotc.36a.mat:0 "Su conocimiento será bien utilizado."
+ mem_lotc.36a.sp:0 "La providencia nos ha llevado a ellos."
+ mem_lotc.36a.mil:0 "Saludamos a los orgullosos Carcharorion."
+ mem_lotc.36a.pac:0 "No cometeremos los mismos errores que ellos."
+ mem_lotc.36.tooltip:0 "Acorazado §YEtifeddiaeth ac Adennill§! ubicado en §Y[mem_lotc_final.GetName]§! estará disponible para nuestro uso."
+ 
+ #MODIFIERS
+ mem_lotc_reward_ship:0 "Legado de los Carcharorion"
+ mem_lotc_wear_and_tear:0 "Desgaste y Rotura" #No está destinado a ser visto

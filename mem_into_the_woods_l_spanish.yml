@@ -1,0 +1,35 @@
+﻿# Into the Woods
+# By ViolentBeetle
+
+l_spanish:
+
+ mem_into_the_woods_beacon: "Balizas de Cuarentena"
+ mem_into_the_woods_beacon_desc: "Los satélites que orbitan el planeta transmiten un mensaje simple y claro: §S\"No aterricen. Peligro extremo.\"§!"
+
+ mem_into_the_woods_dig_site: "En el Bosque"
+ mem_into_the_woods_dig_site_desc: "Varios satélites todavía están en órbita, transmitiendo una advertencia a todos los barcos que pasan para que no aterricen en el planeta.\n\nSe pueden ver edificios en ruinas dispersos por las áreas boscosas del planeta. La naturaleza intentó muy duro reclamarlos pero aún no ha tenido éxito por completo. No se han detectado formas de vida avanzadas allí - quienquiera que construyó esas ciudades se ha ido o ha muerto."
+ mem_into_the_woods.1.name: "La Colonia Qzell"
+ mem_into_the_woods.1.desc: "Los primeros resultados de nuestro sitio de excavación en [From.Planet.GetName] están llegando. Parece que el [From.Planet.GetPlanetMoon] fue colonizado por una especie de reptiles conocida como §SQzell§! que estuvo activa en esta región del espacio hace unos 1000 años.\n\nLa colonia en sí estaba en sus primeras etapas de desarrollo cuando fue abandonada abruptamente. No hay evidencia de ataque o desastre de ningún tipo - es como si un día la colonia Qzell simplemente colapsara sin razón aparente."
+ mem_into_the_woods.2.name: "Estudios de Impacto"
+ mem_into_the_woods.2.desc: "[Leader.GetName] ha localizado un núcleo de datos intacto y pudo recuperar un informe de los primeros días de los esfuerzos de colonización de Qzell en [From.Planet.GetName].\n\nLos científicos de Qzell estaban rastreando el impacto ambiental de la construcción, la tala de tierras y la introducción de plantas nativas de su planeta natal. Parece que el impacto que causaron superó significativamente las proyecciones iniciales, con varias especies como \"bloboids\" y \"lungbeetles\" ya amenazadas de extinción."
+ mem_into_the_woods.3.name: "Instalaciones Médicas"
+ mem_into_the_woods.3.desc: "Nuestra expedición en [From.Planet.GetName] ha identificado instalaciones médicas en varios asentamientos coloniales. A juzgar por su aspecto, los Qzell tenían un gran problema con la salud mental de sus colonos. [Leader.GetName] informa sobre extensos registros de alucinaciones idiopáticas, delirios y colapsos nerviosos que la ciencia de Qzell no pudo explicar. No parecía haber nada malo físicamente con los colonos, sin embargo, una cuarta parte de ellos estaban afectados de alguna manera, amenazando el funcionamiento de la colonia."
+ mem_into_the_woods.4.name: "La Locura"
+ mem_into_the_woods.4.desc: "Después de una extensa encuesta de las ruinas de la colonia Qzell en [From.Planet.GetName], parece que la mayoría de los colonos sucumbieron a la psicosis masiva. Aquellos que lograron huir del planeta, lo declararon área de cuarentena, aún ignorantes de la causa y dejando atrás a lunáticos delirantes para que se murieran de hambre o se mataran entre sí.\n\nAquellos que quedaron atrás estaban demasiado ocupados participando en la auto-mutilación y el canibalismo como para registrar adecuadamente algo, aunque algunos dejaron grabaciones semi-coherentes y garabatos en las paredes, refiriéndose a algo llamado el §SCrecimiento Antiguo§! y alabando su majestuosidad. Desafortunadamente, no hay indicación de lo que podría ser el Crecimiento Antiguo, aunque quizás una exploración continua podría arrojar algo de luz sobre ello."
+ mem_into_the_woods.4.a: "Necesitamos averiguar qué era."
+ mem_into_the_woods.5.name: "El Old Growth"
+ mem_into_the_woods.5.desc: "[Leader.GetName] informa que ha logrado descubrir qué era el misterioso §SCrecimiento Antiguo§! que volvió locos a los colonos de Qzell en [From.Planet.GetName] - y de hecho descubriendo sus restos. El [From.Planet.GetPlanetMoon] estaba una vez infestado por un solo superorganismo fungoide que penetró la mayoría de su vegetación, extendiéndose por todas las masas de tierra verdes, conectándolas a través de zarcillos que llegaban bajo los mares. La red neuronal natural poseía una conciencia de algún tipo e intercambiaba datos simbióticamente con otras formas de vida a través de procesos que aún no se comprenden del todo. Aunque su composición genética sugiere que no evolucionó originalmente en [From.Planet.GetName], había pasado millones de años manteniendo una relación simbiótica con la vida nativa.\n\nCuando llegaron los colonos de Qzell, interrumpieron descuidadamente el ecosistema, causando la extinción de algunas de las criaturas más sensibles sintonizadas con el Crecimiento Antiguo. A su vez, el Crecimiento Antiguo dirigió su atención a los recién llegados, tratando de descargar su conocimiento acumulado sobre ellos, pero por alguna razón los Qzell no fueron tan receptivos como las formas de vida nativas. La interferencia de los pensamientos enmarañados de un hongo milenario los volvió gradualmente locos, resultando en el colapso de la colonia.\n\nLa única red neuronal biológica del §SCrecimiento Antiguo§! no tenía ninguna capacidad para olvidar nada sin antes transferirlo a otro lugar, y sin un anfitrión adecuado para descargar sus pensamientos y conocimientos excesivos, se sintió abrumado y enfermó. Sus zarcillos se marchitaron y murieron, y lo que queda vivo es un depósito de biomasa relativamente pequeño (aunque aún masivo en comparación con la mayoría de los organismos planetarios) cerca del ecuador. [Leader.GetName] cree que podría ser preservado y nutrido de nuevo a la salud de manera segura, de modo que pueda ser manipulado para intercambiar información de manera segura con nuestra población. O podríamos extinguirlo de una vez por todas."
+ mem_into_the_woods.5.a: "Su conocimiento podría servirnos."
+ mem_into_the_woods.5.b: "¡Tanta sabiduría vasta y antigua no puede permitirse perecer!"
+ mem_into_the_woods.5.c: "¡Nueva mascota! ¡Tan grande! ¡Tan suave y mimoso!"
+ mem_into_the_woods.5.d: "Es demasiado peligroso para existir."
+ mem_into_the_woods.5.e: "No debe permitirse que contamine nuestra pureza"
+ mem_into_the_woods.5.f: "¡Nos deleitaremos con este raro manjar!"
+ mem_into_the_woods.5.g: "Todos los orgánicos pensantes deben ser destruidos."
+  
+ d_mem_into_the_woods_ruins: "Colonia Caída"
+ d_mem_into_the_woods_ruins_desc: "Los restos abandonados de una antigua colonia llenan el planeta. Necesitan ser explorados antes de que alguien pueda trabajar allí de manera segura."
+ mem_into_the_woods_cant_clear_ruin: "Completa el sitio de excavación para despejar este bloqueador"
+ d_mem_into_the_woods_old_growth: "El Old Growth"
+ d_mem_into_the_woods_old_growth_desc: "Un crecimiento fúngico sensible de eones de antigüedad. O lo que queda de él, de todos modos. Aquellos que pasan tiempo cerca de él se llenan de conocimientos antiguos.\n\nMantener una colonia en este planeta permitirá que algunos de nuestros §Slíderes§! comiencen con un §Yrasgo extra§!"
+ mem_into_the_woods_cant_clear_old_growth: "Old Growth es sabio y antiguo. Old Growth no puede ser eliminado."

@@ -1,0 +1,15 @@
+﻿l_spanish:
+ mem_crashed_object_category:0 "Objeto estrellado"
+ mem_crashed_object_category_desc:0 "La exploración de este asteroide ha resultado en que encontramos piezas de un objeto grande esparcidas en su superficie. Esto amerita una investigación más a fondo."
+ 
+ mem_crashed_object.11.name:0 "Sons alienígenas"
+ mem_crashed_object.11.desc:0 "Al inspeccionar más de cerca, el objeto estrellado en la superficie del asteroide resultó ser una sonda alienígena! Junto con la tecnología rudimentaria de recolección solar y recepción y transmisión de radio, la sonda también contiene un disco plano y estriado montado en el lateral. Girar el disco provoca una avalancha de sonidos. [Root.GetLeaderName] cree que es una forma alienígena de música!\n\nDesafortunadamente, esta música no es muy buena, o tal vez está orientada hacia equipos sensoriales de audio muy diferentes a los nuestros. Aún así, un artefacto cultural de una especie completamente diferente... eso es algo, ¿verdad?"
+ mem_crashed_object.11.a:0 "No está tan mal..."
+ 
+ mem_crashed_object.12.name:0 "Cápsula de escape"
+ mem_crashed_object.12.desc:0 "Una expedición enviada para explorar el naufragio en la superficie del asteroide trajo un hallazgo interesante. Parece ser una nave de emergencia, a juzgar por la falta de sistemas de propulsión sustanciales, a bordo de la cual se encontraron varias cápsulas capaces de mantener la suspensión criogénica. La mayoría había sido desmantelada para dar servicio a una única cápsula improvisada, que contenía un ocupante. Aunque los sistemas estaban tensos para mantenerlos con vida, según nuestras mejores estimaciones, el sistema criogénico falló hace más de quinientos años. Poco se puede determinar a partir de los restos desecados de la criatura, ya que la radiación estelar ha esterilizado la mayoría de sus tejidos.\n\nNo todo está perdido, sin embargo, ya que el puro genio inventivo del sistema improvisado ha ayudado a nuestro conocimiento de la mantenibilidad del sistema a largo plazo y la criogenia."
+ mem_crashed_object.12.a:0 "Una lástima que no nos hayamos conocido."
+ 
+ mem_crashed_object.13.name:0 "Truco de la Luz"
+ mem_crashed_object.13.desc:0 "Nuestro escaneo inicial parece haber sido un falso positivo. Los escombros metálicos detectados desde la órbita eran simplemente el brillo del mineral metálico expuesto."
+ mem_crashed_object.13.a:0 "Nunca se pueden tener demasiados minerales, supongo."

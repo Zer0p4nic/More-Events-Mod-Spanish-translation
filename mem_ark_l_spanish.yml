@@ -1,0 +1,66 @@
+﻿#The Ark
+#By ViolentBeetle
+l_spanish:
+ mem_ark_object:0 "Estación Antigua"
+
+ mem_ark.2.name:0 "Rareza Espacial"
+ mem_ark.2.desc:0 "Además de la civilización primitiva que vive allí, algo más sobre §Y[the_planet.GetName]§! ha llamado nuestra atención. \n\nUna estación espacial está orbitando el planeta, mucho más avanzada que cualquier tecnología que los nativos tengan, pero demasiado primitiva para haber sido construida por inteligencia alienígena."
+ mem_ark.2.a:0 "Interesante."
+ mem_ark.2.a.tooltip:0 "Construye un §SPuesto de Observación§! sobre el planeta o conquístalo para averiguar más."
+
+ mem_ark.4.name:0 "Algo que no pertenece"
+ mem_ark.4.desc:0 "Hemos observado §Y[the_planet.GetName]§! durante bastante tiempo y hemos confirmado que los nativos no tienen medios para construir o lanzar una estación espacial. \n\nAlguien más debe haberla construido sobre su mundo."
+ mem_ark.4.a:0 "Necesitamos averiguar más."
+ 
+ #This event uses title and options from .4
+ mem_ark.5.desc:0 "Nuestros colonos en §Y[the_planet.GetName]§! han confirmado la presencia de una estación espacial primitiva en órbita sobre [the_planet.GetPlanetMoon]. \n\nLos [mem_ark_grounders.GetNamePlural] no tenían medios para construir tal estructura, así que la pregunta es - ¿quién lo hizo?"
+
+ MEM_ARK_PROJECT:0 "Investiga la Estación"
+ MEM_ARK_PROJECT_DESC:0 "Una estación sobre §Y[the_planet.GetName]§! parece claramente fuera de lugar, aquellos que podrían haberla construido claramente no son lo suficientemente avanzados."
+
+ mem_ark.100.name:0 "El Arca"
+ mem_ark.100.desc:0 "La estación en órbita de [the_planet.GetName] resulta tener unos 500 años de antigüedad. \n\nPor lo que la tripulación de la [Root.GetName] pudo recoger, el planeta en realidad experimentó una guerra nuclear o un desastre similar aproximadamente en el momento de la construcción de la estación. La especie actualmente conocida como los [mem_ark_grounders.GetNamePlural] son los descendientes de los supervivientes que han sufrido severas mutaciones, mientras que los últimos de la especie original, llamados los [mem_ark_sky_people.GetNamePlural], encontraron refugio en órbita. \n\nLas cápsulas de aterrizaje llenas de cápsulas criogénicas y varios equipos todavía están adjuntas a la estación, esperando su despliegue. Aparentemente, la tripulación de mantenimiento que se suponía que debía lanzarlos se quedó sin suministros y pereció antes de que la superficie fuera considerada habitable. En esta etapa, cualquier intento de manipular la estación aparte de enviar las cápsulas hacia abajo la destruiría."
+ mem_ark.100.a:0 "Lanza las cápsulas."
+ mem_ark.100.a.tooltip:0 "Se añadirá una [mem_ark_sky_people.GetName] £pop  población al planeta de abajo."
+ mem_ark.100.a.delayed:0 "Deberíamos lanzar las cápsulas cuando tengamos el espacio."
+ mem_ark.100.a.delayed.tooltip:0 "Se añadirá un edicto planetario a §Y[the_planet.GetName]§! para liberar las cápsulas una vez que tengas viviendas libres para alojar a una nueva £pop  población."
+ mem_ark.100.b:0 "Mejor no tocar nada."
+ mem_ark.100.c:0 "Cierra todo y estudia la estación."
+ mem_ark.100.d:0 "Hunde la estación, matando a todos los ocupantes de las cápsulas."
+
+ mem_ark.102.name:0 "[the_planet.GetName]: El conocimiento es poder"
+ mem_ark.102.desc:0 "Parece que, después de la tensión inicial entre los nativos [mem_ark_grounders.GetAdj] y los recién llegados [mem_ark_sky_people.GetAdj] en la superficie de §Y[the_planet.GetName]§!, finalmente han logrado una paz duradera. \n\nLos [mem_ark_sky_people.GetNamePlural] deslumbraron a todos con varios gadgets tecnológicos, impresionando a los [mem_ark_grounders.GetNamePlural] de mente científica lo suficiente como para pedirles a los recién llegados que se conviertan en sus nuevos líderes."
+ mem_ark.102.a:0 "Una elección sabia."
+ mem_ark.102.b:0 "Preocupante."
+
+ mem_ark.103.name:0 "[the_planet.GetName]: Superioridad de fuego"
+ mem_ark.103.desc:0 "Después de cierta tensión inicial entre los nativos [mem_ark_grounders.GetAdj] y los recién llegados [mem_ark_sky_people.GetAdj] en la superficie de §Y[the_planet.GetName]§!, el conflicto estalló en una guerra a gran escala. \n\nSin embargo, no importa cuántos guerreros [mem_ark_grounders.GetAdj] asaltaron las posiciones atrincheradas de los recién llegados, no eran rival para las armas de fuego automáticas que los [mem_ark_sky_people.GetNamePlural] trajeron consigo. Finalmente, los nativos no tuvieron más remedio que rendirse y entregar todo el poder a los invasores."
+ mem_ark.103.a:0 "Buen espectáculo."
+ mem_ark.103.b:0 "Pueden convertirse en una amenaza algún día..."
+ mem_ark.103.c:0 "¿Realmente era necesario?"
+
+ mem_ark.104.name:0 "[the_planet.GetName]: Paz y armonía"
+ mem_ark.104.desc:0 "Los [mem_ark_sky_people.GetNamePlural] no tuvieron muchos problemas para integrarse en la sociedad [mem_ark_grounders.GetAdj] en la superficie de §Y[the_planet.GetName]§!. \n\nLa mayoría de ellos parecen estar enamorados de la forma de vida simple y pacífica que los [mem_ark_grounders.GetNamePlural] han desarrollado y no quieren volver al nivel de tecnología que trajo la ruina a su civilización."
+ mem_ark.104.a:0 "Bien por ellos."
+ mem_ark.104.b:0 "Una amenaza menos de la que preocuparse."
+ mem_ark.104.c:0 "Bueno, eso es estúpido."
+
+ mem_ark.105.name:0 "[the_planet.GetName]: Dioses del cielo"
+ mem_ark.105.desc:0 "Parece que los [mem_ark_sky_people.GetNamePlural] tuvieron bastante suerte. La cultura [mem_ark_grounders.GetAdj] presenta la imagen de la especie [mem_ark_sky_people.GetAdj] pre-mutación, mostrada prominentemente como divina o como santos que habitaban un paraíso perdido. \n\nAhora, como los [mem_ark_grounders.GetNamePlural] de repente encontraron tales seres en persona, la mayoría ha jurado lealtad a ellos, llamándolos dioses retornados. La mayoría de los [mem_ark_sky_people.GetNamePlural] parecen estar bastante cómodos con este desarrollo."
+ mem_ark.105.a:0 "¿Qué herejía es esta?!"
+ mem_ark.105.b:0 "Morones, todos ellos."
+ mem_ark.105.c:0 "¿Quiénes somos nosotros para juzgar?"
+
+ #MODIFIERS
+ mem_ark_just_landed:0 "Acaba de aterrizar"
+ mem_ark_background_radiation:0 "Contaminado"
+ mem_ark_background_radiation_desc:0 "El nivel de radiación de este planeta es notablemente elevado. Aunque no es suficiente para hacer la vida imposible, puede hacerla desagradable."
+ mem_ark_station_in_orbit:0 "Estación en órbita"
+ mem_ark_station_in_orbit_desc:0 "Este planeta está orbitado por una estación espacial que es difícil de explicar."
+
+ #EDICT
+ decision_mem_ark_release_pods:0 "Lanzar las cápsulas"
+ decision_mem_ark_release_pods_desc:0 "Las cápsulas de la estación orbital serán liberadas para establecerse en el planeta."
+ mem_ark_need_tile:0 "Necesita vivienda libre en el planeta."
+ mem_ark_edict_tooltip:0 "Se añadirá una £pop  población [mem_ark_sky_people.GetName] al planeta."
+

@@ -1,0 +1,66 @@
+﻿l_spanish:
+ 
+# Initial Event
+mem_lost_robot.1.name:0 "Un Robot Perdido"
+ mem_lost_robot.1.desc:0 "Nuestros administradores en la estación minera de la luna de [Root.GetName] informan que falta un robot modelo 'AL' en el último envío que les enviamos.\n\nNos piden que investiguemos y lo enviemos a la luna para que pueda comenzar su deber de minería."
+ mem_lost_robot.1.accept:0 "Deben estar equivocados. Verifica el manifiesto de entrega."
+ mem_lost_robot.1.deny:0 "Es un solo robot perdido. Se las arreglarán sin él."
+
+# Retrieve the robot
+mem_lost_robot.2.name:0 "Un Robot Perdido"
+ mem_lost_robot.2.desc:0 "Después de revisar el manifiesto de vuelo y el recibo, parece que realmente hay un robot perdido en el último envío.\n\nVemos dos opciones aquí. O bien se ha dejado en algún lugar en el espacio de carga que se utilizó para enviarlo a la luna, o nunca ha dejado el planeta y todavía está en algún lugar de la fábrica que lo produjo."
+ mem_lost_robot.2.cargo:0 "Revisa la bodega de carga espacial."
+ mem_lost_robot.2.factory:0 "Revisa las existencias de la fábrica."
+
+# Check the cargo - Delayed
+mem_lost_robot.10.name:0 "Nada en la Carga"
+ mem_lost_robot.10.desc:0 "Desafortunadamente, el robot no estaba en la nave de carga. Aún peor, perdimos bastante tiempo durante esta búsqueda ya que tuvimos que esperar a que la carga regresara de otra entrega.\n\nAhora podríamos intentar revisar la fábrica ya que sabemos que nunca ha estado a bordo de la nave de carga."
+ mem_lost_robot.10.factory:0 "Sí, mira la fábrica."
+ mem_lost_robot.10.abandon:0 "No vale la pena nuestro tiempo. Cancela la búsqueda."
+ 
+# Check the cargo - Normal
+mem_lost_robot.11.name:0 "Nada en la Carga"
+ mem_lost_robot.11.desc.first:0 "Desafortunadamente, el robot no estaba en la nave de carga. Ahora podríamos intentar revisar la fábrica ya que sabemos que nunca ha estado a bordo de la nave de carga."
+ mem_lost_robot.11.desc.second:0 "Desafortunadamente, el robot no estaba en la carga tampoco. Como último recurso, tal vez deberíamos intentar buscar en la superficie de [Root.GetName]. Si el robot de alguna manera ha escapado, todavía podría estar en los alrededores de la fábrica."
+ mem_lost_robot.11.factory:0 "Sí, mira la fábrica."
+ mem_lost_robot.11.planet:0 "Está bien, mira el planeta."
+ mem_lost_robot.11.abandon:0 "No vale la pena nuestro tiempo. Cancela la búsqueda."
+
+# Check the factory
+mem_lost_robot.20.name:0 "Nada en la Fábrica"
+ mem_lost_robot.20.desc.first:0 "Después de mucho tiempo revisando la fábrica en [Root.GetName], estamos seguros de que el robot ya no está allí. Es posible que se haya olvidado en el espacio de carga, así que tal vez deberíamos buscar allí."
+ mem_lost_robot.20.desc.second:0 "Después de mucho tiempo revisando la fábrica en [Root.GetName], podemos estar seguros de que el robot ya no está allí. Como último recurso, tal vez deberíamos intentar buscar en la superficie de [Root.GetName]. Si el robot de alguna manera ha escapado, todavía podría estar en los alrededores de la fábrica."
+ mem_lost_robot.20.cargo:0 "Ok, investiga la carga."
+ mem_lost_robot.20.planet:0 "Bien. Revisa la superficie del planeta."
+ mem_lost_robot.20.abandon:0 "Deja de desperdiciar recursos. Cancela la búsqueda."
+
+# Robot retrieved 
+mem_lost_robot.30.name:0 "Robot Recuperado"
+ mem_lost_robot.30.desc.cargo:0 "Después de revisar el barco de carga de arriba a abajo, finalmente hemos encontrado al robot, que se había quedado atascado en una sala de conserjería después de escapar de la bodega. Lo programaremos para su reprogramación antes de enviarlo a la luna."
+ mem_lost_robot.30.desc.factory:0 "Después de una búsqueda exhaustiva de la inmensa fábrica, hemos encontrado al robot atascado debajo de una cinta transportadora. No sabemos cómo terminó aquí ni por qué dejó su lugar, pero lo programaremos para su reprogramación antes de enviarlo a la luna."
+
+# Disinto fired 
+mem_lost_robot.101.name:0 "Tragedia"
+ mem_lost_robot.101.desc:0 "Finalmente hemos encontrado al robot. Aparentemente, huyó de la fábrica antes de que pudiera ser cargado en el barco de carga que debería haberlo enviado a la luna. Luego se escondió en [Root.GetName] y construyó el equipo de minería, conocido como \"Disinto\", que se suponía que debía hacer en la luna.\n\nDesafortunadamente, una vez activado, ha creado un cráter masivo, causando una destrucción generalizada y matando instantáneamente a la mayoría de la población en el área circundante. A juzgar por el tamaño del cráter, el robot debe haber mejorado el diseño inicial de Disinto para poder entregar tal potencia. El Disinto fue destruido por su activación y aunque el robot en sí ha sobrevivido a la onda de choque, perdió su memoria en el proceso, por lo que no podemos recuperar el plan para este dispositivo de minería mejorado."
+ mem_lost_robot.101.a:0 "Esto es una tragedia."
+ mem_lost_robot_101.tooltip:0 "Se ha creado un cráter masivo en la superficie del planeta, matando a toda la población circundante y destruyendo nuestras instalaciones."
+
+# Robot found with broken disinto
+mem_lost_robot.102.name:0 "Hallazgo Inútil"
+ mem_lost_robot.102.desc.luck:0 "Los lugareños en [Root.GetName] han informado que han visto a un robot solitario en la naturaleza. Siguiendo los informes, hemos encontrado el modelo 'AL' perdido en un claro del bosque. Había perdido completamente la cabeza y aparentemente estaba tratando de construir un dispositivo de minería llamado Disinto, que habría creado un gran cráter en la superficie del planeta. Afortunadamente, llegamos a tiempo para evitar que se activara, evitando así un desastre."
+ mem_lost_robot.102.desc:0 "Después de nuestra extensa búsqueda, finalmente hemos encontrado al robot. Era una unidad que funcionaba mal y que estaba tratando de construir un equipo de minería llamado Disinto en el planeta, en lugar de en la luna, como se suponía que debía hacer. Si se activaba, el dispositivo habría creado un gran cráter en la superficie del planeta. Afortunadamente, el dispositivo estaba tan mal funcionando como su creador, por lo que hemos evitado una posible tragedia."
+ mem_lost_robot.102.a:0 "Deshazlo para material."
+
+# Robot found with working disinto
+mem_lost_robot.103.name:0 "Hallazgo Afortunado"
+ mem_lost_robot.103.desc.luck:0 "Los lugareños en [Root.GetName] han informado que han visto a un robot solitario en la naturaleza. Siguiendo los informes, hemos encontrado el modelo 'AL' perdido en un claro del bosque. También hemos encontrado un Disinto, un dispositivo de minería utilizado en la luna de [Root.GetName] que el robot ha estado construyendo.\n\nDespués de un examen detenido, parece que el robot ha mejorado el diseño de Disinto hasta un punto que no podríamos haber imaginado. Las primeras estimaciones sugieren que el uso de este nuevo diseño podría ayudarnos a aumentar considerablemente nuestra producción de minerales."
+ mem_lost_robot.103.desc:0 "Después de nuestra extensa búsqueda, finalmente hemos encontrado al robot. También hemos encontrado un Disinto, un dispositivo de minería utilizado en la luna de [Root.GetName] que el robot había estado construyendo.\n\nDespués de un examen detenido, parece que el robot ha mejorado el diseño de Disinto hasta un punto que no podríamos haber imaginado. Las primeras estimaciones sugieren que el uso de este nuevo diseño puede ayudarnos a aumentar considerablemente nuestra producción de minerales."
+ mem_lost_robot.103.a:0 "Eso será realmente útil."
+
+ # Modifier
+mem_lost_robot_enhanced_mining:0 "Minería Mejorada"
+ mem_lost_robot_enhanced_mining_desc:0 "El uso del Disinto mejorado ha aumentado nuestra tasa de extracción de minerales."
+
+# Tile Blockers
+d_mem_lost_robot_crater:0 "Cráter Disinto"
+ d_mem_lost_robot_crater_desc:0 "Después de que se activó el Disinto, dejó un cráter masivo y una destrucción generalizada."

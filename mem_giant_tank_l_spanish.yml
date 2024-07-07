@@ -1,0 +1,49 @@
+﻿l_spanish:
+
+# Initial Anomaly Appearance:
+
+ mem_giant_tank_category:0 "Colosos Extraños"
+ mem_giant_tank_category_desc:0 "Nuestro equipo de estudio ha encontrado algunas estructuras gigantescas que parecen haber sido móviles en algún momento del pasado lejano. Están ubicadas en medio de un campo de batalla masivo. Los niveles de radiación parecen ser lo suficientemente bajos como para echar un vistazo más de cerca."
+
+# Anomaly Investigation Fails:
+
+ mem_giant_tank.1.name:0 "Escombros Antiguos"
+ mem_giant_tank.1.desc:0 "Lo que parecía ser un gran descubrimiento se convirtió rápidamente en una gran decepción para nuestros científicos. No encontraron nada más que escombros viejos y ruinas y tuvieron que corregir su declaración anterior."
+ mem_giant_tank.1.a:0 "Entonces sigamos adelante."
+ 
+# Anomaly Investigation Succeeds: 
+ 
+ mem_giant_tank.2.name:0 "Gigantes del Pasado"
+ mem_giant_tank.2.desc:0 "Estos enormes colosos de acero sentados en trono sobre este antiguo campo de batalla son mucho más avanzados de lo que habíamos anticipado que sería la tecnología de esta civilización, a juzgar por su aparentemente inexistente capacidad espacial. Nuestro equipo ha llegado a la conclusión de que esta civilización estaba demasiado ocupada librando guerra contra su propia especie para alcanzar las estrellas.\n\nAlimentados por reactores de fisión nuclear, estos gigantes, que [Root.GetLeaderName] estima que pesan entre 250,000 y 300,000 toneladas, deben haber rodado sobre el campo de batalla como montañas en movimiento. Al principio, [Root.GetSheHe] pensó que habían sido objetivos grandes y vulnerables, hasta que nuestro equipo de ciencia encontró dos generadores de escudo de alta potencia en lo profundo del casco de acero de un gigante. Si las suposiciones de [Root.GetLeaderName] son correctas, podrían no solo haber protegido la Nave Terrestre, como lo llama nuestro equipo, sino también regimientos enteros que se movían a su lado.\n\nHay algunos diseños interesantes que nuestro ejército no puede esperar para tener en sus manos."
+ mem_giant_tank.2.a:0 "Genial. ¡Empecemos!"
+ 
+# Tank Investigation Special Project:
+
+ MEM_GIANT_TANK_INVESTIGATION:0 "Máquinas de Guerra"
+ MEM_GIANT_TANK_INVESTIGATION_DESC:0 "Nuestros Científicos están listos para restaurar estas antiguas máquinas de guerra. Todos los materiales y nuestra ciudad de refugio temporal están en su lugar y el trabajo puede comenzar."
+ 
+# Tank Investigation Complete - Have Two Tanks:
+
+ mem_giant_tank.11.name:0 "Máquinas de Guerra"
+ mem_giant_tank.11.desc:0 "Llevó bastante trabajo restaurar estas antiguas fortalezas móviles. Son mucho más avanzados de lo que habíamos anticipado, y solo entendemos partes de su tecnología. Por lo tanto, no podremos replicar una máquina así y estos dos serán todo lo que obtendremos. Cada uno de ellos necesitará su propia nave de transporte especializada para sacarlo del mundo, pero aparte de esto, todo está listo para la partida."
+ mem_giant_tank.11.a:0 "Excelente."
+ mem_giant_tank.11.a.tooltip:0 "Gana dos ejércitos de Fortaleza Móvil."
+ 
+# Tank Investigation Complete - Neutral:
+
+ mem_giant_tank.12.name:0 "Máquinas Antiguas"
+ mem_giant_tank.12.desc:0 "Nuestro equipo no pudo reparar estas fortalezas móviles. Su tecnología era aún más avanzada de lo que habíamos anticipado y, por lo tanto, nuestros intentos fueron en vano.\n\nQuizás sea para mejor, viendo lo que esta civilización se trajo a sí misma mientras desplegaba tales máquinas de guerra. Sin embargo, hemos hecho algunos descubrimientos bastante interesantes dentro de estos naufragios que mejorarán nuestro conocimiento en ingeniería."
+ mem_giant_tank.12.a:0 "Lamentable. Podríamos haberlos usado."
+ 
+# Tank Investigation Complete - Disaster:
+
+ mem_giant_tank.13.name:0 "Desde la Tumba"
+ mem_giant_tank.13.desc:0 "Uno de nuestros científicos cometió un error trágico al reactivar el sistema informático de una de las fortalezas móviles. Sus antiguos dueños deben haber temido una posible captura enemiga de una de estas máquinas más que cualquier otra cosa, ya que implementaron medidas drásticas en sus sistemas de seguridad. Como nuestros científicos no lograron desactivarlo, el casco y todo nuestro equipo de ciencia desaparecieron en una explosión nuclear. Se han convertido en las últimas víctimas de una guerra interminable."
+ mem_giant_tank.13.a:0 "¡Qué terrible!"
+ 
+# Giant Tank Armies:
+
+ mem_giant_tank_army:0 "Fortaleza Móvil"
+ mem_giant_tank_army_plural:0 "Fortalezas Móviles"
+ mem_giant_tank_army_desc:0 "Una colosal máquina de guerra terrestre con el poder de fuego de un acorazado."
+

@@ -1,0 +1,53 @@
+﻿#Defying Gravity Anomaly
+#By ViolentBeetle
+
+l_spanish:
+
+ #Anomaly
+ mem_defying_gravity_category:0 "Desafiando la Gravedad"
+ mem_defying_gravity_category_desc:0 "Estamos detectando algún tipo de objeto flotando sobre [Root.GetName] a una altitud desde la cual, según nuestra comprensión de la física, debería haberse estrellado en la superficie de [Root.GetPlanetMoon] hace mucho tiempo."
+
+ #Events
+ mem_defying_gravity.100.name:0 "Lecturas Fantasma"
+ mem_defying_gravity.100.desc:0 "Después de una repetida investigación, [Root.GetName] informa que el extraño objeto supuestamente \"flotando\" sobre [From.GetName] es en realidad el resultado de una lectura incorrecta de los sensores. \n\nAparentemente, la electricidad estática en la atmósfera está desviando nuestras calibraciones, resultando en objetos fantasma que aparecen en algunos escaneos. A pesar de la decepción general, este sigue siendo un fenómeno interesante digno de estudio."
+ mem_defying_gravity.100.a:0 "Un poco anticlimático."
+
+ mem_defying_gravity.200.name:0 "Dirigible Publicitario"
+ mem_defying_gravity.200.desc:0 "[Root.GetName] informa que el misterioso objeto encontrado flotando sobre [From.GetName] es, de hecho, una plataforma brillantemente iluminada, suspendida a través de la antigravedad y transmitiendo lo que parece ser información comercial. \n\nEl análisis preliminar sugiere que la plataforma tiene más de 2000 años. Quien la construyó probablemente está muerto hace mucho tiempo, pero el mensaje sobre su generoso descuento en moochwazarxes permanece eterno."
+ mem_defying_gravity.200.a:0 "¿Qué es un moochwazarx de todos modos?"
+ mem_defying_gravity.200.a.tooltip:1 "Extra $job_culture_worker$ y $job_researcher$ vacantes añadidas a [From.GetName]."
+ mem_defying_gravity.200.burden:1 "¡Qué símbolo depravado de decadencia consumista!"
+ mem_defying_gravity.200.burden.tooltip:1 "No impresionados por la publicidad, no obtendremos trabajos $job_culture_worker$ extra de ella."
+ mem_defying_gravity.200.corp:1 "Deberíamos aprender todo lo que podamos de sus técnicas."
+ mem_defying_gravity.200.corp.tooltip:1 "En comparación con otros, las Megacorporaciones reciben un trabajo $job_culture_worker$ extra de ella."
+ mem_defying_gravity.200.gest:1 "¿Qué es exactamente "publicidad"?"
+
+ mem_defying_gravity.300.name:0 "Asteroide Suspendido"
+ mem_defying_gravity.300.desc:0 "[Root.GetName] informa que el extraño objeto suspendido sobre [From.GetName] es, de hecho, un asteroide completamente mundano. \n\nLa verdadera rareza se encuentra justo debajo de él: un complejo masivo que emite algún tipo de haz que impide que el asteroide caiga sobre la superficie. El complejo parece ser completamente autónomo y no se han detectado otros signos de vida avanzada en el planeta."
+ mem_defying_gravity.300.a:0 "¿Quién lo construyó aquí? ¿Y por qué?"
+ mem_defying_gravity.300.a.tooltip:0 "$d_mem_defying_gravity_field_generator_deposit$"
+
+ mem_defying_gravity.301.name:0 "Desuspendido"
+ mem_defying_gravity.301.desc:0 "Debido a la desactivación del $d_mem_defying_gravity_field_generator_deposit$ en [Root.GetName], el asteroide sobre él continuó su viaje sin impedimentos y se estrelló contra el planeta, dejando un cráter masivo."
+ mem_defying_gravity.301.a:0 "Vaya..."
+ mem_defying_gravity.301.a.tooltip:0 "La superficie de [Root.GetName] obtienes un nuevo £blocker Crater."
+
+ mem_defying_gravity.400.name:0 "Sombra del Mar"
+ mem_defying_gravity.400.desc:0 "[Root.GetName] informa algo verdaderamente extraño. \n\nParece que el objeto suspendido sobre [From.GetName] no es un objeto en absoluto. \n\nEs, de hecho, una ilusión óptica causada por un "mar" plano de partículas exóticas que cubren partes del planeta. De alguna manera eso crea una esfera ilusoria flotando sobre la mayor concentración de dichas partículas. \n\nLas partículas exóticas en sí mismas no deberían impedir la vida en la superficie pero probablemente proporcionarán una gran cantidad de datos sobre varias formas de materia exótica."
+ mem_defying_gravity.400.a:0 "Esto definitivamente justifica un estudio."
+
+ #Modifiers
+ mem_defying_gravity_strange_thing:0 "Sombra del Mar"
+ mem_defying_gravity_strange_thing_desc:0 "El planeta está lleno de regiones cubiertas con materia exótica, reflejándose en el cielo como una bola gigante."
+
+ static_planet_resource_society_research_add:0 "Investigación Social Mensual" #Parece que no hay nada en los archivos vanilla para copiar, pero esto suena bastante bien.
+
+ #Ambient Objects
+ mem_defying_gravity_blimp:0 "Dirigible Publicitario"
+ mem_defying_gravity_asteroid:0 "Asteroide Suspendido"
+
+ #Deposit
+ d_mem_defying_gravity_field_generator_deposit:0 "Generador de Campo de Suspensión"
+ d_mem_defying_gravity_field_generator_deposit_desc:0 "Una misteriosa construcción generando un campo de suspensión dirigido, evitando que un gran asteroide caiga en la superficie. \n\n§REliminarlo probablemente causaría que el asteroide continuara su caída.§!"
+ d_mem_defying_gravity_blimp_deposit:0 "Dirigible Publicitario"
+ d_mem_defying_gravity_blimp_deposit_desc:0 "Una pequeña estación está flotando sobre este planeta, transmitiendo información importante sobre moochwazarxes con descuento."

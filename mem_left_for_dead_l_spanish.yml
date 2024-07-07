@@ -1,0 +1,62 @@
+﻿l_spanish:
+ mem_left_for_dead_category:0 "Entre las Cenizas"
+ mem_left_for_dead_category_desc:0 "[From.GetName] está lleno de los restos de naves caídas, cicatrices de una gigantesca batalla espacial hace mucho tiempo. Los escaneos preliminares de los restos han revelado algo peculiar: Hay una corbeta derribada de origen desconocido, rodeada de defensas automáticas. Dentro del lugar del accidente, parece haber una sola señal de vida."
+
+ #Anomaly Success
+ mem_left_for_dead.1.name:0 "Una Salida Diplomática"
+ mem_left_for_dead.1.desc:0 "Todos los intentos de comunicarse con la firma de vida alienígena de forma remota se encuentran con silencio, por lo que [Root.GetLeaderName] monta una expedición terrestre para investigar la nave abandonada. Con cautela, el equipo entra en el perímetro de seguridad improvisado. Tan pronto como la expedición cruza la frontera, las torretas apuntan sus cañones a [Root.GetLeaderName] y los focos los bañan en luz. Una voz alienígena retumba en el sistema de comunicación.\n\n"URGL'GR VAR NOM GARBLE'GAAR". Las torretas alienígenas comienzan a girar sus cañones mientras [Root.GetLeaderName] intenta traducir apresuradamente el idioma alienígena. "HAAG'OM RAG NAA!" Los implantes de traducción de la tripulación se aferran al idioma y comienzan a traducir. "¡Identifíquense! ¿Son soldados de la legión de Marrakesh, o agentes del Concordato de Minervea? ¡Tienen diez segundos para responder!" El alienígena es claramente un rezagado de una guerra olvidada hace mucho tiempo, una guerra que parece creer que todavía se está librando, y está exigiendo una declaración de lealtad!"
+ mem_left_for_dead.1.hive.desc:0 "Todos los intentos de comunicarse con la firma de vida alienígena de forma remota se encuentran con silencio, por lo que montamos una expedición terrestre liderada por [Root.GetLeaderName] para investigar la nave abandonada. Tentativamente, los drones de exploración entran en el perímetro de seguridad improvisado. Tan pronto como la expedición cruza el límite, las torretas apuntan sus cañones a nuestros drones y los focos los bañan en luz. Una voz alienígena retumba en el sistema de comunicación.\n\n"URGL'GR VAR NOM GARBLE'GAAR". Las torretas alienígenas comienzan a girar sus cañones mientras nuestras entidades intentan apresuradamente traducir el idioma alienígena. "HAAG'OM RAG NAA!" Nuestra conciencia finalmente comprende el idioma y comienza a traducir. "¡Identifíquense! ¿Son soldados de la legión de Marrakech, o agentes del Concordato de Minervea? ¡Tienen diez segundos para responder!" El alienígena es claramente una entidad rezagada de una guerra olvidada hace mucho tiempo, una guerra que parece creer que todavía se está librando, y está exigiendo una declaración de lealtad!"
+ #To "A Failure of Diplomacy
+ mem_left_for_dead.1.a:0 "¡Somos agentes del Concordato de Minervea!"
+ mem_left_for_dead.1.b:0 "¡Somos soldados de la Legión de Marrakech!"
+ mem_left_for_dead.1.mil:0 "¡Muere alienígena!"
+ mem_left_for_dead.1.hive_devouring:0 "Somos los [Root.Owner.GetName]. Eres nuestra comida."
+ #To "Peaceful Contact"
+ mem_left_for_dead.1.c:0 "Somos [Root.Owner.GetSpeciesNamePlural]. Venimos en paz."
+ mem_left_for_dead.1.hive:0 "Somos los [Root.Owner.GetName]. La Colmena viene en paz."
+ #To "Deception"
+ mem_left_for_dead.1.phobemil:0 "Venimos, eh, en "paz". (Mentira)"
+ 
+ mem_left_for_dead.10.name:0 "Contacto Pacífico"
+ mem_left_for_dead.10.desc:0 "El perímetro de seguridad se desactiva cuando el equipo expedicionario explica su misión pacífica. Las torretas bajan su velocidad y los focos bajan mientras una figura distante desciende del puente de mando a la superficie.\n\n"Diez mil, seiscientos cuarenta y dos años he defendido a mi pueblo, y protegido nuestro relicario más sagrado. Finalmente llega mi relevo. No los reconozco, alienígenas, pero su misión pacífica es exactamente lo que mi pueblo luchó durante tanto tiempo para lograr. La galaxia de mi época estaba en un estado constante de guerra. No había un solo ser sintiente que no sufriera. Pero algunos de nosotros anhelábamos una existencia más significativa, así que nos atrevimos a ser pacíficos, a gastar nuestros esfuerzos en mejorarnos a nosotros mismos en lugar de destruir a nuestros enemigos. El precio que hemos pagado lo ven ante ustedes - soy el único superviviente de mi venerable pueblo. Si continúan en su misión de adquirir conocimientos para el mejoramiento de su pueblo, entonces nuestro legado puede no ser olvidado. Les confío el mayor logro de mi civilización, la casi erradicación del envejecimiento biológico, a ustedes."\n\nCon esta asombrosa afirmación, el soldado alienígena parece brillar, mientras su cuerpo se desintegra lentamente y es arrastrado por el viento. [Root.GetLeaderName] investiga dentro del puente arruinado de la nave, y regresa con una extraña esfera brillante."
+ 
+ mem_left_for_dead.10.hive.desc:0 "El perímetro de seguridad se desactiva cuando el equipo expedicionario explica nuestra misión pacífica. Las torretas bajan su velocidad y los focos bajan mientras una figura distante desciende del puente de mando a la superficie.\n\n"Diez mil, seiscientos cuarenta y dos años he defendido a mi pueblo, y protegido nuestro relicario más sagrado. Finalmente llega mi relevo. No los reconozco, alienígenas, y su naturaleza me es extraña, pero su misión pacífica es exactamente lo que mi pueblo luchó durante tanto tiempo para lograr. La galaxia de mi época estaba en un estado constante de guerra. No había un solo ser sintiente que no sufriera. Pero algunos de nosotros anhelábamos una existencia más significativa, así que nos atrevimos a ser pacíficos, a gastar nuestros esfuerzos en mejorarnos a nosotros mismos en lugar de destruir a nuestros enemigos. El precio que hemos pagado lo ven ante ustedes - soy el único superviviente de mi venerable pueblo. Si continúan en su misión de adquirir conocimientos para el mejoramiento de su pueblo, entonces nuestro legado puede no ser olvidado. Les confío el mayor logro de mi civilización, la casi erradicación del envejecimiento biológico, a ustedes."\n\nCon esta asombrosa afirmación, el soldado alienígena parece brillar, mientras su cuerpo se desintegra lentamente y es arrastrado por el viento. Nuestros drones investigan dentro del puente arruinado de la nave, y regresan con una extraña esfera brillante."
+ mem_left_for_dead.10.a: "¡Desbloquea los misterios de este artefacto!"
+ mem_left_for_dead.10.spi: "¡Un nuevo relicario sagrado!"
+ mem_left_for_dead.10.b: "¡Véndelo!"
+ 
+ mem_unnatural_lifespan:0 "Extensión de Vida No Natural"
+ mem_new_holy_relic:0 "Nuevo Relicario Sagrado"
+ 
+ mem_left_for_dead.50.name:0 "Un Fracaso de la Diplomacia"
+ mem_left_for_dead.50.desc:0 "Respuesta incorrecta. Las torretas rápidamente desatan corrientes de plasma blanco y caliente, incinerando al equipo expedicionario. No hay supervivientes. La base rápidamente entra en modo de apagado, con las torretas deslizándose bajo el suelo, y la firma de vida alienígena desapareciendo de todos los escaneos."
+ mem_left_for_dead.50.a: "Blástalo desde la órbita y recupera los escombros."
+ mem_left_for_dead.50.b: "Investiga los restos a distancia en busca de tecnología utilizable."
+ 
+ mem_left_for_dead.20.name:0 "Engaño"
+ mem_left_for_dead.20.desc:0 "Las torretas giran hacia abajo y desaparecen bajo la superficie, y los focos bajan mientras una figura alienígena desciende del puente de la nave estelar en ruinas. La figura, hablando en un idioma alienígena, se acerca a la expedición, pero se ralentiza al notar la gran cantidad de armamento que llevan los "científicos". La situación se ha convertido en un tenso enfrentamiento, y la expedición espera más órdenes."
+ #To Pyrrhic Victory or Artifact Stolen
+ mem_left_for_dead.20.a:0 "¡Termina con esta farsa. Ataca ahora!"
+ #To Cold War
+ mem_left_for_dead.20.b:0 "Espera tu momento."
+ 
+ mem_left_for_dead.30.name:0 "Victoria Pírrica"
+ mem_left_for_dead.30.desc:0 "La fuerza expedicionaria abre fuego contra el alienígena solitario. [Root.GetLeaderName] logra impactar en el torso del alienígena, pero no antes de que el alienígena logre reactivar el perímetro de seguridad. Las torretas vuelven a aparecer de sus escondites bajo el suelo, y comienzan a desatar corrientes de plasma blanco y caliente. [Root.GetLeaderName] cae, pero el resto de la fuerza logra desactivar las torretas y asegurar el perímetro.\n\nEl cuerpo de [Root.GetLeaderName] es llevado de vuelta a la nave, y el área es saqueada en busca de materiales útiles. Uno de los soldados regresa de la nave en ruinas con un extraño objeto brillante."
+ mem_left_for_dead.30.hive.desc:0 "La fuerza expedicionaria abre fuego contra el alienígena solitario. [Root.GetLeaderName] logra impactar en el torso del alienígena, pero no antes de que el alienígena logre reactivar el perímetro de seguridad. Las torretas vuelven a aparecer de sus escondites bajo el suelo, y comienzan a desatar corrientes de plasma blanco y caliente. Nuestra fuerza logra desactivar las torretas y asegurar el perímetro, pero varios drones, entre ellos [Root.GetLeaderName], son abatidos.\n\nLos cuerpos de los drones caídos son desechados, y el área es saqueada en busca de materiales útiles. Uno de nuestros drones regresa de la nave en ruinas con un extraño objeto brillante."
+ mem_left_for_dead.30.a:0 "¡Maldita sea toda esta expedición! ¡Desmonta el objeto para obtener piezas!"
+ mem_left_for_dead.30.mat:0 "Este objeto puede ser más de lo que parece."
+ 
+ mem_left_for_dead.40.name:0 "Artefacto Robado"
+ mem_left_for_dead.40.desc:0 "Con el elemento sorpresa, la fuerza expedicionaria hace un trabajo rápido del alienígena renegado y sus escasas defensas. Mientras buscan en la nave, uno de los soldados recupera una extraña esfera brillante."
+ mem_left_for_dead.40.hive.desc:0 "Con el elemento sorpresa, la fuerza expedicionaria hace un trabajo rápido del alienígena renegado y sus escasas defensas. Mientras buscan en la nave, uno de nuestros drones recupera una extraña esfera brillante."
+ mem_left_for_dead.40.a:0 "¡Desmóntalo para obtener piezas!"
+ mem_left_for_dead.40.mat:0 "Este objeto puede ser más de lo que parece."
+ 
+ mem_left_for_dead.60.name:0 "Guerra Fría"
+ mem_left_for_dead.60.desc:0 "Los implantes de traducción de la expedición finalmente captan el idioma alienígena. Él está parloteando sobre una antigua guerra y una reliquia de su pueblo. ¡Suena lucrativo!"
+ mem_left_for_dead.60.a:0 "¡Basta de esto! ¡Ataque!"
+ 
+ #Anomaly Failure
+ mem_left_for_dead.100.name:0 "Fracaso"
+ mem_left_for_dead.100.desc:0 "Tan pronto como [Root.GetLeaderName] comienza a sondear los signos de vida dentro de la nave en ruinas, la base entra en modo de apagado. Las torretas se colapsan en posiciones ocultas bajo el suelo, los focos se apagan, y el único signo de vida desaparece rápidamente. Parecería que este alienígena no quiere ser encontrado."
+ mem_left_for_dead.100.a:0 "Quizás es para mejor."

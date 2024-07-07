@@ -1,0 +1,83 @@
+﻿l_spanish:
+
+ mem_fe.1.name:0 "¿Buscando la Ayuda de los Antiguos?"
+ mem_fe.1.desc:0 "A pesar del enorme progreso que se ha hecho en los últimos siglos, hay algunas enfermedades que los mejores [root.GetSpeciesAdj] médicos no pueden curar. Es la desgracia de [root.GetRulerTitle] [root.GetRulerName] haber sido diagnosticado con una de estas enfermedades. Los médicos están desconcertados por la aparición repentina de [root.leader.GetHisHer] rara condición cerebral degenerativa, que ha dejado a [root.leader.GetHimHer] con apenas meses de vida. Sin embargo, existen sociedades tan avanzadas que lo que sería un milagro para nuestro pueblo es un hecho común de la vida para ellos. Sociedades, donde incluso enfermedades como esta son erradicadas. Sin embargo, llamar su atención sobre uno mismo puede ser arriesgado, ya que su estado de ánimo es impredecible y su ira terrible. Sin embargo, tal vez los Antiguos estarían dispuestos a salvar a [root.GetRulerName], si se les ofrece el pago correcto?"
+ mem_fe.1.materialist:0 "Acércate a los [mem_materialist_fe.GetSpeciesNamePlural]."
+ mem_fe.1.spiritualist:0 "Acércate a los [mem_spiritualist_fe.GetSpeciesNamePlural]."
+ mem_fe.1.xenophile:0 "Acércate a los [mem_xenophile_fe.GetSpeciesNamePlural]."
+ mem_fe.1.xenophobe:0 "Acércate a los [mem_xenophobe_fe.GetSpeciesNamePlural]."
+ mem_fe.1.machine:0 "Acércate a los [mem_machine_fe.GetSpeciesNamePlural]."
+ mem_fe.1.no:0 "Es mejor sufrir una muerte natural."
+ mem_fe.1.no.tooltip:0 "Algunos precios simplemente no valen la pena pagar."
+ 
+
+ mem_fe.12.name:0 "Los [mem_xenophobe_fe.GetSpeciesNamePlural] han derribado a nuestro Mensajero"
+ mem_fe.12.desc:0 "Los [mem_xenophobe_fe.GetSpeciesNamePlural] han derribado a nuestro mensajero sin siquiera dignarse a escuchar su mensaje. Podemos asumir que la respuesta es "no"."
+ 
+ mem_fe.15.name:0 "El [mem_fe.GetName] responde"
+ mem_fe.15.desc:0 "Solicitud orgánica de ayuda recibida. Protocolo de custodia 317-2 activado. Mensaje sigue: Todos los orgánicos serán ayudados por nosotros. Envíe al paciente a nuestros mundos, y nosotros §R<<ERROR: BLOQUE DE DATOS CORRUPTO>> <<ERROR: BLOQUE DE DATOS CORRUPTO>>§!. Esperando respuesta."
+ mem_fe.15.A:0 "Gracias, aceptaremos con gusto su ayuda."
+ mem_fe.15.B:0 "En realidad, preferiríamos no..."
+ 
+ mem_fe.16.name:0 "[root.GetRulerTitle] [root.GetRulerName] "curado""
+ mem_fe.16.desc:0 "Boletín de información: Su Gobernante está curado de [root.leader.GetHisHer] males. [root.leader.GetSheHeCap] será libre para vivir el resto de [root.leader.GetHisHer] vida en nuestro Santuario."
+ 
+ 
+ mem_fe.2.name:0 "El [mem_fe.GetName] responde"
+ mem_fe.2.desc.friendly:0 "Ayudaremos a nuestros amigos, por un pequeño precio."
+ mem_fe.2.desc.angry:0 "No ayudamos a mortales menores como tú, [root.GetSpeciesName]."
+ mem_fe.2.desc.change:0 "Te ayudaremos si cambias tus formas, [root.GetSpeciesName]."
+ mem_fe.2.desc.pay:0 "Te ayudaremos, [root.GetSpeciesName], a un precio."
+ mem_fe.2.change:0 "Haré lo que deba hacerse."
+ mem_fe.2.pay:0 "Con gusto pagaré este precio por la supervivencia."
+ mem_fe.2.friendly:0 "$mem_fe.2.pay$"
+ mem_fe.2.nopay:0 "El precio es demasiado alto - sufriré una muerte mortal."
+
+mem_paying_spirFE:0 "Pagar Imperio Caído"
+mem_paying_friendly_spirFE:0 "$mem_paying_spirFE$"
+mem_paying_xenoFE:0 "$mem_paying_spirFE$"
+mem_paying_friendly_xenoFE:0 "$mem_paying_spirFE$"
+mem_paying_matFE:0 "$mem_paying_spirFE$"
+mem_paying_friendly_matFE:0 "$mem_paying_spirFE$"
+
+ mem_fe.3.name:0 "[root.GetRulerTitle] [root.GetRulerName] está curado"
+ mem_fe.3.desc:0 "Hemos curado a tu líder. Como signo de nuestro favor por ti, hemos mejorado [root.leader.GetHisHer] habilidades. ¡Que [root.leader.GetSheHe] lo use bien!"
+ mem_fe.3.option.spiritualist:0 "La característica $leader_trait_psionic$ se añade a [root.leader.GetName]."
+ mem_fe.3.option.xenophile:0 "La característica $leader_trait_erudite$ se añade a [root.leader.GetName]."
+ mem_fe.3.option.materialist:0 "La característica $leader_trait_cyborg$ se añade a [root.leader.GetName]."
+ mem_fe.3.option:0 "Gracias por su ayuda. Estamos eternamente en deuda con usted."
+ 
+mem_fe_disturbed_us:0 "Nos perturbó"
+mem_spurned_our_help:0 "Despreció nuestra ayuda"
+mem_sought_our_help:0 "Buscó nuestra ayuda"
+
+mem_fe.4.name:0 "[root.GetRulerTitle] [root.GetRulerName] muere"
+mem_fe.4.desc:0 "La condición cerebral degenerativa de [root.GetRulerTitle] [root.GetRulerName] empeoró repentinamente antes de que los sanadores de [mem_fe.GetName] pudieran mirar a [root.Leader.GetHimHer]."
+ 
+mem_leader_trait_reinvigorated:0 "Rejuvenecido"
+mem_leader_trait_reinvigorated_desc:0 "Este líder se siente joven y fresco de nuevo, habiendo sido curado por los Antiguos."
+ 
+mem_leader_die_soon:0 "[root.GetRulerTitle] [root.GetRulerName] morirá pronto."
+
+#Second chain
+ mem_fe.20.name:0 "Fugitivo de un Imperio Caído"
+ mem_fe.20.desc:0 "Hola, mi [root.GetRulerTitle]. Yo soy... [mem_escaped_scientist.GetName]... tu leal súbdito.\n\n*Risa enloquecida*\n\nRecientemente escapé de [FallenEmpireTaskOrigin.GetName], donde había realizado un estudio detallado de su tecnología. He logrado traer la mayoría de mis materiales conmigo, y creo que puedo replicar varias de sus tecnologías.\n\nAdemás, los [FallenEmpireTaskOrigin.GetSpeciesNamePlural] hicieron algunas... mejoras... en mí. Ahora soy capaz de procesos de pensamiento mucho más allá incluso del mayor genio [root.GetSpeciesAdj]. Puede que me haya vuelto un poco loco, pero no importa eso.\n\n*Risa enloquecida*\n\nEh, debería mencionar, los [FallenEmpireTaskOrigin.GetSpeciesNamePlural] podrían estar un poco molestos conmigo... nada con lo que tú no puedas lidiar, estoy seguro.\n\n *Risa enloquecida*"
+ mem_fe.20.option:0 "Excelente... supongo?"
+ mem_fe.20.tooltip:0 "[mem_escaped_scientist.GetName], un científico de nivel 5 con las características $leader_trait_erudite$, $leader_trait_maniacal$ y $mem_leader_trait_ancient_knowledge$ se añade a la reserva de líderes."
+ 
+ mem_fe.22.name:0 "[mem_escaped_scientist.GetName] es Buscado"
+ mem_fe.22.desc:0 "Estimado [root.GetSpeciesName]. Ha llegado a nuestro conocimiento que estás albergando al criminal demente, [mem_escaped_scientist.GetName]. [mem_escaped_scientist.GetSheHeCap] ha cometido atrocidades inenarrables mientras escapaba de nuestras autoridades con un gran alijo de tecnología peligrosa. Es imperativo que [mem_escaped_scientist.GetSheHe] nos sea devuelto para que [mem_escaped_scientist.GetSheHe] pueda enfrentarse a juicio por [mem_escaped_scientist.GetHisHer] crímenes... y que nos entregues [mem_escaped_scientist.GetHisHer] alijo - por tu propia seguridad. No puede quedar en manos de una raza inmadura."
+ mem_fe.22.A:0 "[mem_escaped_scientist.GetSheHeCap] encontrará refugio con nosotros."
+ mem_fe.22.A.response:0 "Vivirás para arrepentirte de esto, [root.GetSpeciesName]."
+ mem_fe.22.B:0 "Te devolveremos a [mem_escaped_scientist.GetHimHer] y [mem_escaped_scientist.GetHisHer] alijo."
+ mem_fe.22.B.tooltip:0 "[mem_escaped_scientist.GetName] es eliminado de la reserva de líderes."
+ mem_fe.22.B.response:0 "Has tomado la decisión correcta, [root.GetSpeciesName]."
+ mem_fe.22.C:0 "(Mentira) Te devolveremos a [mem_escaped_scientist.GetHimHer]. ¿Pero de qué alijo hablas?"
+ mem_fe.22.C.tooltip:0 "$mem_fe.22.B.tooltip$ Los [root.GetName] confiscarán en secreto el alijo de tecnologías de [mem_escaped_scientist.GetName]:"
+ mem_fe.22.C.response:0 "Cuidado, [root.GetSpeciesName]. Estás jugando con fuego."
+ 
+
+mem_leader_trait_ancient_knowledge:0 "Conocimiento Antiguo"
+mem_leader_trait_ancient_knowledge_desc:0 "Este científico ha visto de primera mano el funcionamiento de un Imperio Caído y tiene un alijo de tecnologías antiguas que está empeñado en reproducir."
+ 
+CCREMOVERULER.tooltip:0 "[root.GetRulerTitle] [root.GetRulerName] es eliminado del juego."

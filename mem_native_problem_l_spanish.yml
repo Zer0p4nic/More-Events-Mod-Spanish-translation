@@ -1,0 +1,34 @@
+﻿#Native Problem
+#By ViolentBeetle
+
+l_spanish:
+ mem_native_problem.2.name:0 "Problema Nativo"
+ mem_native_problem.2.desc:0 "Se han encontrado varios colonos muertos en las afueras de nuestro principal asentamiento en el planeta recién colonizado, §Y[Root.GetName]§!. La causa de la muerte es múltiples disparos de arma de fuego a larga distancia. \n\nNuestras autoridades no han podido identificar al autor hasta ahora, pero están seguros de que ninguno de los colonos estaba en el área de donde se originaron los disparos. El equipo de respuesta enviado al área tampoco pudo encontrar ninguna pista. \n\nCon las investigaciones concluyendo de manera inconclusa, muchos colonos tienen miedo de salir de sus hogares y las especulaciones están desbocadas: ¿podría ser que [Root.GetName] no estuviera tan deshabitado como pensábamos?"
+ mem_native_problem.2.a:0 "Alarmante."
+ mem_native_problem.2.purifiers:0 "Si hay nativos, solo necesitamos matarlos a todos."
+
+ mem_native_problem.3.name:0 "Mayor Investigación Sobre el Tiroteo"
+ mem_native_problem.3.desc:0 "Las autoridades en §Y[Root.GetName]§! informan que, durante los últimos meses, varios colonos más han perdido la vida debido a misteriosos tiroteos. \n\nSin embargo, también se ha avanzado en la búsqueda de los perpetradores. Al parecer, una extensa red de cavernas de piedra caliza se extiende profundamente bajo tierra, con numerosas entradas difíciles de encontrar dispersas en la naturaleza. Quien sea responsable de los tiroteos se esconde en algún lugar profundo, pero nos llevaría un tiempo considerable despejar toda el área."
+ mem_native_problem.3.a:0 "Solo colapsa todo el sistema."
+ mem_native_problem.3.a.tooltip:0 "Las cavernas se llenarán con explosivos termobáricos en forma gaseosa y se detonarán, enterrando para siempre a quien sea responsable del tiroteo..."
+ mem_native_problem.3.b:0 "Comienza a prepararte para invadir esas cavernas."
+ mem_native_problem.3.b.tooltip:0 "Comenzaremos a preparar una solución para despejar las cavernas. Quien sea responsable de los tiroteos podría ser capturado vivo, pero no hay garantías..."
+ mem_native_problem.3.c:0 "Comienza los preparativos para invadir las cavernas y capturar a los habitantes."
+ mem_native_problem.3.c.tooltip:0 "Una solución no letal llevará §Ssignificativamente más largo§!, pero los tiradores serán capturados vivos."
+
+ mem_native_problem.4.name:0 "El Fin del Tirador"
+ mem_native_problem.4.desc:0 "El misterioso tirador responsable de múltiples muertes en §Y[Root.GetName]§! finalmente ha sido acorralado en lo profundo de las redes de cavernas de piedra caliza por las autoridades y asesinado después de ofrecer una feroz resistencia. \n\nSorprendentemente, el perpetrador resultó ser [Owner.GetSpeciesName], pero no un colonista que se mudó al planeta oficialmente como parte del proyecto de colonización. El desgastado traje de vuelo [the_guy.GetSheHe] que llevaba indica que este era [the_guy.GetName] - un capitán de una pequeña nave privada que desapareció sin dejar rastro hace unos diez años. \n\nEs probable que [the_guy.GetSheHe] estrellara la nave y de alguna manera haya sobrevivido en la superficie del planeta desde entonces. No está del todo claro qué causó que [the_guy.GetHerHim] atacara a los colonos, pero la prolongada exposición en la naturaleza probablemente tuvo un impacto negativo en la cordura de [the_guy.GetHerHis]."
+ mem_native_problem.4.a:0 "Una historia trágica."
+
+ mem_native_problem.5.name:0 "ARRESTO DEL TIRADOR"
+ mem_native_problem.5.desc:0 "El misterioso tirador responsable de múltiples muertes en §Y[Root.GetName]§! finalmente ha sido acorralado en lo profundo de las redes de cavernas de piedra caliza por las autoridades. Después de un breve enfrentamiento, [the_guy.GetSheHe] fue sometido y detenido. \n\nSorprendentemente, el perpetrador resultó ser [Owner.GetSpeciesName], pero no un colonista que se mudó al planeta oficialmente como parte del proyecto de colonización. El desgastado traje de vuelo [the_guy.GetSheHe] que llevaba indica que este era §Y[the_guy.GetName]§! - un capitán de una pequeña nave privada que desapareció sin dejar rastro hace unos diez años. \n\nDespués de que los médicos lograron devolver a [the_guy.GetHerHim] a [the_guy.GetHerHis] sentidos, [the_guy.GetSheHe] pudo arrojar luz sobre la historia de [the_guy.GetHerHis]. Un único superviviente del accidente de la nave de [the_guy.GetHerHis] en la superficie del planeta, [the_guy.GetSheHe] ha luchado por sobrevivir desde entonces, pero el aislamiento prolongado, combinado con la dieta de plantas locales menos que seguras para consumir, causó que [the_guy.GetHerHim] desarrollara una variedad de problemas cognitivos. Al ver a los primeros colonos, [the_guy.GetSheHe] solo pudo verlos como monstruos y atacó."
+ mem_native_problem.5.a:0 "Ejecutar a [the_guy.GetHerHim] por traición."
+ mem_native_problem.5.b:0 "Un juicio determinará si [the_guy.GetSheHe] es responsable de las acciones de [the_guy.GetHerHis]."
+ mem_native_problem.5.c:0 "[the_guy.GetSheHeCap] sobrevivió aquí durante 10 años? Podríamos usar esta habilidad."
+ mem_native_problem.5.c.tooltip:0 "§Y[the_guy.GetName]§! se convertirá en un §Sgeneral§! en nuestro imperio."
+
+ mem_native_problem_fear:0 "DOMINADO POR EL MIEDO"
+ mem_native_problem_fear_desc:0 "La población de este planeta vive con miedo a un misterioso tirador. ¡Cualquiera podría ser el próximo objetivo!"
+
+ mem_leader_trait_native_problem_general:0 "SUPERVIVIENTE"
+ mem_leader_trait_native_problem_general_desc:0 "Este líder ha pasado más de una década solo en un planeta distante y sabe una o dos cosas sobre la supervivencia."
